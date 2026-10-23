@@ -152,13 +152,17 @@
     })
       .then((r) => r.json())
       .then((res) => {
-        if (res.status === 'ok') {
-          btn.textContent = 'Download PDF ✓';
+        if ((res.status === 'ok' || res.status === 'warning') && res.download_url) {
+          btn.textContent = res.status === 'warning' ? 'Download PDF ⚠' : 'Download PDF ✓';
           btn.style.pointerEvents = '';
           btn.href = res.download_url;
+          if (res.problems && res.problems.length) {
+            btn.title = 'Build notes: ' + res.problems.join(', ');
+          }
           window.open(res.download_url, '_blank');
         } else {
-          alert('Tailoring failed: ' + (res.error || 'Unknown error'));
+          const msg = res.error || (res.problems && res.problems.join(', ')) || 'Could not build résumé';
+          alert('Tailoring failed: ' + msg);
           btn.textContent = 'Tailor résumé';
           btn.style.pointerEvents = '';
         }
