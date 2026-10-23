@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>Job Hub — internships &amp; jobs</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="brand">
+      <h1>Job Hub</h1>
+      <p class="sub" id="updated">Loading listings…</p>
+    </div>
+    <nav class="actions">
+      <a class="btn ghost" id="resumes" target="_blank" rel="noopener">My tailored résumés</a>
+      <a class="btn primary" id="search-btn" target="_blank" rel="noopener"
+         title="Opens a prefilled GitHub issue. Press Create and the search runs (about 2 minutes).">Run new search</a>
+    </nav>
+  </header>
+
+  <div class="tabs" role="tablist">
+    <button role="tab" id="tab-intern" aria-selected="true" data-tab="intern">Internships <span class="count" id="n-intern"></span></button>
+    <button role="tab" id="tab-jobs" aria-selected="false" data-tab="jobs">Jobs <span class="count" id="n-jobs"></span></button>
+  </div>
+
+  <section class="filters" aria-label="Filters">
+    <input id="q" type="search" placeholder="Search company, role or city" aria-label="Search">
+    <div class="chips" id="chips"></div>
+    <div class="row">
+      <label class="toggle" id="uc-wrap"><input type="checkbox" id="uc"> Underclassmen programs only</label>
+      <label class="toggle"><input type="checkbox" id="newonly"> New today</label>
+      <select id="term" aria-label="Term"><option value="">All terms</option></select>
+      <div class="seg" id="seg" hidden>
+        <button data-sec="qualify" aria-pressed="true">Entry-level matches</button>
+        <button data-sec="newgrad" aria-pressed="false">New grad (later)</button>
+      </div>
+    </div>
+    <p class="hint" id="hint"></p><p class="hint">Check enrollment wording: your associate degree ends June 2027; some internships require current bachelor’s enrollment or returning to school. Program directories may describe older cycles.</p>
+  </section>
+
+  <main id="list" aria-live="polite"></main>
+  <button class="btn ghost more" id="more" hidden>Show more</button>
+
+  <footer>
+    <p>Tailor résumé and Run new search open a prefilled GitHub issue in your private <code>job-hub</code> repo. Press
+      <b>Create</b>; the résumé or the refreshed board arrives in a few minutes, and the issue gets a reply with links.
+      Sources: SimplifyJobs and vanshb03 lists, LuisaE underclassmen lists, and the Greenhouse, Lever,
+      Ashby and Amazon job boards.</p>
+  </footer>
+  <script src="config.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
