@@ -39,8 +39,16 @@
           btn.textContent = 'Searching…';
           btn.style.pointerEvents = 'none';
           fetch('/api/search', { method: 'POST' })
-            .then((r) => r.json())
+            .then((r) => {
+              if (!r.ok) {
+                return r.json().catch(() => ({})).then((errData) => {
+                  throw new Error(errData.error || `HTTP ${r.status}`);
+                });
+              }
+              return r.json();
+            })
             .then((s) => {
+              if (s.status !== 'ok') throw new Error(s.error || 'Search returned failure status');
               btn.textContent = 'Refreshed!';
               loadData();
               setTimeout(() => { btn.textContent = origText; btn.style.pointerEvents = ''; }, 2500);
@@ -72,8 +80,8 @@
       (state.tab === 'intern' || r.section === state.sec) &&
       (!state.uc || state.tab !== 'intern' || r.underclass) &&
       (!state.newonly || r.first_seen === today) &&
-      (state.tab !== 'intern' || !state.term || (r.terms || []).includes(state.term)) &&
-      (!state.tags.size || (r.tags || []).some((t) => state.tags.has(t))) &&
+      (state.tab !== 'intern' || !state.term || (r.terms || []).includes(state.term) || (state.uc && r.underclass)) &&
+      (!state.tags.size || (r.tags || []).some((t) => state.tags.has(t)) || (state.uc && r.underclass)) &&
       (!q || `${r.company} ${r.title} ${(r.locations || []).join(' ')}`.toLowerCase().includes(q)));
   }
 
