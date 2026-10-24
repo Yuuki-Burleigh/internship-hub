@@ -146,6 +146,7 @@
   $('list').addEventListener('click', (e) => {
     const btn = e.target.closest('.tailor-btn');
     if (!btn || !state.isLocal) return;
+    if (btn.getAttribute('href')?.startsWith('/download/')) return;
     e.preventDefault();
     const company = btn.dataset.company;
     const title = btn.dataset.title;
