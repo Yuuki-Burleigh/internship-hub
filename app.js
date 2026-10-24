@@ -5,7 +5,7 @@
   const $ = (id) => document.getElementById(id);
   const PAGE = 60;
   const TAGS = ['Network', 'Security', 'Cloud & Infra', 'IT & Support', 'Hardware'];
-  const state = { tab: 'intern', sec: 'qualify', q: '', tags: new Set(), uc: false, newonly: false, term: '', shown: PAGE, isLocal: false };
+  const state = { tab: 'intern', sec: 'qualify', q: '', tags: new Set(), uc: false, dirs: true, newonly: false, term: '', shown: PAGE, isLocal: false };
   const data = { intern: null, jobs: null };
 
   const issueUrl = (title, body) =>
@@ -76,13 +76,18 @@
     if (!src) return [];
     const today = src.meta.generated_at.slice(0, 10);
     const q = state.q.toLowerCase();
-    return src.listings.filter((r) =>
-      (state.tab === 'intern' || r.section === state.sec) &&
-      (!state.uc || state.tab !== 'intern' || r.underclass) &&
-      (!state.newonly || r.first_seen === today) &&
-      (state.tab !== 'intern' || !state.term || (r.terms || []).includes(state.term) || (state.uc && r.underclass)) &&
-      (!state.tags.size || (r.tags || []).some((t) => state.tags.has(t)) || (state.uc && r.underclass)) &&
-      (!q || `${r.company} ${r.title} ${(r.locations || []).join(' ')}`.toLowerCase().includes(q)));
+    return src.listings.filter((r) => {
+      if (state.tab === 'jobs' && r.section !== state.sec) return false;
+      if (state.tab === 'intern') {
+        if (state.uc && !r.underclass) return false;
+        if (!state.dirs && r.program) return false;
+        if (state.term && !(r.terms || []).includes(state.term)) return false;
+      }
+      if (state.newonly && r.first_seen !== today) return false;
+      if (state.tags.size && !(r.tags || []).some((t) => state.tags.has(t))) return false;
+      if (q && !`${r.company} ${r.title} ${(r.locations || []).join(' ')} ${(r.tags || []).join(' ')}`.toLowerCase().includes(q)) return false;
+      return true;
+    });
   }
 
   function card(r) {
@@ -138,7 +143,7 @@
   function setTab(tab) {
     state.tab = tab; state.shown = PAGE;
     for (const b of document.querySelectorAll('[role=tab]')) b.setAttribute('aria-selected', String(b.dataset.tab === tab));
-    $('seg').hidden = tab !== 'jobs'; $('uc-wrap').hidden = tab !== 'intern'; $('term').hidden = tab !== 'intern';
+    $('seg').hidden = tab !== 'jobs'; $('uc-wrap').hidden = tab !== 'intern'; $('dirs-wrap').hidden = tab !== 'intern'; $('term').hidden = tab !== 'intern';
     render();
   }
 
@@ -154,33 +159,46 @@
     btn.textContent = 'Generating PDF…';
     btn.style.pointerEvents = 'none';
 
-    fetch('/api/tailor', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ company, title, url })
-    })
-      .then((r) => r.json())
-      .then((res) => {
-        if ((res.status === 'ok' || res.status === 'warning') && res.download_url) {
-          btn.textContent = res.status === 'warning' ? 'Download PDF ⚠' : 'Download PDF ✓';
-          btn.style.pointerEvents = '';
-          btn.href = res.download_url;
-          if (res.problems && res.problems.length) {
-            btn.title = 'Build notes: ' + res.problems.join(', ');
+    function requestTailor(payload) {
+      fetch('/api/tailor', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload)
+      })
+        .then((r) => r.json().catch(() => ({ status: 'error', error: `HTTP ${r.status}` })))
+        .then((res) => {
+          if ((res.status === 'ok' || res.status === 'warning') && res.download_url) {
+            btn.textContent = res.status === 'warning' ? 'Download PDF ⚠' : 'Download PDF ✓';
+            btn.style.pointerEvents = '';
+            btn.href = res.download_url;
+            if (res.problems && res.problems.length) {
+              btn.title = 'Build notes: ' + res.problems.join(', ');
+            }
+            window.open(res.download_url, '_blank');
+          } else if (res.status === 'needs_jd') {
+            btn.textContent = 'Tailor résumé';
+            btn.style.pointerEvents = '';
+            const pasted = prompt((res.message || 'Could not fetch job description.') + '\n\nPlease paste the job description text:');
+            if (pasted && pasted.trim().length > 50) {
+              btn.textContent = 'Generating PDF…';
+              btn.style.pointerEvents = 'none';
+              requestTailor({ company, title, url, jd: pasted.trim() });
+            }
+          } else {
+            const msg = res.error || (res.problems && res.problems.join(', ')) || 'Could not build résumé';
+            alert('Tailoring failed: ' + msg);
+            btn.textContent = 'Tailor résumé';
+            btn.style.pointerEvents = '';
           }
-          window.open(res.download_url, '_blank');
-        } else {
-          const msg = res.error || (res.problems && res.problems.join(', ')) || 'Could not build résumé';
-          alert('Tailoring failed: ' + msg);
+        })
+        .catch((err) => {
+          alert('Tailoring request error: ' + err.message);
           btn.textContent = 'Tailor résumé';
           btn.style.pointerEvents = '';
-        }
-      })
-      .catch((err) => {
-        alert('Tailoring request error: ' + err.message);
-        btn.textContent = 'Tailor résumé';
-        btn.style.pointerEvents = '';
-      });
+        });
+    }
+
+    requestTailor({ company, title, url });
   });
 
   $('chips').innerHTML = TAGS.map((t) => `<button class="chip" aria-pressed="false" data-tag="${esc(t)}">${esc(t)}</button>`).join('');
@@ -199,6 +217,7 @@
   });
   $('q').addEventListener('input', (e) => { state.q = e.target.value; state.shown = PAGE; render(); });
   $('uc').addEventListener('change', (e) => { state.uc = e.target.checked; state.shown = PAGE; render(); });
+  $('dirs').addEventListener('change', (e) => { state.dirs = e.target.checked; state.shown = PAGE; render(); });
   $('newonly').addEventListener('change', (e) => { state.newonly = e.target.checked; state.shown = PAGE; render(); });
   $('term').addEventListener('change', (e) => { state.term = e.target.value; state.shown = PAGE; render(); });
   $('more').addEventListener('click', () => { state.shown += PAGE; render(); });
