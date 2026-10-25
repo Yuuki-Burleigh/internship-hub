@@ -1,54 +1,54 @@
 {
 "meta": {
-"generated_at": "2026-10-24T17:45:04+00:00",
+"generated_at": "2026-10-25T18:01:25+00:00",
 "sources": {
+"github:vanshb03/New-Grad-2027": "ok: 283 read, 283 kept",
 "greenhouse:tanium": "ok: 70 read, 0 kept",
-"greenhouse:verkada": "ok: 331 read, 5 kept",
-"greenhouse:gitlab": "ok: 239 read, 2 kept",
-"github:vanshb03/New-Grad-2027": "ok: 291 read, 291 kept",
-"greenhouse:samsara": "ok: 283 read, 0 kept",
-"github:vanshb03/Summer2027-Internships": "ok: 808 read, 808 kept",
+"github:vanshb03/Summer2027-Internships": "ok: 689 read, 689 kept",
 "greenhouse:vercel": "ok: 95 read, 0 kept",
-"greenhouse:fastly": "ok: 53 read, 1 kept",
+"greenhouse:gitlab": "ok: 239 read, 2 kept",
 "greenhouse:figma": "ok: 138 read, 0 kept",
+"greenhouse:verkada": "ok: 331 read, 5 kept",
+"greenhouse:fastly": "ok: 53 read, 1 kept",
 "greenhouse:sambanovasystems": "ok: 60 read, 1 kept",
-"greenhouse:neuralink": "ok: 81 read, 7 kept",
-"greenhouse:okta": "ok: 390 read, 0 kept",
 "greenhouse:datadog": "ok: 433 read, 0 kept",
+"greenhouse:okta": "ok: 390 read, 0 kept",
+"greenhouse:neuralink": "ok: 81 read, 7 kept",
 "greenhouse:tenstorrent": "ok: 119 read, 0 kept",
 "greenhouse:coreweave": "ok: 316 read, 14 kept",
-"greenhouse:scaleai": "ok: 171 read, 0 kept",
+"greenhouse:samsara": "ok: 287 read, 0 kept",
 "greenhouse:xai": "ok: 298 read, 1 kept",
+"greenhouse:scaleai": "ok: 171 read, 0 kept",
 "ashby:replit": "ok: 37 read, 0 kept",
 "ashby:lambda": "ok: 99 read, 0 kept",
 "greenhouse:cloudflare": "ok: 454 read, 0 kept",
+"github:SimplifyJobs/Summer2027-Internships": "ok: 2374 read, 2374 kept",
 "ashby:notion": "ok: 140 read, 0 kept",
-"ashby:crusoe": "ok: 349 read, 0 kept",
-"lever:palantir": "ok: 309 read, 9 kept",
-"greenhouse:axon": "ok: 479 read, 0 kept",
-"amazon:network intern": "ok: 4 read, 0 kept",
-"amazon:help desk": "ok: 11 read, 0 kept",
-"amazon:security intern": "ok: 9 read, 1 kept",
-"amazon:IT intern": "ok: 2 read, 0 kept",
-"github:LuisaE/opportunities": "ok: 46 read, 46 kept",
 "amazon:data center technician": "ok: 100 read, 20 kept",
-"ashby:openai": "ok: 796 read, 2 kept",
-"github:SimplifyJobs/New-Grad-Positions": "ok: 2182 read, 2182 kept",
+"amazon:IT intern": "ok: 2 read, 0 kept",
+"amazon:network intern": "ok: 4 read, 0 kept",
+"amazon:security intern": "ok: 9 read, 1 kept",
+"greenhouse:axon": "ok: 479 read, 0 kept",
+"amazon:help desk": "ok: 11 read, 0 kept",
+"github:LuisaE/opportunities": "ok: 46 read, 46 kept",
 "amazon:network technician": "ok: 100 read, 0 kept",
-"amazon:IT support": "ok: 100 read, 7 kept",
-"github:SimplifyJobs/Summer2027-Internships": "ok: 2475 read, 2475 kept",
-"greenhouse:spacex": "ok: 2820 read, 10 kept"
+"amazon:IT support": "ok: 100 read, 6 kept",
+"ashby:crusoe": "ok: 349 read, 0 kept",
+"github:SimplifyJobs/New-Grad-Positions": "ok: 2072 read, 2072 kept",
+"ashby:openai": "ok: 793 read, 2 kept",
+"greenhouse:spacex": "ok: 2819 read, 10 kept",
+"lever:palantir": "ok: 309 read, 9 kept"
 },
 "carried_from_failed_sources": 0,
-"count": 444,
-"new_today": 2
+"count": 427,
+"new_today": 46
 },
 "listings": [
 {
 "section": "newgrad",
 "company": "Citi",
 "title": "New Grad 2027: Technology Analyst, Application Development",
-"url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2027_261004424",
+"url": "https://go.vansh.nyc/Bp",
 "locations": [
 "Tampa, FL"
 ],
@@ -59,19 +59,19 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "b4bd0533a50e",
+"id": "42dfe3e72a6e",
 "tags": [
 "IT & Support"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
 "section": "newgrad",
 "company": "Citi",
 "title": "New Grad 2027: Technology Cyber Security",
-"url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology--Cyber-Security--Full-Time-Analyst--Irving-2027-_26999831",
+"url": "https://go.vansh.nyc/Bq",
 "locations": [
 "Irving, TX"
 ],
@@ -82,12 +82,12 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "7af9f20ad149",
+"id": "fe3d17ab171c",
 "tags": [
 "Security"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
@@ -119,7 +119,7 @@
 "section": "newgrad",
 "company": "Booz Allen",
 "title": "New Grad 2027: Systems Engineer",
-"url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Systems-Engineer_R0252284",
+"url": "https://go.vansh.nyc/Be",
 "locations": [
 "Honolulu, HI",
 "Annapolis Junction, MD",
@@ -140,19 +140,19 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "fbb0367e23db",
+"id": "cfa3a1936c3e",
 "tags": [
 "Cloud & Infra"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
 "section": "newgrad",
 "company": "FNBO",
 "title": "Associate Cloud Engineer",
-"url": "https://firstnational.wd12.myworkdayjobs.com/en-US/fnbocareers/job/Omaha---FN-Tower/Associate-I--Cloud-Engineer--Omaha--NE-_R-20261874",
+"url": "https://go.vansh.nyc/Bk",
 "locations": [
 "Omaha, NE"
 ],
@@ -163,38 +163,62 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "60cca30010eb",
+"id": "94ef0725e515",
 "tags": [
 "Cloud & Infra"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
-"section": "qualify",
-"company": "CoreWeave",
-"title": "Data Center Technician - Douglasville, GA",
-"url": "https://coreweave.com/careers/job?board=coreweave&gh_jid=4724074006",
+"section": "newgrad",
+"company": "Citi",
+"title": "Technology Analyst - Application Development",
+"url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2027_261004424",
 "locations": [
-"Douglasville, GA"
+"Tampa, FL"
 ],
 "posted": "2026-10-23",
 "terms": [],
-"degrees": [],
-"sources": [
-"greenhouse:coreweave"
+"degrees": [
+"Bachelor's"
 ],
-"reqs": {
-"degree": "equivalent ok",
-"years": null
-},
-"id": "5241fc6b0c8e",
+"sources": [
+"SimplifyJobs/New-Grad-Positions"
+],
+"reqs": null,
+"id": "f8105804f401",
 "tags": [
-"Cloud & Infra"
+"IT & Support"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Citi",
+"title": "Technology Cyber Security",
+"url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology--Cyber-Security--Full-Time-Analyst--Irving-2027-_26999831",
+"locations": [
+"Irving, TX"
+],
+"posted": "2026-10-23",
+"terms": [],
+"degrees": [
+"Bachelor's"
+],
+"sources": [
+"SimplifyJobs/New-Grad-Positions"
+],
+"reqs": null,
+"id": "c3f6da849490",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
@@ -393,31 +417,6 @@
 },
 {
 "section": "newgrad",
-"company": "Citi",
-"title": "Technology Analyst - Application Development",
-"url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology--Application-Development--Full-Time-Analyst--Irving---USA--2027_261004387",
-"locations": [
-"Irving, TX"
-],
-"posted": "2026-10-23",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "4317e7c651d1",
-"tags": [
-"IT & Support"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
 "company": "JP Morgan Chase",
 "title": "Pricingdirect Evaluator - Securitized Products Group - Analyst",
 "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803400",
@@ -475,7 +474,7 @@
 "section": "newgrad",
 "company": "Brain Co.",
 "title": "New Grad 2027: AI Security Engineer",
-"url": "https://jobs.ashbyhq.com/brainco/32c4e1c9-ccd1-4dca-a68b-31ad1b868030/application",
+"url": "https://go.vansh.nyc/At",
 "locations": [
 "San Francisco, CA"
 ],
@@ -486,19 +485,19 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "6eea8ff6f5aa",
+"id": "73f52b9cb8bb",
 "tags": [
 "Security"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
 "section": "newgrad",
 "company": "Brain Co.",
 "title": "New Grad 2027: AI Platform Engineer",
-"url": "https://jobs.ashbyhq.com/brainco/4d39773e-f4c3-49c1-87c3-812a9804fb15/application",
+"url": "https://go.vansh.nyc/Av",
 "locations": [
 "San Francisco, CA"
 ],
@@ -509,19 +508,19 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "e9cedf294dc7",
+"id": "719b15f1d26e",
 "tags": [
 "Cloud & Infra"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
 "section": "newgrad",
 "company": "GlobalFoundries",
 "title": "New Grad 2027: AI/ML Systems Engineer",
-"url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineer--2027-New-College-Graduate-_JR-2604163",
+"url": "https://go.vansh.nyc/AA",
 "locations": [
 "Richardson, TX"
 ],
@@ -532,19 +531,19 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "8e66582a6432",
+"id": "92dba3d84e00",
 "tags": [
 "Cloud & Infra"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
 "section": "newgrad",
 "company": "Johns Hopkins Applied Physics Laboratory",
 "title": "New Grad 2027: Cybersecurity Software Engineer - Cyber Concepts",
-"url": "https://careers.jhuapl.edu/jobs/60116?icims=1",
+"url": "https://go.vansh.nyc/AH",
 "locations": [
 "Laurel, MD"
 ],
@@ -555,19 +554,19 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "36d95058c1eb",
+"id": "886ff13a9b2a",
 "tags": [
 "Security"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
 "section": "newgrad",
 "company": "Verily",
 "title": "Cloud Engineer",
-"url": "https://verily.wd1.myworkdayjobs.com/en-US/verily_careers/job/Raleigh-North-Carolina/ATLAS-Software-Engineer_REQ-330",
+"url": "https://go.vansh.nyc/AY",
 "locations": [
 "Raleigh, NC"
 ],
@@ -578,12 +577,47 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "88344b7a1377",
+"id": "d2262e893156",
 "tags": [
 "Cloud & Infra"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Booz Allen",
+"title": "Systems Engineer",
+"url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Systems-Engineer_R0252284",
+"locations": [
+"Honolulu, HI",
+"Annapolis Junction, MD",
+"Colorado Springs, CO",
+"McLean, VA",
+"Rome, NY",
+"Panama City, FL",
+"Charleston, SC",
+"Atlanta, GA",
+"Huntsville, AL",
+"San Diego, CA",
+"El Segundo, CA"
+],
+"posted": "2026-10-22",
+"terms": [],
+"degrees": [
+"Bachelor's"
+],
+"sources": [
+"SimplifyJobs/New-Grad-Positions"
+],
+"reqs": null,
+"id": "b9aee0280ee5",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
@@ -1024,6 +1058,32 @@
 "stale": false
 },
 {
+"section": "qualify",
+"company": "Amazon",
+"title": "IT Support Engineer I",
+"url": "https://www.amazon.jobs/en/jobs/10585120/it-support-engineer-i",
+"locations": [
+"Tulsa, OK"
+],
+"posted": "2026-10-21",
+"terms": [],
+"degrees": [],
+"sources": [
+"amazon:IT support"
+],
+"reqs": {
+"degree": "high school",
+"years": 1
+},
+"id": "2f5ef65ed1fa",
+"tags": [
+"IT & Support"
+],
+"underclass": false,
+"first_seen": "2026-10-23",
+"stale": false
+},
+{
 "section": "newgrad",
 "company": "Brain Co.",
 "title": "AI Platform Engineer New Grad",
@@ -1157,28 +1217,28 @@
 },
 {
 "section": "qualify",
-"company": "Amazon",
-"title": "IT Support Engineer I",
-"url": "https://www.amazon.jobs/en/jobs/10585120/it-support-engineer-i",
+"company": "CoreWeave",
+"title": "Data Center Technician - Douglasville, GA",
+"url": "https://coreweave.com/careers/job?board=coreweave&gh_jid=4723562006",
 "locations": [
-"Tulsa, OK"
+"Douglasville, GA"
 ],
-"posted": "2026-10-21",
+"posted": "2026-10-20",
 "terms": [],
 "degrees": [],
 "sources": [
-"amazon:IT support"
+"greenhouse:coreweave"
 ],
 "reqs": {
-"degree": "high school",
-"years": 1
+"degree": "equivalent ok",
+"years": null
 },
-"id": "2f5ef65ed1fa",
+"id": "6734a118a116",
 "tags": [
-"IT & Support"
+"Cloud & Infra"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
@@ -1381,6 +1441,32 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Johns Hopkins Applied Physics Laboratory",
+"title": "Cybersecurity Software Engineer New Grad - Cyber Concepts",
+"url": "https://careers.jhuapl.edu/jobs/60116?icims=1",
+"locations": [
+"Laurel, MD"
+],
+"posted": "2026-10-19",
+"terms": [],
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"sources": [
+"SimplifyJobs/New-Grad-Positions"
+],
+"reqs": null,
+"id": "db88a2dd09d8",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
@@ -1657,32 +1743,6 @@
 ],
 "reqs": null,
 "id": "577bc7066455",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "Northrop Grumman",
-"title": "Associate / Embedded Software Engineer",
-"url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027--Associate--Embedded-Software-Engineer---Dulles-VA_R10256217",
-"locations": [
-"Dulles, VA"
-],
-"posted": "2026-10-15",
-"terms": [],
-"degrees": [
-"Bachelor's",
-"Master's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "156678189a75",
 "tags": [
 "Hardware"
 ],
@@ -2221,31 +2281,6 @@
 ],
 "reqs": null,
 "id": "f9d958af7ca0",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "General Dynamics",
-"title": "Entry Level Engineer - Embedded Software / Systems",
-"url": "https://careers-gdeb.icims.com/jobs/21062/job?mobile=true&needsRedirect=false",
-"locations": [
-"New London, CT"
-],
-"posted": "2026-10-09",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "078635893405",
 "tags": [
 "Hardware"
 ],
@@ -2971,31 +3006,6 @@
 ],
 "reqs": null,
 "id": "0a1832a733d9",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "General Dynamics Mission Systems",
-"title": "Embedded Software Engineer \u2013 Entry Level",
-"url": "https://careers-gdms.icims.com/jobs/75056/job?mobile=true&needsRedirect=false",
-"locations": [
-"Bloomington, MN"
-],
-"posted": "2026-10-06",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "236eaa38e1af",
 "tags": [
 "Hardware"
 ],
@@ -3846,32 +3856,6 @@
 "stale": false
 },
 {
-"section": "qualify",
-"company": "OpenAI",
-"title": "Dedicated Support Engineer - San Francisco",
-"url": "https://jobs.ashbyhq.com/openai/2348230a-295f-434d-9b16-653e01ddbd0b",
-"locations": [
-"San Francisco, United States"
-],
-"posted": "2026-09-24",
-"terms": [],
-"degrees": [],
-"sources": [
-"ashby:openai"
-],
-"reqs": {
-"degree": "not mentioned",
-"years": null
-},
-"id": "9b90d4b7db5b",
-"tags": [
-"IT & Support"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
 "section": "newgrad",
 "company": "Astranis",
 "title": "FPGA Associate",
@@ -3967,6 +3951,32 @@
 "id": "646009a64dae",
 "tags": [
 "Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-23",
+"stale": false
+},
+{
+"section": "qualify",
+"company": "OpenAI",
+"title": "Dedicated Support Engineer - San Francisco",
+"url": "https://jobs.ashbyhq.com/openai/2348230a-295f-434d-9b16-653e01ddbd0b",
+"locations": [
+"San Francisco, United States"
+],
+"posted": "2026-09-24",
+"terms": [],
+"degrees": [],
+"sources": [
+"ashby:openai"
+],
+"reqs": {
+"degree": "not mentioned",
+"years": null
+},
+"id": "9b90d4b7db5b",
+"tags": [
+"IT & Support"
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
@@ -4360,31 +4370,6 @@
 },
 {
 "section": "newgrad",
-"company": "General Dynamics Mission Systems",
-"title": "Electrical Engineer",
-"url": "https://careers-gdms.icims.com/jobs/74926/job?mobile=true&needsRedirect=false",
-"locations": [
-"Pittsfield, MA"
-],
-"posted": "2026-09-17",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "cba0dc1a8275",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
 "company": "Micron Technology",
 "title": "ASIC Digital Design Engineer New Grad",
 "url": "https://micron.wd1.myworkdayjobs.com/External/job/Minneapolis-MN/New-College-Grad---Engineer--ASIC-Digital-Design_JR112164",
@@ -4402,58 +4387,6 @@
 ],
 "reqs": null,
 "id": "01f9602cb388",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "General Dynamics Mission Systems",
-"title": "ASIC FPGA Engineer",
-"url": "https://careers-gdms.icims.com/jobs/75010/job?mobile=true&needsRedirect=false",
-"locations": [
-"Salt Lake City, UT",
-"Boise, ID"
-],
-"posted": "2026-09-17",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "2cee77e10caa",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "General Dynamics Mission Systems",
-"title": "Embedded Software Engineer",
-"url": "https://careers-gdms.icims.com/jobs/75011/job?mobile=true&needsRedirect=false",
-"locations": [
-"Salt Lake City, UT",
-"Boise, ID"
-],
-"posted": "2026-09-17",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "af465d0fe91a",
 "tags": [
 "Hardware"
 ],
@@ -4822,32 +4755,6 @@
 },
 {
 "section": "newgrad",
-"company": "SRI International",
-"title": "Research Engineer 1 / 2 - Embedded Development Engineer",
-"url": "https://careers-sri.icims.com/jobs/6505/job?mobile=true&needsRedirect=false",
-"locations": [
-"Boulder, CO"
-],
-"posted": "2026-09-11",
-"terms": [],
-"degrees": [
-"Bachelor's",
-"Master's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "916518b9fed4",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
 "company": "MORSE Corp",
 "title": "Electrical R&D Technician",
 "url": "https://boards.greenhouse.io/morsecorp/jobs/7992471003",
@@ -4947,32 +4854,6 @@
 },
 {
 "section": "newgrad",
-"company": "General Dynamics Mission Systems",
-"title": "Systems Engineer - FCSWG Process Master",
-"url": "https://careers-gdms.icims.com/jobs/74801/job?mobile=true&needsRedirect=false",
-"locations": [
-"Pittsfield, MA"
-],
-"posted": "2026-09-10",
-"terms": [],
-"degrees": [
-"Bachelor's",
-"Master's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "4cf199090c06",
-"tags": [
-"Cloud & Infra"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
 "company": "Johns Hopkins Applied Physics Laboratory",
 "title": "Autonomous Systems Computer Engineer - 2027 Graduate",
 "url": "https://careers.jhuapl.edu/jobs/59762?icims=1",
@@ -4992,31 +4873,6 @@
 "id": "44f0b70e8650",
 "tags": [
 "Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "Peraton",
-"title": "Systems Engineer Associate",
-"url": "https://careers-peraton.icims.com/jobs/170471/job?mobile=true&needsRedirect=false",
-"locations": [
-"St. Louis, MO"
-],
-"posted": "2026-09-10",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "2ac4642fe08d",
-"tags": [
-"Cloud & Infra"
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
@@ -5121,32 +4977,6 @@
 "id": "896d0a89f30d",
 "tags": [
 "Cloud & Infra"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "General Dynamics Mission Systems",
-"title": "Systems Engineering Integration & Test Engineer - Tides FPGA - Pie",
-"url": "https://careers-gdms.icims.com/jobs/74794/job?mobile=true&needsRedirect=false",
-"locations": [
-"Scottsdale, AZ"
-],
-"posted": "2026-09-09",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "03aa7af163d7",
-"tags": [
-"Cloud & Infra",
-"Hardware"
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
@@ -5349,32 +5179,6 @@
 ],
 "reqs": null,
 "id": "ca277761180b",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "Rambus",
-"title": "Lead MTS Power Management IC Application and Validation Engineer",
-"url": "https://careers-rambus.icims.com/jobs/23056/job?mobile=true&needsRedirect=false",
-"locations": [
-"San Jose, CA"
-],
-"posted": "2026-09-04",
-"terms": [],
-"degrees": [
-"Bachelor's",
-"Master's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "e35638972ef2",
 "tags": [
 "Hardware"
 ],
@@ -5785,31 +5589,6 @@
 "id": "36ba4acdd7b6",
 "tags": [
 "Cloud & Infra"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "Peraton",
-"title": "Associate Software Engineer - Cyber",
-"url": "https://careers-peraton.icims.com/jobs/170237/job?mobile=true&needsRedirect=false",
-"locations": [
-"Annapolis Junction, MD"
-],
-"posted": "2026-09-01",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "8fab17af1192",
-"tags": [
-"Security"
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
@@ -6646,31 +6425,6 @@
 },
 {
 "section": "newgrad",
-"company": "Marvin",
-"title": "Electrical Engineer 1",
-"url": "https://talent-marvin.icims.com/jobs/10125/job?hub=7&mobile=true&needsRedirect=false",
-"locations": [
-"Warroad, MN"
-],
-"posted": "2026-08-24",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "34399ccf0091",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
 "company": "Procter & Gamble",
 "title": "IT Engineering New Grad - Software, Platform, & Network",
 "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Engineering--Software--Platform----Network----2027-Grads-_R000157918",
@@ -6690,57 +6444,6 @@
 "tags": [
 "Network",
 "IT & Support"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "General Dynamics Mission Systems",
-"title": "Systems Engineer",
-"url": "https://careers-gdms.icims.com/jobs/74470/job?mobile=true&needsRedirect=false",
-"locations": [
-"Pittsfield, MA"
-],
-"posted": "2026-08-21",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "176373f995ec",
-"tags": [
-"Cloud & Infra"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "Susquehanna International Group",
-"title": "Trading System Engineer New Grad",
-"url": "https://careers-sig.icims.com/jobs/11349/job?mobile=true&needsRedirect=false",
-"locations": [
-"Bala Cynwyd, PA"
-],
-"posted": "2026-08-21",
-"terms": [],
-"degrees": [
-"Bachelor's",
-"Master's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "bfeef77628a0",
-"tags": [
-"Cloud & Infra"
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
@@ -7129,31 +6832,6 @@
 "id": "8ff55d654c8a",
 "tags": [
 "Cloud & Infra"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "General Dynamics Mission Systems",
-"title": "Electrical Engineer - Entry Level",
-"url": "https://careers-gdms.icims.com/jobs/74275/job?mobile=true&needsRedirect=false",
-"locations": [
-"Scottsdale, AZ"
-],
-"posted": "2026-08-16",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "12492acf6b16",
-"tags": [
-"Hardware"
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
@@ -8703,6 +8381,29 @@
 "stale": false
 },
 {
+"section": "newgrad",
+"company": "Apple",
+"title": "Cellular Power Optimization Software Engineer, Wireless Technologies & Ecosystems",
+"url": "https://go.vansh.nyc/Ah",
+"locations": [
+"San Diego, CA"
+],
+"posted": "2026-07-31",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "03748739f043",
+"tags": [
+"Network"
+],
+"underclass": false,
+"first_seen": "2026-10-25",
+"stale": false
+},
+{
 "section": "qualify",
 "company": "GitLab",
 "title": "Support Engineer (AMER)",
@@ -8723,29 +8424,6 @@
 "id": "1b0b6e77e9a3",
 "tags": [
 "IT & Support"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "Apple",
-"title": "Cellular Power Optimization Software Engineer, Wireless Technologies & Ecosystems",
-"url": "https://jobs.apple.com/en-us/details/200657382",
-"locations": [
-"San Diego, CA"
-],
-"posted": "2026-07-31",
-"terms": [],
-"degrees": [],
-"sources": [
-"vanshb03/New-Grad-2027"
-],
-"reqs": null,
-"id": "f4c42d67fcea",
-"tags": [
-"Network"
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
@@ -8871,57 +8549,6 @@
 ],
 "reqs": null,
 "id": "d90b539a4245",
-"tags": [
-"IT & Support"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "General Dynamics Mission Systems",
-"title": "Systems Engineer - FCS Auxiliary and Training Systems",
-"url": "https://careers-gdms.icims.com/jobs/73831/job?mobile=true&needsRedirect=false",
-"locations": [
-"Pittsfield, MA"
-],
-"posted": "2026-07-29",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "40638677be8d",
-"tags": [
-"Cloud & Infra"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "qualify",
-"company": "SpaceX",
-"title": "IT Support Technician",
-"url": "https://boards.greenhouse.io/spacex/jobs/8650222002?gh_jid=8650222002",
-"locations": [
-"Canandaigua, NY"
-],
-"posted": "2026-07-29",
-"terms": [],
-"degrees": [],
-"sources": [
-"greenhouse:spacex"
-],
-"reqs": {
-"degree": "high school",
-"years": 1
-},
-"id": "80b4e69b4508",
 "tags": [
 "IT & Support"
 ],
@@ -9864,32 +9491,6 @@
 },
 {
 "section": "newgrad",
-"company": "General Dynamics Mission Systems",
-"title": "Entry Level Infrastructure Hardware Systems Engineer",
-"url": "https://careers-gdms.icims.com/jobs/72936/job?mobile=true&needsRedirect=false",
-"locations": [
-"Pittsfield, MA"
-],
-"posted": "2026-06-04",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "f294f3757acf",
-"tags": [
-"Cloud & Infra",
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
 "company": "ByteDance",
 "title": "Research Scientist - Seed AI Foundation Model Infrastructure",
 "url": "https://jobs.bytedance.com/en/position/7623552015124154629/detail",
@@ -9959,31 +9560,6 @@
 "id": "78668849dc7d",
 "tags": [
 "Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "Apogee Engineering",
-"title": "Junior Systems Engineer",
-"url": "https://careers-apogeeusa.icims.com/jobs/1437/job?mobile=true&needsRedirect=false",
-"locations": [
-"Wright-Patterson AFB, OH"
-],
-"posted": "2026-05-28",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "46e6ae53276d",
-"tags": [
-"Cloud & Infra"
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
@@ -10294,6 +9870,32 @@
 "stale": false
 },
 {
+"section": "qualify",
+"company": "SpaceX",
+"title": "IT Support Technician",
+"url": "https://boards.greenhouse.io/spacex/jobs/8534863002?gh_jid=8534863002",
+"locations": [
+"Hawthorne, CA"
+],
+"posted": "2026-05-04",
+"terms": [],
+"degrees": [],
+"sources": [
+"greenhouse:spacex"
+],
+"reqs": {
+"degree": "high school",
+"years": 1
+},
+"id": "ac34dde4f741",
+"tags": [
+"IT & Support"
+],
+"underclass": false,
+"first_seen": "2026-10-25",
+"stale": false
+},
+{
 "section": "newgrad",
 "company": "The Boeing Company",
 "title": "ASIC/FPGA Verification Engineer Lead - Associate",
@@ -10597,31 +10199,6 @@
 "stale": false
 },
 {
-"section": "newgrad",
-"company": "Peraton",
-"title": "Cloud Software Engineer 1",
-"url": "https://careers-peraton.icims.com/jobs/164003/job?mobile=true&needsRedirect=false",
-"locations": [
-"Odenton, MD"
-],
-"posted": "2026-02-27",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "78ef6954cc7e",
-"tags": [
-"Cloud & Infra"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
 "section": "qualify",
 "company": "Palantir",
 "title": "Defensive Security Analyst",
@@ -10651,7 +10228,7 @@
 "section": "newgrad",
 "company": "Tesla",
 "title": "Robotics Systems Engineer, Optimus",
-"url": "https://www.tesla.com/careers/search/job/256730",
+"url": "https://go.vansh.nyc/y0",
 "locations": [
 "Palo Alto, CA"
 ],
@@ -10662,19 +10239,19 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "f687f6b5754f",
+"id": "9182d66733d7",
 "tags": [
 "Cloud & Infra"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
 "section": "newgrad",
 "company": "Tesla",
 "title": "Software Validation Engineer, AI Platforms",
-"url": "https://www.tesla.com/careers/search/job/255342",
+"url": "https://go.vansh.nyc/xo",
 "locations": [
 "Palo Alto, CA"
 ],
@@ -10685,19 +10262,19 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "f82a4ce47a36",
+"id": "f1ebbbba09fb",
 "tags": [
 "Hardware"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
 "section": "newgrad",
 "company": "Tesla",
 "title": "Backend Software Engineer, IT Data & Analytics",
-"url": "https://www.tesla.com/careers/search/job/253673",
+"url": "https://go.vansh.nyc/w2",
 "locations": [
 "Fremont, CA"
 ],
@@ -10708,19 +10285,19 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "5d059786eb95",
+"id": "90b4cadb9505",
 "tags": [
 "IT & Support"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
 "section": "newgrad",
 "company": "Tesla",
 "title": "Software Security Engineer, Energy Product Software",
-"url": "https://www.tesla.com/careers/search/job/253636",
+"url": "https://go.vansh.nyc/w3",
 "locations": [
 "Palo Alto, CA"
 ],
@@ -10731,19 +10308,19 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "06c550235745",
+"id": "95c537f99ebb",
 "tags": [
 "Security"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
 "section": "newgrad",
 "company": "Tesla",
 "title": "Verification Infrastructure & DevOps Engineer, AI Hardware",
-"url": "https://www.tesla.com/careers/search/job/253221",
+"url": "https://go.vansh.nyc/vk",
 "locations": [
 "Austin, TX",
 "Palo Alto, CA"
@@ -10755,20 +10332,20 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "e8392ea01dde",
+"id": "7eca75581d15",
 "tags": [
 "Cloud & Infra",
 "Hardware"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
 "section": "newgrad",
 "company": "Tesla",
 "title": "Infrastructure & DevOps Engineer, AI Hardware",
-"url": "https://www.tesla.com/careers/search/job/253222",
+"url": "https://go.vansh.nyc/vl",
 "locations": [
 "Austin, TX",
 "Palo Alto, CA"
@@ -10780,20 +10357,20 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "37fc6162e48d",
+"id": "d8a9a26d5077",
 "tags": [
 "Cloud & Infra",
 "Hardware"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
 "section": "newgrad",
 "company": "ByteDance",
 "title": "New Grad 2026: Site Reliability Engineer (Edge Services)",
-"url": "https://joinbytedance.com/search/7540061337369954567",
+"url": "https://go.vansh.nyc/uZ",
 "locations": [
 "San Jose, CA"
 ],
@@ -10804,19 +10381,19 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "c9dc33eaefb7",
+"id": "1db2f1aa77d0",
 "tags": [
 "Cloud & Infra"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
 "section": "newgrad",
 "company": "Tesla",
 "title": "Machine Learning Infrastructure Simulation Engineer, Optimus",
-"url": "https://www.tesla.com/careers/search/job/252374",
+"url": "https://go.vansh.nyc/uL",
 "locations": [
 "Palo Alto, CA"
 ],
@@ -10827,19 +10404,19 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "cfa44fe5a6d7",
+"id": "08200109dec4",
 "tags": [
 "Cloud & Infra"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
 "section": "newgrad",
 "company": "Tesla",
 "title": "Software Integration Engineer, Factory Firmware",
-"url": "https://www.tesla.com/careers/search/job/249467",
+"url": "https://go.vansh.nyc/qY",
 "locations": [
 "Fremont, CA"
 ],
@@ -10850,19 +10427,19 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "be5193b99fc0",
+"id": "fda39dd55004",
 "tags": [
 "Hardware"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
 "section": "newgrad",
 "company": "Tesla",
 "title": "Electrical & Software Engineer, Circuit Board Test Automation",
-"url": "https://www.tesla.com/careers/search/job/249182",
+"url": "https://go.vansh.nyc/qN",
 "locations": [
 "Palo Alto, CA"
 ],
@@ -10873,19 +10450,19 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "946fc5bb6687",
+"id": "ff0b149ee80f",
 "tags": [
 "Hardware"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
 "section": "newgrad",
 "company": "Tesla",
 "title": "Software Engineer, Frontend, AI Infrastructure Engineering & Tools",
-"url": "https://www.tesla.com/careers/search/job/249133",
+"url": "https://go.vansh.nyc/qA",
 "locations": [
 "Palo Alto, CA"
 ],
@@ -10896,19 +10473,19 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "10b925463eda",
+"id": "e345c0affec4",
 "tags": [
 "Cloud & Infra"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
 "section": "newgrad",
 "company": "ByteDance",
 "title": "New Grad 2026: Cloud Network Engineer (Physical Network Infra)",
-"url": "https://joinbytedance.com/search/7538114876280817927",
+"url": "https://go.vansh.nyc/pF",
 "locations": [
 "San Jose, CA"
 ],
@@ -10919,20 +10496,20 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "43963cfc634c",
+"id": "3bcc6ca6c68c",
 "tags": [
 "Network",
 "Cloud & Infra"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
 "section": "newgrad",
 "company": "ByteDance",
 "title": "New Grad 2026: Network Engineer (Physical Network Infra)",
-"url": "https://joinbytedance.com/search/7538109046751463688",
+"url": "https://go.vansh.nyc/pG",
 "locations": [
 "Seattle, WA"
 ],
@@ -10943,19 +10520,19 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "44de91186579",
+"id": "babb42b0ec7b",
 "tags": [
 "Network"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
 "section": "newgrad",
 "company": "Tesla",
 "title": "Software Engineer, Core Infrastructure, AI",
-"url": "https://www.tesla.com/careers/search/job/248409",
+"url": "https://go.vansh.nyc/pI",
 "locations": [
 "Palo Alto, CA"
 ],
@@ -10966,19 +10543,19 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "13a47264bab7",
+"id": "bf1f2ea73030",
 "tags": [
 "Cloud & Infra"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
 "section": "newgrad",
 "company": "Canonical",
 "title": "Software Engineer - Python - Cloud",
-"url": "https://job-boards.greenhouse.io/canonical/jobs/3257589",
+"url": "https://go.vansh.nyc/pU",
 "locations": [
 "Remote"
 ],
@@ -10989,19 +10566,19 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "32fbeebab391",
+"id": "bf67deeb2c57",
 "tags": [
 "Cloud & Infra"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
 "section": "newgrad",
 "company": "Anduril Industries",
 "title": "Air Dominance & Strike - Flight Software Engineer, Embedded C/C++",
-"url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4164476007?gh_jid=4164476007",
+"url": "https://go.vansh.nyc/oW",
 "locations": [
 "Costa Mesa, CA"
 ],
@@ -11012,19 +10589,19 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "10dfefd0e8ec",
+"id": "4ccc9eeb3d6b",
 "tags": [
 "Hardware"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
 "section": "newgrad",
 "company": "Prosidian Consulting",
 "title": "ITSM IT Security Engineer I",
-"url": "https://jobs.smartrecruiters.com/prosidianconsulting/743999691677974",
+"url": "https://go.vansh.nyc/p5",
 "locations": [
 "Washington, DC"
 ],
@@ -11035,20 +10612,20 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "fbb655db98cb",
+"id": "7fe02af0fa43",
 "tags": [
 "Security",
 "IT & Support"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
 "section": "newgrad",
 "company": "ByteDance",
 "title": "New Grad 2026: Network Engineer (Edge Network)",
-"url": "https://jobs.bytedance.com/en/position/7537121677185534216/detail?spread=BSPP2KS",
+"url": "https://go.vansh.nyc/pn",
 "locations": [
 "San Jose, CA"
 ],
@@ -11059,19 +10636,19 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "2a73fca30423",
+"id": "6fe3dd9d5559",
 "tags": [
 "Network"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
 "section": "newgrad",
 "company": "ByteDance",
 "title": "Site Reliability Engineer Graduate [Security Engineering-US]",
-"url": "https://jobs.bytedance.com/en/position/7534838755829696776/detail?spread=BSPP2KS",
+"url": "https://go.vansh.nyc/o7",
 "locations": [
 "San Jose, CA"
 ],
@@ -11082,20 +10659,20 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "684cbe8e5959",
+"id": "958299f39258",
 "tags": [
 "Security",
 "Cloud & Infra"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
 "section": "newgrad",
 "company": "Tesla",
 "title": "Systems Engineer, Collision Avoidance, Autonomy & Robotics",
-"url": "https://www.tesla.com/careers/search/job/247480",
+"url": "https://go.vansh.nyc/oa",
 "locations": [
 "Palo Alto, CA"
 ],
@@ -11106,19 +10683,19 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "b9a1aa9ec775",
+"id": "36e34020a3cc",
 "tags": [
 "Cloud & Infra"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
 "section": "newgrad",
 "company": "Meta",
 "title": "New Grad 2026: Product Security Engineer",
-"url": "https://www.metacareers.com/jobs/609052015548260",
+"url": "https://go.vansh.nyc/nu",
 "locations": [
 "Bellevue, WA",
 "Menlo Park, CA"
@@ -11130,19 +10707,19 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "7f4837cbbde3",
+"id": "8ef62ed9ae0e",
 "tags": [
 "Security"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
 "section": "newgrad",
 "company": "Shopify",
 "title": "Infrastructure Engineers",
-"url": "https://www.shopify.com/careers/infrastructure-engineers_202c9f29-47fa-4b55-8cbb-337eed7d92e2",
+"url": "https://go.vansh.nyc/nn",
 "locations": [
 "Remote"
 ],
@@ -11153,19 +10730,19 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "67e7c0a547dd",
+"id": "970fdacd89f8",
 "tags": [
 "Cloud & Infra"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
 "section": "newgrad",
 "company": "Nuro",
 "title": "New Grad: Software Engineer, Routing",
-"url": "https://www.nuro.ai/careersitem?gh_jid=7066706",
+"url": "https://go.vansh.nyc/m2",
 "locations": [
 "Mountain View, CA"
 ],
@@ -11176,19 +10753,19 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "c5c781f006ba",
+"id": "3d10d09f0a05",
 "tags": [
 "Network"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
 "section": "newgrad",
 "company": "Tesla",
 "title": "Firmware Engineer, Silicon Development",
-"url": "https://www.tesla.com/careers/search/job/244793",
+"url": "https://go.vansh.nyc/l8",
 "locations": [
 "Palo Alto, CA"
 ],
@@ -11199,12 +10776,12 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "b56b3722e345",
+"id": "d301fa3441ab",
 "tags": [
 "Hardware"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
@@ -11238,7 +10815,7 @@
 "section": "newgrad",
 "company": "Qualcomm",
 "title": "Modem Software and System Engineer",
-"url": "https://careers.qualcomm.com/careers/job/446706280712",
+"url": "https://go.vansh.nyc/kY",
 "locations": [
 "San Diego, CA"
 ],
@@ -11249,19 +10826,19 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "c80fe3a25ea7",
+"id": "0b4ff0f12088",
 "tags": [
 "Cloud & Infra"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
 "section": "newgrad",
 "company": "Tesla",
 "title": "Wireless Bluetooth Software Engineer",
-"url": "https://www.tesla.com/careers/search/job/243519",
+"url": "https://go.vansh.nyc/kP",
 "locations": [
 "Palo Alto, CA"
 ],
@@ -11272,19 +10849,19 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "f2eb8a2c39e8",
+"id": "3aba8be85e96",
 "tags": [
 "Network"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
 "section": "newgrad",
 "company": "Apple",
 "title": "Cellular Platform Software Engineer, Embedded Analytics",
-"url": "https://jobs.apple.com/en-us/details/200605754/cellular-platform-software-engineer-embedded-analytics?team=SFTWR",
+"url": "https://go.vansh.nyc/jE",
 "locations": [
 "Sunnyvale, CA"
 ],
@@ -11295,19 +10872,19 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "a9f58dffa2e0",
+"id": "e853260c6e65",
 "tags": [
 "Hardware"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
 "section": "newgrad",
 "company": "Apple",
 "title": "Embedded System Software Engineer",
-"url": "https://jobs.apple.com/en-us/details/200604992/embedded-system-software-engineer?team=SFTWR",
+"url": "https://go.vansh.nyc/jq",
 "locations": [
 "San Diego, CA"
 ],
@@ -11318,19 +10895,19 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "b1e3e448299f",
+"id": "702b3b951ec9",
 "tags": [
 "Hardware"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
 "section": "newgrad",
 "company": "Tesla",
 "title": "Linux Site Reliability Engineer, IT Manufacturing Site Reliability Engineering",
-"url": "https://www.tesla.com/careers/search/job/241276",
+"url": "https://go.vansh.nyc/iv",
 "locations": [
 "Fremont, CA"
 ],
@@ -11341,20 +10918,20 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "e6f57fd1ca10",
+"id": "bd3ec65ead28",
 "tags": [
 "Cloud & Infra",
 "IT & Support"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 },
 {
 "section": "newgrad",
 "company": "Qualcomm",
 "title": "Embedded DSP Software Engineer",
-"url": "https://careers.qualcomm.com/careers/job/446704474013",
+"url": "https://go.vansh.nyc/i2",
 "locations": [
 "San Diego, CA"
 ],
@@ -11365,12 +10942,12 @@
 "vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "f2dfc08a0bfe",
+"id": "3fc597677941",
 "tags": [
 "Hardware"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-25",
 "stale": false
 }
 ]
