@@ -1,49 +1,174 @@
 {
 "meta": {
-"generated_at": "2026-10-25T18:01:25+00:00",
+"generated_at": "2026-10-26T20:15:13+00:00",
 "sources": {
-"github:vanshb03/New-Grad-2027": "ok: 283 read, 283 kept",
+"github:vanshb03/New-Grad-2027": "ok: 568 read, 568 kept",
 "greenhouse:tanium": "ok: 70 read, 0 kept",
-"github:vanshb03/Summer2027-Internships": "ok: 689 read, 689 kept",
-"greenhouse:vercel": "ok: 95 read, 0 kept",
 "greenhouse:gitlab": "ok: 239 read, 2 kept",
-"greenhouse:figma": "ok: 138 read, 0 kept",
-"greenhouse:verkada": "ok: 331 read, 5 kept",
-"greenhouse:fastly": "ok: 53 read, 1 kept",
-"greenhouse:sambanovasystems": "ok: 60 read, 1 kept",
-"greenhouse:datadog": "ok: 433 read, 0 kept",
-"greenhouse:okta": "ok: 390 read, 0 kept",
-"greenhouse:neuralink": "ok: 81 read, 7 kept",
-"greenhouse:tenstorrent": "ok: 119 read, 0 kept",
+"github:vanshb03/Summer2027-Internships": "ok: 1255 read, 1255 kept",
+"greenhouse:figma": "ok: 140 read, 0 kept",
+"greenhouse:okta": "ok: 387 read, 0 kept",
+"greenhouse:vercel": "ok: 93 read, 0 kept",
+"greenhouse:fastly": "ok: 51 read, 1 kept",
 "greenhouse:coreweave": "ok: 316 read, 14 kept",
-"greenhouse:samsara": "ok: 287 read, 0 kept",
-"greenhouse:xai": "ok: 298 read, 1 kept",
-"greenhouse:scaleai": "ok: 171 read, 0 kept",
-"ashby:replit": "ok: 37 read, 0 kept",
+"greenhouse:sambanovasystems": "ok: 62 read, 1 kept",
+"greenhouse:verkada": "ok: 332 read, 5 kept",
+"greenhouse:samsara": "ok: 327 read, 0 kept",
+"greenhouse:neuralink": "ok: 81 read, 7 kept",
+"greenhouse:datadog": "ok: 426 read, 0 kept",
+"greenhouse:tenstorrent": "ok: 121 read, 0 kept",
+"greenhouse:xai": "ok: 304 read, 1 kept",
+"greenhouse:scaleai": "ok: 168 read, 0 kept",
 "ashby:lambda": "ok: 99 read, 0 kept",
-"greenhouse:cloudflare": "ok: 454 read, 0 kept",
-"github:SimplifyJobs/Summer2027-Internships": "ok: 2374 read, 2374 kept",
-"ashby:notion": "ok: 140 read, 0 kept",
-"amazon:data center technician": "ok: 100 read, 20 kept",
-"amazon:IT intern": "ok: 2 read, 0 kept",
+"github:SimplifyJobs/Summer2027-Internships": "ok: 2331 read, 2331 kept",
+"greenhouse:cloudflare": "ok: 457 read, 0 kept",
+"ashby:replit": "ok: 36 read, 0 kept",
+"github:SimplifyJobs/New-Grad-Positions": "ok: 2038 read, 2038 kept",
+"amazon:help desk": "ok: 12 read, 0 kept",
+"amazon:data center technician": "ok: 100 read, 16 kept",
 "amazon:network intern": "ok: 4 read, 0 kept",
-"amazon:security intern": "ok: 9 read, 1 kept",
-"greenhouse:axon": "ok: 479 read, 0 kept",
-"amazon:help desk": "ok: 11 read, 0 kept",
-"github:LuisaE/opportunities": "ok: 46 read, 46 kept",
+"greenhouse:axon": "ok: 478 read, 0 kept",
 "amazon:network technician": "ok: 100 read, 0 kept",
-"amazon:IT support": "ok: 100 read, 6 kept",
-"ashby:crusoe": "ok: 349 read, 0 kept",
-"github:SimplifyJobs/New-Grad-Positions": "ok: 2072 read, 2072 kept",
-"ashby:openai": "ok: 793 read, 2 kept",
-"greenhouse:spacex": "ok: 2819 read, 10 kept",
-"lever:palantir": "ok: 309 read, 9 kept"
+"amazon:IT support": "ok: 100 read, 3 kept",
+"amazon:IT intern": "ok: 2 read, 0 kept",
+"ashby:notion": "ok: 140 read, 0 kept",
+"amazon:security intern": "ok: 9 read, 1 kept",
+"ashby:crusoe": "ok: 348 read, 0 kept",
+"github:LuisaE/opportunities": "ok: 46 read, 46 kept",
+"lever:palantir": "ok: 307 read, 9 kept",
+"ashby:openai": "ok: 790 read, 2 kept",
+"greenhouse:spacex": "ok: 2817 read, 11 kept"
 },
 "carried_from_failed_sources": 0,
-"count": 427,
-"new_today": 46
+"count": 458,
+"new_today": 54
 },
 "listings": [
+{
+"section": "newgrad",
+"company": "Ciena",
+"title": "Software Engineer (Security)",
+"url": "https://go.vansh.nyc/SP",
+"locations": [
+"Atlanta, GA"
+],
+"posted": "2026-10-26",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "5e56ff3774ac",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Westinghouse Electric Company",
+"title": "Hardware Engineer",
+"url": "https://careers.westinghousenuclear.com/job/Warrendale-Hardware-Engineer-OR/1443490900?ats=successfactors",
+"locations": [
+"Cranberry Township, PA"
+],
+"posted": "2026-10-26",
+"terms": [],
+"degrees": [
+"Bachelor's"
+],
+"sources": [
+"SimplifyJobs/New-Grad-Positions"
+],
+"reqs": null,
+"id": "6b281e1c552d",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "qualify",
+"company": "Amazon",
+"title": "Clearable Data Center Technician, ADC InfraOps DCO",
+"url": "https://www.amazon.jobs/en/jobs/10588528/clearable-data-center-technician-adc-infraops-dco",
+"locations": [
+"Aurora, CO"
+],
+"posted": "2026-10-26",
+"terms": [],
+"degrees": [],
+"sources": [
+"amazon:data center technician"
+],
+"reqs": {
+"degree": "high school",
+"years": null
+},
+"id": "faeebe9e4ce7",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "qualify",
+"company": "SpaceX",
+"title": "Executive IT Support Specialist",
+"url": "https://boards.greenhouse.io/spacex/jobs/8908024002?gh_jid=8908024002",
+"locations": [
+"McGregor, TX"
+],
+"posted": "2026-10-26",
+"terms": [],
+"degrees": [],
+"sources": [
+"greenhouse:spacex"
+],
+"reqs": {
+"degree": "equivalent ok",
+"years": 1
+},
+"id": "fdbd45d12d26",
+"tags": [
+"IT & Support"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Northrop Grumman",
+"title": "Associate Embedded Software Engineer",
+"url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Associate-Embedded-Software-Engineer---Morrisville-NC_R10257541",
+"locations": [
+"Morrisville, NC"
+],
+"posted": "2026-10-25",
+"terms": [],
+"degrees": [
+"Bachelor's"
+],
+"sources": [
+"SimplifyJobs/New-Grad-Positions"
+],
+"reqs": null,
+"id": "7b34a95b1814",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
 {
 "section": "newgrad",
 "company": "Citi",
@@ -88,31 +213,6 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-25",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "Oracle",
-"title": "Electrical Engineer 1",
-"url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/348719",
-"locations": [
-"Santa Clara, CA"
-],
-"posted": "2026-10-24",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "dd25563ae27f",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
 "stale": false
 },
 {
@@ -219,32 +319,6 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-25",
-"stale": false
-},
-{
-"section": "qualify",
-"company": "Amazon",
-"title": "Data Center Technician, Data Center Operations",
-"url": "https://www.amazon.jobs/en/jobs/10587491/data-center-technician-data-center-operations",
-"locations": [
-"Plain City, OH"
-],
-"posted": "2026-10-23",
-"terms": [],
-"degrees": [],
-"sources": [
-"amazon:data center technician"
-],
-"reqs": {
-"degree": "high school",
-"years": 1
-},
-"id": "fc8766989faf",
-"tags": [
-"Cloud & Infra"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
 "stale": false
 },
 {
@@ -471,6 +545,32 @@
 "stale": false
 },
 {
+"section": "qualify",
+"company": "Amazon",
+"title": "Data Center Technician, Data Center Operations",
+"url": "https://www.amazon.jobs/en/jobs/10587491/data-center-technician-data-center-operations",
+"locations": [
+"Plain City, OH"
+],
+"posted": "2026-10-23",
+"terms": [],
+"degrees": [],
+"sources": [
+"amazon:data center technician"
+],
+"reqs": {
+"degree": "high school",
+"years": 1
+},
+"id": "fc8766989faf",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-10-23",
+"stale": false
+},
+{
 "section": "newgrad",
 "company": "Brain Co.",
 "title": "New Grad 2027: AI Security Engineer",
@@ -618,32 +718,6 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-25",
-"stale": false
-},
-{
-"section": "qualify",
-"company": "Amazon",
-"title": "Data Center Technician",
-"url": "https://www.amazon.jobs/en/jobs/10586891/data-center-technician",
-"locations": [
-"Wink, TX"
-],
-"posted": "2026-10-22",
-"terms": [],
-"degrees": [],
-"sources": [
-"amazon:data center technician"
-],
-"reqs": {
-"degree": "high school",
-"years": 1
-},
-"id": "b03523fef662",
-"tags": [
-"Cloud & Infra"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
 "stale": false
 },
 {
@@ -981,6 +1055,58 @@
 "stale": false
 },
 {
+"section": "qualify",
+"company": "Amazon",
+"title": "Data Center Technician",
+"url": "https://www.amazon.jobs/en/jobs/10586891/data-center-technician",
+"locations": [
+"Wink, TX"
+],
+"posted": "2026-10-22",
+"terms": [],
+"degrees": [],
+"sources": [
+"amazon:data center technician"
+],
+"reqs": {
+"degree": "high school",
+"years": 1
+},
+"id": "b03523fef662",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-10-23",
+"stale": false
+},
+{
+"section": "qualify",
+"company": "Amazon",
+"title": "Data Center Technician, DCC Communities",
+"url": "https://www.amazon.jobs/en/jobs/10585528/data-center-technician-dcc-communities",
+"locations": [
+"New Carlisle, IN"
+],
+"posted": "2026-10-21",
+"terms": [],
+"degrees": [],
+"sources": [
+"amazon:data center technician"
+],
+"reqs": {
+"degree": "high school",
+"years": 1
+},
+"id": "762edf79e0ea",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
 "section": "newgrad",
 "company": "Leidos",
 "title": "Electrical Design and Integration Engineer",
@@ -1032,58 +1158,6 @@
 "stale": false
 },
 {
-"section": "qualify",
-"company": "Amazon",
-"title": "Data Center Technician, DCC Communities",
-"url": "https://www.amazon.jobs/en/jobs/10585548/data-center-technician-dcc-communities",
-"locations": [
-"New Carlisle, IN"
-],
-"posted": "2026-10-21",
-"terms": [],
-"degrees": [],
-"sources": [
-"amazon:data center technician"
-],
-"reqs": {
-"degree": "high school",
-"years": 1
-},
-"id": "98656def2adf",
-"tags": [
-"Cloud & Infra"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "qualify",
-"company": "Amazon",
-"title": "IT Support Engineer I",
-"url": "https://www.amazon.jobs/en/jobs/10585120/it-support-engineer-i",
-"locations": [
-"Tulsa, OK"
-],
-"posted": "2026-10-21",
-"terms": [],
-"degrees": [],
-"sources": [
-"amazon:IT support"
-],
-"reqs": {
-"degree": "high school",
-"years": 1
-},
-"id": "2f5ef65ed1fa",
-"tags": [
-"IT & Support"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
 "section": "newgrad",
 "company": "Brain Co.",
 "title": "AI Platform Engineer New Grad",
@@ -1103,32 +1177,6 @@
 "id": "7e3b747247f3",
 "tags": [
 "Cloud & Infra"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "Qualcomm",
-"title": "IPS Hardware Support Engineer - Support Engineering",
-"url": "https://qualcomm.eightfold.ai/careers/job/446721663221",
-"locations": [
-"San Diego, CA"
-],
-"posted": "2026-10-21",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "408b19c20584",
-"tags": [
-"IT & Support",
-"Hardware"
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
@@ -1496,32 +1544,6 @@
 "stale": false
 },
 {
-"section": "qualify",
-"company": "Amazon",
-"title": "Data Center Technician, ADC InfraOps DCO",
-"url": "https://www.amazon.jobs/en/jobs/10583227/data-center-technician-adc-infraops-dco",
-"locations": [
-"Culpeper, VA"
-],
-"posted": "2026-10-19",
-"terms": [],
-"degrees": [],
-"sources": [
-"amazon:data center technician"
-],
-"reqs": {
-"degree": "high school",
-"years": null
-},
-"id": "b04cd1c189a7",
-"tags": [
-"Cloud & Infra"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
 "section": "newgrad",
 "company": "GlobalFoundries",
 "title": "AI/ML Systems Engineer New Grad",
@@ -1597,28 +1619,75 @@
 "stale": false
 },
 {
-"section": "newgrad",
-"company": "Faraday Future",
-"title": "SDK Platform Engineer",
-"url": "https://job-boards.greenhouse.io/faradayfuture/jobs/8036218003",
+"section": "qualify",
+"company": "Amazon",
+"title": "Data Center Technician, ADC InfraOps DCO",
+"url": "https://www.amazon.jobs/en/jobs/10583227/data-center-technician-adc-infraops-dco",
 "locations": [
-"El Segundo, CA"
+"Culpeper, VA"
 ],
-"posted": "2026-10-17",
+"posted": "2026-10-19",
 "terms": [],
-"degrees": [
-"Bachelor's"
-],
+"degrees": [],
 "sources": [
-"SimplifyJobs/New-Grad-Positions"
+"amazon:data center technician"
 ],
-"reqs": null,
-"id": "36872d07ff81",
+"reqs": {
+"degree": "high school",
+"years": null
+},
+"id": "b04cd1c189a7",
 "tags": [
 "Cloud & Infra"
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Faraday Future",
+"title": "SDK Platform Engineer",
+"url": "https://go.vansh.nyc/DB",
+"locations": [
+"El Segundo, CA"
+],
+"posted": "2026-10-17",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "3613674ced34",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "AnySignal",
+"title": "Associate Embedded Software Engineer",
+"url": "https://go.vansh.nyc/DD",
+"locations": [
+"Los Angeles, CA"
+],
+"posted": "2026-10-17",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "fb846d74f612",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
 "stale": false
 },
 {
@@ -1728,6 +1797,52 @@
 {
 "section": "newgrad",
 "company": "Micron Technology",
+"title": "Computer Engineer, Central Engineering",
+"url": "https://go.vansh.nyc/De",
+"locations": [
+"Boise, ID"
+],
+"posted": "2026-10-15",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "478e21816d2f",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Micron Technology",
+"title": "Embedded Firmware Engineer",
+"url": "https://go.vansh.nyc/DE",
+"locations": [
+"Boise, ID"
+],
+"posted": "2026-10-15",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "70f5dc62d316",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Micron Technology",
 "title": "Computer Engineer New Grad - Central Engineering",
 "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Computer-Engineer--Central-Engineering_JR115116-1",
 "locations": [
@@ -1828,29 +1943,26 @@
 "stale": false
 },
 {
-"section": "qualify",
-"company": "Amazon",
-"title": "Clearable Data Center Technician, InfraOps AG",
-"url": "https://www.amazon.jobs/en/jobs/10578557/clearable-data-center-technician-infraops-ag",
+"section": "newgrad",
+"company": "KLA",
+"title": "Software Engineer - Embedded Software/Firmware Development - Embedded Image Processing (Master's)",
+"url": "https://go.vansh.nyc/DG",
 "locations": [
-"Aurora, CO"
+"Ann Arbor, MI"
 ],
 "posted": "2026-10-14",
 "terms": [],
 "degrees": [],
 "sources": [
-"amazon:data center technician"
+"vanshb03/New-Grad-2027"
 ],
-"reqs": {
-"degree": "high school",
-"years": 1
-},
-"id": "7cbad371570a",
+"reqs": null,
+"id": "7197ea2f5319",
 "tags": [
-"Cloud & Infra"
+"Hardware"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-26",
 "stale": false
 },
 {
@@ -2053,29 +2165,121 @@
 "stale": false
 },
 {
+"section": "qualify",
+"company": "Amazon",
+"title": "Clearable Data Center Technician, InfraOps AG",
+"url": "https://www.amazon.jobs/en/jobs/10578557/clearable-data-center-technician-infraops-ag",
+"locations": [
+"Aurora, CO"
+],
+"posted": "2026-10-14",
+"terms": [],
+"degrees": [],
+"sources": [
+"amazon:data center technician"
+],
+"reqs": {
+"degree": "high school",
+"years": 1
+},
+"id": "7cbad371570a",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-10-23",
+"stale": false
+},
+{
 "section": "newgrad",
 "company": "Cricut",
 "title": "Firmware Engineer",
-"url": "https://jobs.smartrecruiters.com/Cricut/744000155306769",
+"url": "https://go.vansh.nyc/Dn",
 "locations": [
 "South Jordan, UT"
 ],
 "posted": "2026-10-13",
 "terms": [],
-"degrees": [
-"Bachelor's",
-"Master's"
-],
+"degrees": [],
 "sources": [
-"SimplifyJobs/New-Grad-Positions"
+"vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "806d114e077b",
+"id": "e03e72bf4e4f",
 "tags": [
 "Hardware"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "NVIDIA",
+"title": "SRAM Circuit Design Engineer (Master's)",
+"url": "https://go.vansh.nyc/Dp",
+"locations": [
+"Santa Clara, CA"
+],
+"posted": "2026-10-13",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "7b836a83f7f4",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "NVIDIA",
+"title": "New Grad 2027: ASIC Verification Engineer",
+"url": "https://go.vansh.nyc/Dq",
+"locations": [
+"Santa Clara, CA"
+],
+"posted": "2026-10-13",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "354c7a3751c1",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "NVIDIA",
+"title": "New Grad 2027: Low Power ASIC Engineer",
+"url": "https://go.vansh.nyc/Ds",
+"locations": [
+"Santa Clara, CA"
+],
+"posted": "2026-10-13",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "3b001dc2a344",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
 "stale": false
 },
 {
@@ -2290,6 +2494,29 @@
 },
 {
 "section": "newgrad",
+"company": "NVIDIA",
+"title": "ASIC Clocks Verification Engineer (Master's)",
+"url": "https://go.vansh.nyc/I3",
+"locations": [
+"Santa Clara, CA"
+],
+"posted": "2026-10-09",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "91860572aaa2",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "newgrad",
 "company": "Applied Materials",
 "title": "Systems Engineer",
 "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Systems-Engineer--New-College-Grad--Bachelor-s-Master-s--Santa-Clara--CA-_R2629143",
@@ -2420,32 +2647,6 @@
 },
 {
 "section": "newgrad",
-"company": "Leidos",
-"title": "Entry-Level Electrical Hardware Design Engineer",
-"url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Entry-Level-Electrical-Hardware-Design-Engineer_R-00194096",
-"locations": [
-"Huntsville, AL"
-],
-"posted": "2026-10-08",
-"terms": [],
-"degrees": [
-"Bachelor's",
-"Master's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "f33f1748b80d",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
 "company": "RTX",
 "title": "Embedded Security Software Engineer 1",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-800--1151-E-Hermans-Rd--BLDG-800/Embedded-Security-Software-Engineer-I--Onsite-_01881370",
@@ -2495,6 +2696,53 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Qualcomm",
+"title": "Memory and Cache Controller Design Engineer, ASIC Engineering (Master's)",
+"url": "https://go.vansh.nyc/HN",
+"locations": [
+"San Diego, CA"
+],
+"posted": "2026-10-07",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "a9abaf66312c",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Badger Meter",
+"title": "Firmware Engineer 1",
+"url": "https://go.vansh.nyc/HP",
+"locations": [
+"Milwaukee, WI",
+"Racine, WI"
+],
+"posted": "2026-10-07",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "30bb15010b67",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
 "stale": false
 },
 {
@@ -2622,32 +2870,6 @@
 ],
 "reqs": null,
 "id": "9931e6b217b5",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "Badger Meter",
-"title": "Firmware Engineer 1",
-"url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/Milwaukee-WI/Engineer-I--Firmware_4628",
-"locations": [
-"Milwaukee, WI",
-"Racine, WI"
-],
-"posted": "2026-10-07",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "ec92991f5237",
 "tags": [
 "Hardware"
 ],
@@ -2806,6 +3028,52 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Astera Labs",
+"title": "Applied AI (Non Silicon)",
+"url": "https://go.vansh.nyc/HG",
+"locations": [
+"San Jose, CA"
+],
+"posted": "2026-10-06",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "43c35e888f32",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Canonical",
+"title": "Software Engineer, Open Source and Linux",
+"url": "https://go.vansh.nyc/Ie",
+"locations": [
+"Remote"
+],
+"posted": "2026-10-06",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "7e1a9c2f4e4b",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
 "stale": false
 },
 {
@@ -3142,6 +3410,29 @@
 },
 {
 "section": "newgrad",
+"company": "CoStar Group",
+"title": "New Grad 2027: Associate Embedded Software Engineer",
+"url": "https://go.vansh.nyc/Id",
+"locations": [
+"Sunnyvale, CA"
+],
+"posted": "2026-10-02",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "612e5d3dc874",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "newgrad",
 "company": "Amazon",
 "title": "Software Development Engineer \u2013 Early Career - Amazon Dedicated Cloud - ADC",
 "url": "https://amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc",
@@ -3245,6 +3536,54 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Amazon",
+"title": "New Grad 2027: Cloud Hardware Development Engineer 1 \u2013 Early Career",
+"url": "https://go.vansh.nyc/HA",
+"locations": [
+"Austin, TX",
+"Cupertino, CA"
+],
+"posted": "2026-10-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "8d2be205ac7f",
+"tags": [
+"Cloud & Infra",
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Intel",
+"title": "Software Engineer, Datacenter (Master's)",
+"url": "https://go.vansh.nyc/Lj",
+"locations": [
+"Santa Clara, CA"
+],
+"posted": "2026-10-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "f6ad6ec4c0cf",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
 "stale": false
 },
 {
@@ -3376,6 +3715,29 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Oracle",
+"title": "New Grad 2027: Software Engineer, Oracle Cloud Infrastructure",
+"url": "https://go.vansh.nyc/Hy",
+"locations": [
+"Nashville, TN"
+],
+"posted": "2026-09-30",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "45873e02ce17",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
 "stale": false
 },
 {
@@ -3984,6 +4346,29 @@
 },
 {
 "section": "newgrad",
+"company": "Lattice Semiconductor",
+"title": "Junior Firmware Engineer",
+"url": "https://go.vansh.nyc/Lh",
+"locations": [
+"Duluth, GA"
+],
+"posted": "2026-09-23",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "46a11b53b7b1",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "newgrad",
 "company": "Leviton",
 "title": "Associate Embedded Firmware Engineer",
 "url": "https://careers.leviton.com/jobs/6018?icims=1",
@@ -4009,6 +4394,76 @@
 },
 {
 "section": "newgrad",
+"company": "Collinear AI",
+"title": "Mts Research, Cybersecurity",
+"url": "https://go.vansh.nyc/KY",
+"locations": [
+"San Francisco, CA",
+"Sunnyvale, CA"
+],
+"posted": "2026-09-22",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "904bb6d20e06",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Anduril",
+"title": "Firmware Engineer",
+"url": "https://go.vansh.nyc/L0",
+"locations": [
+"Costa Mesa, CA"
+],
+"posted": "2026-09-22",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "5fbfc307bfc3",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Renesas Electronics",
+"title": "Electrical Engineer",
+"url": "https://go.vansh.nyc/L1",
+"locations": [
+"Austin, TX"
+],
+"posted": "2026-09-22",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "bb171207928f",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "newgrad",
 "company": "Super Micro Computer",
 "title": "Hardware Design Engineer",
 "url": "https://jobs.supermicro.com/job/San-Jose-Hardware-Design-Engineer-Cali/1432310800?ats=successfactors",
@@ -4028,31 +4483,6 @@
 "id": "e1cd9aff28be",
 "tags": [
 "Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "Collinear AI",
-"title": "Mts Research - Cybersecurity",
-"url": "https://jobs.ashbyhq.com/collinear-ai/06258760-3ac3-4cee-9ffc-f4ef021731aa/application?embed=true",
-"locations": [
-"SF",
-"Sunnyvale, CA",
-"United States"
-],
-"posted": "2026-09-22",
-"terms": [],
-"degrees": [],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "483ebbf7f468",
-"tags": [
-"Security"
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
@@ -4131,32 +4561,6 @@
 "id": "74dffa75c32a",
 "tags": [
 "Network"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "Renesas Electronics",
-"title": "Electrical Engineer",
-"url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000151129572",
-"locations": [
-"Austin, TX"
-],
-"posted": "2026-09-22",
-"terms": [],
-"degrees": [
-"Bachelor's",
-"Master's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "116247c6fc69",
-"tags": [
-"Hardware"
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
@@ -4321,6 +4725,53 @@
 },
 {
 "section": "newgrad",
+"company": "Thales",
+"title": "Software DevOps Engineer",
+"url": "https://go.vansh.nyc/Ig",
+"locations": [
+"Orlando, FL"
+],
+"posted": "2026-09-19",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "fabaa133070e",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Chubb",
+"title": "Technology Associate",
+"url": "https://go.vansh.nyc/Lf",
+"locations": [
+"Philadelphia, PA",
+"Jersey City, NJ"
+],
+"posted": "2026-09-18",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "b02c09f72f9a",
+"tags": [
+"IT & Support"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "newgrad",
 "company": "Booz Allen",
 "title": "Hardware Test Engineer",
 "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/Rome-NY/Hardware-Test-Engineer_R0249841",
@@ -4339,30 +4790,6 @@
 "id": "341017e5d5b6",
 "tags": [
 "Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "Chubb",
-"title": "Technology Associate",
-"url": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/36864",
-"locations": [
-"Philadelphia, PA",
-"Jersey City, NJ"
-],
-"posted": "2026-09-18",
-"terms": [],
-"degrees": [],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "c9cb1468abdd",
-"tags": [
-"IT & Support"
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
@@ -4446,6 +4873,31 @@
 },
 {
 "section": "newgrad",
+"company": "Analog Devices",
+"title": "Associate Embedded Software Engineer",
+"url": "https://go.vansh.nyc/KP",
+"locations": [
+"San Jose, CA",
+"Wilmington, MA",
+"Durham, NC"
+],
+"posted": "2026-09-15",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "ef306ed34e0e",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "newgrad",
 "company": "RTX",
 "title": "Electrical Engineer 1",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Electrical-Engineer-I--Onsite-_01867733",
@@ -4489,33 +4941,6 @@
 "id": "7eb5d3f87578",
 "tags": [
 "Cloud & Infra",
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "Analog Devices",
-"title": "Associate Embedded Software Engineer",
-"url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Embedded-Software-Engineer_R266131",
-"locations": [
-"San Jose, CA",
-"Wilmington, MA",
-"Durham, NC"
-],
-"posted": "2026-09-15",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "8467068d4e62",
-"tags": [
 "Hardware"
 ],
 "underclass": false,
@@ -4602,6 +5027,29 @@
 },
 {
 "section": "newgrad",
+"company": "CoStar Group",
+"title": "New Grad 2027: Associate Security Engineer",
+"url": "https://go.vansh.nyc/KJ",
+"locations": [
+"Richmond, VA"
+],
+"posted": "2026-09-14",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "a0cf890f255c",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "newgrad",
 "company": "Sopra Steria",
 "title": "FPGA Verification Engineer",
 "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000149337912",
@@ -4677,28 +5125,48 @@
 },
 {
 "section": "newgrad",
-"company": "Qualcomm",
-"title": "Physical Design Engineer - ASICS Engineering",
-"url": "https://qualcomm.eightfold.ai/careers/job/446721073497",
+"company": "SpaceX",
+"title": "New Grad 2027: Engineer, Security Software",
+"url": "https://go.vansh.nyc/Nf",
 "locations": [
-"San Diego, CA"
+"Washington, DC"
 ],
-"posted": "2026-09-13",
+"posted": "2026-09-12",
 "terms": [],
-"degrees": [
-"Bachelor's",
-"Master's"
-],
+"degrees": [],
 "sources": [
-"SimplifyJobs/New-Grad-Positions"
+"vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "be9309ce2111",
+"id": "d39c3dff3a95",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "HPE",
+"title": "Embedded Software Test Engineer",
+"url": "https://go.vansh.nyc/Oc",
+"locations": [
+"Spring, TX"
+],
+"posted": "2026-09-12",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "26f62466d6c0",
 "tags": [
 "Hardware"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-26",
 "stale": false
 },
 {
@@ -4777,6 +5245,75 @@
 "stale": false
 },
 {
+"section": "newgrad",
+"company": "Emerson Electric",
+"title": "Embedded Firmware Development Engineer",
+"url": "https://go.vansh.nyc/NW",
+"locations": [
+"Eden Prairie, MN"
+],
+"posted": "2026-09-10",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "05f2aa22185c",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Johns Hopkins Applied Physics Laboratory",
+"title": "New Grad 2027: Robotics & Autonomous Systems Engineer, Tailored Autonomous Systems",
+"url": "https://go.vansh.nyc/NZ",
+"locations": [
+"Laurel, MD"
+],
+"posted": "2026-09-10",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "dcef937f5435",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Johns Hopkins Applied Physics Laboratory",
+"title": "New Grad 2027: Electrical or Computer Engineer, Miniature Device Technologies",
+"url": "https://go.vansh.nyc/O0",
+"locations": [
+"Laurel, MD"
+],
+"posted": "2026-09-10",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "8e58037c1c77",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
 "section": "qualify",
 "company": "CoreWeave",
 "title": "Data Center Technician - Cheyenne, WY",
@@ -4820,31 +5357,6 @@
 ],
 "reqs": null,
 "id": "c16d15cc5ac4",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "Emerson Electric",
-"title": "Embedded Firmware Development Engineer",
-"url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009554",
-"locations": [
-"Eden Prairie, MN"
-],
-"posted": "2026-09-10",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "2b360e3f8da0",
 "tags": [
 "Hardware"
 ],
@@ -4984,6 +5496,29 @@
 },
 {
 "section": "newgrad",
+"company": "General Dynamics Mission Systems",
+"title": "New Grad 2027: Engineering Leadership Program Engineer (EE, SW, Firmware, Sys)",
+"url": "https://go.vansh.nyc/Od",
+"locations": [
+"Bloomington, MN"
+],
+"posted": "2026-09-09",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "18f21d8f2b89",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "newgrad",
 "company": "RTX",
 "title": "Receiver \u2013 Exciter & Processing Architecture Electrical Engineer 1",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Receiver--Exciter---Processing-Architecture-Electrical-Engineer-I---Onsite_01873435",
@@ -5005,6 +5540,31 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Pentair",
+"title": "New Grad 2027: Engineering Leadership Development Program, Computer Science / Computer Engineering",
+"url": "https://go.vansh.nyc/O6",
+"locations": [
+"Apex, NC",
+"Delavan, WI",
+"Golden Valley, MN"
+],
+"posted": "2026-09-08",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "6f1749082734",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
 "stale": false
 },
 {
@@ -5163,6 +5723,29 @@
 },
 {
 "section": "newgrad",
+"company": "Applied Intuition",
+"title": "New Grad 2027: Cybersecurity Software Engineer",
+"url": "https://go.vansh.nyc/O8",
+"locations": [
+"Sunnyvale, CA"
+],
+"posted": "2026-09-04",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "76720265f8ad",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "newgrad",
 "company": "TSC",
 "title": "Firmware Design Engineer",
 "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Huntsville-AL/Firmware-Design-Engineer_JR2781",
@@ -5311,6 +5894,29 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Vermeer",
+"title": "New Grad 2027: Engineer I, Embedded Software Engineer",
+"url": "https://go.vansh.nyc/PL",
+"locations": [
+"Pella, IA"
+],
+"posted": "2026-09-02",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "4d7dc67f32ce",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
 "stale": false
 },
 {
@@ -5570,6 +6176,55 @@
 },
 {
 "section": "newgrad",
+"company": "NVIDIA",
+"title": "Applied Systems Engineering Rotation Engineer",
+"url": "https://go.vansh.nyc/NJ",
+"locations": [
+"Santa Clara, CA"
+],
+"posted": "2026-09-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "596bfee00312",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Blue Origin",
+"title": "New Grad 2027: Avionics / Embedded Software Engineer I",
+"url": "https://go.vansh.nyc/O9",
+"locations": [
+"Van Horn, TX",
+"Space Coast, FL",
+"Huntsville, AL",
+"Denver, CO"
+],
+"posted": "2026-09-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "19f45633621c",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "newgrad",
 "company": "Johns Hopkins Applied Physics Laboratory",
 "title": "Systems Engineer/Analyst",
 "url": "https://careers.jhuapl.edu/jobs/59373?icims=1",
@@ -5749,29 +6404,6 @@
 },
 {
 "section": "newgrad",
-"company": "Nomad GCS",
-"title": "IT Engineering Technician",
-"url": "https://nomadgcs.bamboohr.com/careers/488",
-"locations": [
-"Columbia Falls, MT"
-],
-"posted": "2026-09-01",
-"terms": [],
-"degrees": [],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "28dc7675a530",
-"tags": [
-"IT & Support"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
 "company": "SimVentions",
 "title": "Systems Engineer 1",
 "url": "https://simventions.jibeapply.com/jobs/1626?icims=1",
@@ -5818,6 +6450,29 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "GMO",
+"title": "New Grad 2027: Quantitative Technology Associate",
+"url": "https://go.vansh.nyc/Nr",
+"locations": [
+"Boston, MA"
+],
+"posted": "2026-08-31",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "2ad2cdaf0954",
+"tags": [
+"IT & Support"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
 "stale": false
 },
 {
@@ -6008,6 +6663,52 @@
 },
 {
 "section": "newgrad",
+"company": "Susquehanna International Group",
+"title": "Trading System Engineer",
+"url": "https://go.vansh.nyc/P9",
+"locations": [
+"Bala Cynwyd, PA"
+],
+"posted": "2026-08-28",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "2b9b5043a8f9",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Tesla",
+"title": "Robotics Engineering Technician - Harnessing & PCB Rework - Optimus",
+"url": "https://www.tesla.com/careers/search/job/281505",
+"locations": [
+"Palo Alto, CA"
+],
+"posted": "2026-08-28",
+"terms": [],
+"degrees": [],
+"sources": [
+"SimplifyJobs/New-Grad-Positions"
+],
+"reqs": null,
+"id": "2ee0f2581ed0",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "newgrad",
 "company": "Hewlett Packard Enterprise",
 "title": "Firmware Engineer Graduate",
 "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Firmware-Engineer-Graduate_1213626",
@@ -6090,6 +6791,53 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "GLS",
+"title": "New Grad 2027: Infrastructure Administrator",
+"url": "https://go.vansh.nyc/PN",
+"locations": [
+"Greenville, SC"
+],
+"posted": "2026-08-27",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "a1fd980366ee",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "GLS",
+"title": "New Grad 2027: IT Security Analyst",
+"url": "https://go.vansh.nyc/PO",
+"locations": [
+"Greenville, SC"
+],
+"posted": "2026-08-27",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "5fec3680eedd",
+"tags": [
+"Security",
+"IT & Support"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
 "stale": false
 },
 {
@@ -6425,6 +7173,53 @@
 },
 {
 "section": "newgrad",
+"company": "SpaceX",
+"title": "New Grad 2027: Engineer, Software Security, Starlink",
+"url": "https://go.vansh.nyc/Pc",
+"locations": [
+"Hawthorne, CA"
+],
+"posted": "2026-08-24",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "7cd107828f22",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Procter & Gamble",
+"title": "New Grad 2027: IT Engineering - Software, Platform, & Network",
+"url": "https://go.vansh.nyc/PI",
+"locations": [
+"Cincinnati, OH"
+],
+"posted": "2026-08-24",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "457a848a535c",
+"tags": [
+"Network",
+"IT & Support"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "newgrad",
 "company": "Procter & Gamble",
 "title": "IT Engineering New Grad - Software, Platform, & Network",
 "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Engineering--Software--Platform----Network----2027-Grads-_R000157918",
@@ -6447,6 +7242,29 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "NW",
+"title": "Cloud System Administrator",
+"url": "https://go.vansh.nyc/PP",
+"locations": [
+"Sterling, VA"
+],
+"posted": "2026-08-21",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "40a8e8146a90",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
 "stale": false
 },
 {
@@ -6523,6 +7341,29 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "SAIC",
+"title": "Software Systems Engineer (Master's)",
+"url": "https://go.vansh.nyc/PQ",
+"locations": [
+"Chantilly, VA"
+],
+"posted": "2026-08-20",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "df247ee8ac1d",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
 "stale": false
 },
 {
@@ -7268,34 +8109,6 @@
 },
 {
 "section": "newgrad",
-"company": "Cisco",
-"title": "Electrical Engineer 2",
-"url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Electrical-Engineer_2020283",
-"locations": [
-"Research Triangle Park, Durham, NC",
-"Austin, TX",
-"San Jose, CA"
-],
-"posted": "2026-08-12",
-"terms": [],
-"degrees": [
-"Bachelor's",
-"Master's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "9a6bb999c34b",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
 "company": "ASM International",
 "title": "Systems Engineer 1 - Software, Robotics & Semiconductor Automation",
 "url": "https://www.asm.com/open-vacancies?gh_jid=4948195101",
@@ -7340,31 +8153,6 @@
 "id": "873c644cf660",
 "tags": [
 "Cloud & Infra"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "Deloitte",
-"title": "Cyber Software Engineering Analyst - Government & Public Services - Cyber Software Engineering",
-"url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Cyber-Software-Engineering/362393",
-"locations": [
-"Huntsville, AL"
-],
-"posted": "2026-08-11",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "9243caa9cfcb",
-"tags": [
-"Security"
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
@@ -7423,52 +8211,25 @@
 },
 {
 "section": "newgrad",
-"company": "Deloitte",
-"title": "Cyber Analytics Solutions Delivery Analyst - Multiple Teams",
-"url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-Cyber-Analytics-Solutions/362502",
-"locations": [
-"Gilbert, AZ"
-],
-"posted": "2026-08-11",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "a39cbfb86f9a",
-"tags": [
-"Security"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
 "company": "Cummins",
 "title": "Electronic Systems Engineer - Software",
-"url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433277",
+"url": "https://go.vansh.nyc/PM",
 "locations": [
 "Columbus, IN"
 ],
 "posted": "2026-08-10",
 "terms": [],
-"degrees": [
-"Bachelor's"
-],
+"degrees": [],
 "sources": [
-"SimplifyJobs/New-Grad-Positions"
+"vanshb03/New-Grad-2027"
 ],
 "reqs": null,
-"id": "b08cff13bc7b",
+"id": "af94ccf49f99",
 "tags": [
 "Cloud & Infra"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-26",
 "stale": false
 },
 {
@@ -7908,34 +8669,6 @@
 "reqs": null,
 "id": "b6b4a99aa25d",
 "tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "Field AI",
-"title": "Embedded Systems Engineer - Robotics Hardware",
-"url": "https://jobs.lever.co/field-ai/7a0d12c7-957b-42f6-a9c9-9605fab6d2a4/apply",
-"locations": [
-"Irvine, CA"
-],
-"posted": "2026-08-06",
-"terms": [],
-"degrees": [
-"Bachelor's",
-"Master's",
-"PhD"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "8dacdd4faef8",
-"tags": [
-"Cloud & Infra",
 "Hardware"
 ],
 "underclass": false,
@@ -8790,32 +9523,6 @@
 },
 {
 "section": "newgrad",
-"company": "Deloitte",
-"title": "Cyber Analytics Analyst - Government & Public Services - Cyber Analytics",
-"url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Cyber-Analytics/360076",
-"locations": [
-"Rosslyn, Arlington, VA"
-],
-"posted": "2026-07-21",
-"terms": [],
-"degrees": [
-"Bachelor's",
-"Master's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "7a09d0389d67",
-"tags": [
-"Security"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
 "company": "SpaceX",
 "title": "Wireless Software Engineer - Starlink",
 "url": "https://boards.greenhouse.io/spacex/jobs/8637814002",
@@ -8971,6 +9678,32 @@
 "stale": false
 },
 {
+"section": "qualify",
+"company": "SpaceX",
+"title": "IT Support Technician",
+"url": "https://boards.greenhouse.io/spacex/jobs/8629135002?gh_jid=8629135002",
+"locations": [
+"Cape Canaveral, FL"
+],
+"posted": "2026-07-13",
+"terms": [],
+"degrees": [],
+"sources": [
+"greenhouse:spacex"
+],
+"reqs": {
+"degree": "high school",
+"years": 1
+},
+"id": "d473f3d69da8",
+"tags": [
+"IT & Support"
+],
+"underclass": false,
+"first_seen": "2026-10-26",
+"stale": false
+},
+{
 "section": "newgrad",
 "company": "Rivian",
 "title": "Early Career Validation Engineer - Vehicle Hardware",
@@ -9018,32 +9751,6 @@
 "id": "425c77d4186e",
 "tags": [
 "Network"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "qualify",
-"company": "SpaceX",
-"title": "Executive IT Support Specialist",
-"url": "https://boards.greenhouse.io/spacex/jobs/8617198002?gh_jid=8617198002",
-"locations": [
-"Palo Alto, CA"
-],
-"posted": "2026-07-06",
-"terms": [],
-"degrees": [],
-"sources": [
-"greenhouse:spacex"
-],
-"reqs": {
-"degree": "equivalent ok",
-"years": 1
-},
-"id": "2925e0b54d04",
-"tags": [
-"IT & Support"
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
@@ -9867,32 +10574,6 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "qualify",
-"company": "SpaceX",
-"title": "IT Support Technician",
-"url": "https://boards.greenhouse.io/spacex/jobs/8534863002?gh_jid=8534863002",
-"locations": [
-"Hawthorne, CA"
-],
-"posted": "2026-05-04",
-"terms": [],
-"degrees": [],
-"sources": [
-"greenhouse:spacex"
-],
-"reqs": {
-"degree": "high school",
-"years": 1
-},
-"id": "ac34dde4f741",
-"tags": [
-"IT & Support"
-],
-"underclass": false,
-"first_seen": "2026-10-25",
 "stale": false
 },
 {
