@@ -1,49 +1,770 @@
 {
 "meta": {
-"generated_at": "2026-10-26T20:15:13+00:00",
+"generated_at": "2026-10-27T19:46:34+00:00",
 "sources": {
-"github:vanshb03/New-Grad-2027": "ok: 568 read, 568 kept",
+"github:vanshb03/Summer2027-Internships": "ok: 1316 read, 1316 kept",
+"github:vanshb03/New-Grad-2027": "ok: 638 read, 638 kept",
 "greenhouse:tanium": "ok: 70 read, 0 kept",
-"greenhouse:gitlab": "ok: 239 read, 2 kept",
-"github:vanshb03/Summer2027-Internships": "ok: 1255 read, 1255 kept",
-"greenhouse:figma": "ok: 140 read, 0 kept",
-"greenhouse:okta": "ok: 387 read, 0 kept",
 "greenhouse:vercel": "ok: 93 read, 0 kept",
-"greenhouse:fastly": "ok: 51 read, 1 kept",
-"greenhouse:coreweave": "ok: 316 read, 14 kept",
-"greenhouse:sambanovasystems": "ok: 62 read, 1 kept",
-"greenhouse:verkada": "ok: 332 read, 5 kept",
-"greenhouse:samsara": "ok: 327 read, 0 kept",
-"greenhouse:neuralink": "ok: 81 read, 7 kept",
-"greenhouse:datadog": "ok: 426 read, 0 kept",
-"greenhouse:tenstorrent": "ok: 121 read, 0 kept",
-"greenhouse:xai": "ok: 304 read, 1 kept",
-"greenhouse:scaleai": "ok: 168 read, 0 kept",
-"ashby:lambda": "ok: 99 read, 0 kept",
-"github:SimplifyJobs/Summer2027-Internships": "ok: 2331 read, 2331 kept",
-"greenhouse:cloudflare": "ok: 457 read, 0 kept",
+"greenhouse:verkada": "ok: 330 read, 5 kept",
+"greenhouse:figma": "ok: 141 read, 0 kept",
+"greenhouse:fastly": "ok: 53 read, 1 kept",
+"greenhouse:okta": "ok: 393 read, 0 kept",
+"greenhouse:gitlab": "ok: 236 read, 2 kept",
+"greenhouse:sambanovasystems": "ok: 67 read, 1 kept",
+"greenhouse:coreweave": "ok: 315 read, 13 kept",
+"greenhouse:samsara": "ok: 322 read, 0 kept",
+"greenhouse:datadog": "ok: 427 read, 0 kept",
+"greenhouse:tenstorrent": "ok: 119 read, 0 kept",
+"greenhouse:xai": "ok: 308 read, 1 kept",
+"greenhouse:scaleai": "ok: 166 read, 0 kept",
+"greenhouse:neuralink": "ok: 79 read, 7 kept",
+"github:SimplifyJobs/Summer2027-Internships": "ok: 2416 read, 2416 kept",
 "ashby:replit": "ok: 36 read, 0 kept",
-"github:SimplifyJobs/New-Grad-Positions": "ok: 2038 read, 2038 kept",
-"amazon:help desk": "ok: 12 read, 0 kept",
-"amazon:data center technician": "ok: 100 read, 16 kept",
-"amazon:network intern": "ok: 4 read, 0 kept",
-"greenhouse:axon": "ok: 478 read, 0 kept",
-"amazon:network technician": "ok: 100 read, 0 kept",
-"amazon:IT support": "ok: 100 read, 3 kept",
+"greenhouse:cloudflare": "ok: 459 read, 0 kept",
+"ashby:lambda": "ok: 99 read, 0 kept",
+"github:SimplifyJobs/New-Grad-Positions": "ok: 2069 read, 2069 kept",
+"amazon:data center technician": "ok: 100 read, 12 kept",
 "amazon:IT intern": "ok: 2 read, 0 kept",
-"ashby:notion": "ok: 140 read, 0 kept",
-"amazon:security intern": "ok: 9 read, 1 kept",
+"amazon:IT support": "ok: 100 read, 3 kept",
+"amazon:network intern": "ok: 5 read, 1 kept",
 "ashby:crusoe": "ok: 348 read, 0 kept",
+"amazon:security intern": "ok: 10 read, 1 kept",
+"amazon:help desk": "ok: 11 read, 0 kept",
+"ashby:notion": "ok: 140 read, 0 kept",
 "github:LuisaE/opportunities": "ok: 46 read, 46 kept",
-"lever:palantir": "ok: 307 read, 9 kept",
-"ashby:openai": "ok: 790 read, 2 kept",
-"greenhouse:spacex": "ok: 2817 read, 11 kept"
+"greenhouse:axon": "ok: 464 read, 0 kept",
+"amazon:network technician": "ok: 100 read, 0 kept",
+"lever:palantir": "ok: 306 read, 9 kept",
+"ashby:openai": "ok: 795 read, 2 kept",
+"greenhouse:spacex": "ok: 2833 read, 12 kept"
 },
 "carried_from_failed_sources": 0,
-"count": 668,
-"new_today": 193
+"count": 695,
+"new_today": 45
 },
 "listings": [
+{
+"section": "intern",
+"company": "Johns Hopkins APL",
+"title": "Cybersecurity Software Developer Intern",
+"url": "https://go.vansh.nyc/UB",
+"locations": [
+"Laurel, MD"
+],
+"posted": "2026-10-27",
+"terms": [
+"Winter"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "bb3da4ab77df",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Highmark Health",
+"title": "Cyber Risk Management Analyst Undergraduate Intern",
+"url": "https://go.vansh.nyc/UF",
+"locations": [
+"Camp Hill, PA"
+],
+"posted": "2026-10-27",
+"terms": [
+"Summer"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "ca12518e588e",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Rockwell Automation",
+"title": "Cybersecurity Intern",
+"url": "https://go.vansh.nyc/Vd",
+"locations": [
+"Milwaukee, WI",
+"Chelmsford, MA"
+],
+"posted": "2026-10-27",
+"terms": [
+"Summer"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "c0e10d2e6b59",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Ericsson",
+"title": "Cybersecurity Analyst Intern",
+"url": "https://go.vansh.nyc/Vu",
+"locations": [
+"Plano, TX"
+],
+"posted": "2026-10-27",
+"terms": [
+"Summer"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "909e4fc08167",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Visa",
+"title": "Sophomore Program Software Engineer Intern",
+"url": "https://go.vansh.nyc/VE",
+"locations": [
+"Ashburn, VA"
+],
+"posted": "2026-10-27",
+"terms": [
+"Summer"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "d837cd64c3de",
+"tags": [],
+"underclass": true,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "RTX",
+"title": "Secure Software Intern",
+"url": "https://go.vansh.nyc/VG",
+"locations": [
+"Woburn, MA"
+],
+"posted": "2026-10-27",
+"terms": [
+"Summer"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "747aa335e31f",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "RTX",
+"title": "Embedded Software Engineer Intern",
+"url": "https://go.vansh.nyc/VI",
+"locations": [
+"Goleta, CA"
+],
+"posted": "2026-10-27",
+"terms": [
+"Summer"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "b67b671a1afa",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Boston Properties",
+"title": "Cyber Security Co-op",
+"url": "https://go.vansh.nyc/VJ",
+"locations": [
+"Boston, MA"
+],
+"posted": "2026-10-27",
+"terms": [
+"Winter"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "b2d966c8136d",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "American Family Insurance Group",
+"title": "Cybersecurity Intern",
+"url": "https://go.vansh.nyc/VN",
+"locations": [
+"Madison, WI",
+"Boston, MA"
+],
+"posted": "2026-10-27",
+"terms": [
+"Summer"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "b01f07074122",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Bracco",
+"title": "Product Security Engineering Intern",
+"url": "https://go.vansh.nyc/VO",
+"locations": [
+"Eden Prairie, MN"
+],
+"posted": "2026-10-27",
+"terms": [
+"Summer"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "bf1475237b05",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Sierra Nevada Corporation",
+"title": "Cybersecurity Analyst Intern",
+"url": "https://go.vansh.nyc/VQ",
+"locations": [
+"Sparks, NV"
+],
+"posted": "2026-10-27",
+"terms": [
+"Summer"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "1f3f4e5e7f20",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Apple Bank",
+"title": "Information Security Intern",
+"url": "https://go.vansh.nyc/VV",
+"locations": [
+"New York, NY"
+],
+"posted": "2026-10-27",
+"terms": [
+"Summer"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "e21a54a17458",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Peraton",
+"title": "Cybersecurity Engineer Co-op",
+"url": "https://go.vansh.nyc/W2",
+"locations": [
+"San Diego, CA"
+],
+"posted": "2026-10-27",
+"terms": [
+"Spring"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "2d08d2ca4e55",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Cboe Global Markets",
+"title": "Linux Engineer Intern",
+"url": "https://go.vansh.nyc/W4",
+"locations": [
+"Chicago, IL",
+"Kansas City, MO",
+"New York, NY"
+],
+"posted": "2026-10-27",
+"terms": [
+"Summer"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "0e50b98638d5",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Kudu Dynamics",
+"title": "Cybersecurity Intern",
+"url": "https://go.vansh.nyc/W5",
+"locations": [
+"Arlington, VA",
+"Washington, DC",
+"Camp Springs, MD"
+],
+"posted": "2026-10-27",
+"terms": [
+"Summer"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "7be2fe811698",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Papa John's",
+"title": "Cyber Security Intern",
+"url": "https://go.vansh.nyc/W8",
+"locations": [
+"Atlanta, GA"
+],
+"posted": "2026-10-27",
+"terms": [
+"Summer"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "0737e847b9bf",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "HP IQ",
+"title": "Wireless Automation and Test Engineer Intern - Wireless Automation and Test",
+"url": "https://job-boards.greenhouse.io/hpiq/jobs/6114741004",
+"locations": [
+"SF"
+],
+"posted": "2026-10-27",
+"terms": [
+"Summer 2027"
+],
+"degrees": [
+"Bachelor's"
+],
+"sources": [
+"SimplifyJobs/Summer2027-Internships"
+],
+"reqs": null,
+"id": "942bbe86df65",
+"tags": [
+"Network"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "HP IQ",
+"title": "Electrical Engineer Intern - Hardware",
+"url": "https://job-boards.greenhouse.io/hpiq/jobs/6116396004",
+"locations": [
+"SF"
+],
+"posted": "2026-10-27",
+"terms": [
+"Summer 2027"
+],
+"degrees": [
+"Bachelor's",
+"Master's",
+"PhD"
+],
+"sources": [
+"SimplifyJobs/Summer2027-Internships"
+],
+"reqs": null,
+"id": "06edc38734d0",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Amazon",
+"title": "Network Development Engineer Intern, 2027 Summer",
+"url": "https://www.amazon.jobs/en/jobs/10590368/network-development-engineer-intern-2027-summer",
+"locations": [
+"Seattle, WA"
+],
+"posted": "2026-10-27",
+"terms": [],
+"degrees": [],
+"sources": [
+"amazon:IT support"
+],
+"reqs": {
+"degree": "required",
+"years": null
+},
+"id": "6d6a5eea408a",
+"tags": [
+"Network"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Booz Allen Hamilton",
+"title": "Systems Engineer Intern",
+"url": "https://go.vansh.nyc/SX",
+"locations": [
+"Detroit, MI"
+],
+"posted": "2026-10-26",
+"terms": [
+"Summer"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "c649a327d9e8",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Booz Allen Hamilton",
+"title": "Systems Engineer Intern, Games",
+"url": "https://go.vansh.nyc/T0",
+"locations": [
+"Albuquerque, NM"
+],
+"posted": "2026-10-26",
+"terms": [
+"Summer"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "811b94907782",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "AtriCure, Inc.",
+"title": "IT Security Analyst Co-op",
+"url": "https://go.vansh.nyc/Ti",
+"locations": [
+"Mason, OH"
+],
+"posted": "2026-10-26",
+"terms": [
+"Winter"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "6d9dc4fc6d52",
+"tags": [
+"Security",
+"IT & Support"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "ADT",
+"title": "Cybersecurity & Risk Intern",
+"url": "https://go.vansh.nyc/UH",
+"locations": [
+"Boca Raton, FL"
+],
+"posted": "2026-10-26",
+"terms": [
+"Summer"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "2c88bc464961",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "General Dynamics Mission Systems, Inc.",
+"title": "Software Test Engineering Intern, Space and Embedded Crypto",
+"url": "https://go.vansh.nyc/W0",
+"locations": [
+"Scottsdale, AZ"
+],
+"posted": "2026-10-26",
+"terms": [
+"Summer"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "a44f67f512d4",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "RTX",
+"title": "Systems Engineering Co-op",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Systems-Engineering-Co-op_01884039",
+"locations": [
+"Woburn, MA"
+],
+"posted": "2026-10-26",
+"terms": [
+"N/A"
+],
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"sources": [
+"SimplifyJobs/Summer2027-Internships"
+],
+"reqs": null,
+"id": "d98584594aad",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Highmark Health",
+"title": "Enterprise Data Warehouse Systems Engineering Intern",
+"url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Enterprise-Data-Warehouse-Systems-enGen-Undergraduate-Intern_J289826",
+"locations": [
+"Pittsburgh, PA"
+],
+"posted": "2026-10-26",
+"terms": [
+"Summer 2027"
+],
+"degrees": [
+"Bachelor's"
+],
+"sources": [
+"SimplifyJobs/Summer2027-Internships"
+],
+"reqs": null,
+"id": "466baba24998",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Parallel Systems",
+"title": "Hardware Engineering Intern - Mechanical and Electrical",
+"url": "https://boards.greenhouse.io/parallel/jobs/5275660007",
+"locations": [
+"LA"
+],
+"posted": "2026-10-26",
+"terms": [
+"Summer 2027"
+],
+"degrees": [
+"Bachelor's"
+],
+"sources": [
+"SimplifyJobs/Summer2027-Internships"
+],
+"reqs": null,
+"id": "175f33793e92",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Booz Allen",
+"title": "Summer Games Systems Engineer Intern",
+"url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Systems-Engineer-Intern---Lexington--MA_R0252273",
+"locations": [
+"Lexington, MA"
+],
+"posted": "2026-10-26",
+"terms": [
+"Summer 2027"
+],
+"degrees": [
+"Bachelor's"
+],
+"sources": [
+"SimplifyJobs/Summer2027-Internships"
+],
+"reqs": null,
+"id": "079a36751639",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
 {
 "section": "intern",
 "company": "RTX",
@@ -586,31 +1307,6 @@
 },
 {
 "section": "intern",
-"company": "Hewlett Packard Enterprise",
-"title": "Cybersecurity Engineering Intern",
-"url": "https://go.vansh.nyc/hW",
-"locations": [
-"Spring, TX"
-],
-"posted": "2026-10-24",
-"terms": [
-"Summer"
-],
-"degrees": [],
-"sources": [
-"vanshb03/Summer2027-Internships"
-],
-"reqs": null,
-"id": "d3f43a4e307d",
-"tags": [
-"Security"
-],
-"underclass": false,
-"first_seen": "2026-10-25",
-"stale": false
-},
-{
-"section": "intern",
 "company": "DocuSign",
 "title": "AI Platform Engineer Intern",
 "url": "https://go.vansh.nyc/BR",
@@ -756,33 +1452,6 @@
 "id": "2f62a0872f73",
 "tags": [
 "Cloud & Infra",
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-25",
-"stale": false
-},
-{
-"section": "intern",
-"company": "Cisco",
-"title": "Software Engineer Embedded Systems I Co-op",
-"url": "https://go.vansh.nyc/gQ",
-"locations": [
-"San Jose, CA",
-"Milpitas, CA",
-"Research Triangle Park, NC"
-],
-"posted": "2026-10-23",
-"terms": [
-"Winter"
-],
-"degrees": [],
-"sources": [
-"vanshb03/Summer2027-Internships"
-],
-"reqs": null,
-"id": "9b6155777d4c",
-"tags": [
 "Hardware"
 ],
 "underclass": false,
@@ -1052,6 +1721,32 @@
 },
 {
 "section": "intern",
+"company": "GuidePoint Security",
+"title": "Cybersecurity Intern",
+"url": "https://go.vansh.nyc/VU",
+"locations": [
+"Remote",
+"United States"
+],
+"posted": "2026-10-22",
+"terms": [
+"Spring"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "8b0c4800b8cf",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
 "company": "Intel",
 "title": "Information Security Engineer Intern",
 "url": "https://go.vansh.nyc/e1",
@@ -1250,31 +1945,6 @@
 "id": "140d9c31825e",
 "tags": [
 "Security"
-],
-"underclass": false,
-"first_seen": "2026-10-25",
-"stale": false
-},
-{
-"section": "intern",
-"company": "Northrop Grumman",
-"title": "Systems Engineering Intern, AI Experience",
-"url": "https://go.vansh.nyc/f7",
-"locations": [
-"Dulles, VA"
-],
-"posted": "2026-10-22",
-"terms": [
-"Summer"
-],
-"degrees": [],
-"sources": [
-"vanshb03/Summer2027-Internships"
-],
-"reqs": null,
-"id": "64e829d02bb3",
-"tags": [
-"Cloud & Infra"
 ],
 "underclass": false,
 "first_seen": "2026-10-25",
@@ -1951,6 +2621,32 @@
 },
 {
 "section": "intern",
+"company": "Galaxy",
+"title": "Cybersecurity Intern",
+"url": "https://go.vansh.nyc/VT",
+"locations": [
+"Remote",
+"United States"
+],
+"posted": "2026-10-20",
+"terms": [
+"Summer"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "1cc39a2ce9dc",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
 "company": "DocuSign",
 "title": "Security Intern",
 "url": "https://go.vansh.nyc/D2",
@@ -2017,31 +2713,6 @@
 ],
 "reqs": null,
 "id": "af7220339a5b",
-"tags": [
-"Security"
-],
-"underclass": false,
-"first_seen": "2026-10-25",
-"stale": false
-},
-{
-"section": "intern",
-"company": "CoStar Group",
-"title": "Security Engineer Intern",
-"url": "https://go.vansh.nyc/cL",
-"locations": [
-"Arlington, VA"
-],
-"posted": "2026-10-20",
-"terms": [
-"Summer"
-],
-"degrees": [],
-"sources": [
-"vanshb03/Summer2027-Internships"
-],
-"reqs": null,
-"id": "871a3d1ccb08",
 "tags": [
 "Security"
 ],
@@ -2194,58 +2865,6 @@
 "id": "490178eca7f0",
 "tags": [
 "Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-25",
-"stale": false
-},
-{
-"section": "intern",
-"company": "T-Mobile",
-"title": "Software Engineer Intern, Cloud Security",
-"url": "https://go.vansh.nyc/dw",
-"locations": [
-"Atlanta, GA",
-"Frisco, TX"
-],
-"posted": "2026-10-20",
-"terms": [
-"Summer"
-],
-"degrees": [],
-"sources": [
-"vanshb03/Summer2027-Internships"
-],
-"reqs": null,
-"id": "bb94db0a3b47",
-"tags": [
-"Security",
-"Cloud & Infra"
-],
-"underclass": false,
-"first_seen": "2026-10-25",
-"stale": false
-},
-{
-"section": "intern",
-"company": "Centene Corporation",
-"title": "Cybersecurity Intern",
-"url": "https://go.vansh.nyc/eJ",
-"locations": [
-"Remote in USA"
-],
-"posted": "2026-10-20",
-"terms": [
-"Summer"
-],
-"degrees": [],
-"sources": [
-"vanshb03/Summer2027-Internships"
-],
-"reqs": null,
-"id": "deb4755b4636",
-"tags": [
-"Security"
 ],
 "underclass": false,
 "first_seen": "2026-10-25",
@@ -2441,27 +3060,30 @@
 },
 {
 "section": "intern",
-"company": "General Dynamics Mission Systems, Inc.",
-"title": "Engineer Intern, Electrical or Firmware",
-"url": "https://go.vansh.nyc/D0",
+"company": "Johns Hopkins Applied Physics Laboratory",
+"title": "Electrical and Computer Engineer Intern",
+"url": "https://careers.jhuapl.edu/jobs/60390?icims=1",
 "locations": [
-"Annapolis Junction, MD"
+"Laurel, MD"
 ],
 "posted": "2026-10-19",
 "terms": [
-"Summer"
+"Summer 2027"
 ],
-"degrees": [],
+"degrees": [
+"Bachelor's",
+"Master's"
+],
 "sources": [
-"vanshb03/Summer2027-Internships"
+"SimplifyJobs/Summer2027-Internships"
 ],
 "reqs": null,
-"id": "a3463750d99c",
+"id": "0c63d57c1590",
 "tags": [
 "Hardware"
 ],
 "underclass": false,
-"first_seen": "2026-10-26",
+"first_seen": "2026-10-27",
 "stale": false
 },
 {
@@ -3520,32 +4142,6 @@
 },
 {
 "section": "intern",
-"company": "ChargePoint",
-"title": "IT & Network Intern",
-"url": "https://go.vansh.nyc/ae",
-"locations": [
-"Campbell, CA"
-],
-"posted": "2026-10-16",
-"terms": [
-"Summer"
-],
-"degrees": [],
-"sources": [
-"vanshb03/Summer2027-Internships"
-],
-"reqs": null,
-"id": "352251aec90e",
-"tags": [
-"Network",
-"IT & Support"
-],
-"underclass": false,
-"first_seen": "2026-10-25",
-"stale": false
-},
-{
-"section": "intern",
 "company": "ICF International",
 "title": "Cloud Engineer Intern, AWS/Azure",
 "url": "https://go.vansh.nyc/ai",
@@ -4082,6 +4678,34 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
+"stale": false
+},
+{
+"section": "intern",
+"company": "RTX",
+"title": "Electro-Optics Systems Engineer Intern",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Electro-Optics-Systems-Engineer-Intern--Summer-2027-_01880582",
+"locations": [
+"El Segundo, CA"
+],
+"posted": "2026-10-14",
+"terms": [
+"Summer 2027"
+],
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"sources": [
+"SimplifyJobs/Summer2027-Internships"
+],
+"reqs": null,
+"id": "c327cd35259a",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
 "stale": false
 },
 {
@@ -5854,33 +6478,6 @@
 },
 {
 "section": "intern",
-"company": "General Motors",
-"title": "Fleet Reliability and Test Engineering Intern",
-"url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Fleet-Reliability---Test-Engineering--ASD_JR-202622071",
-"locations": [
-"Milford, MI"
-],
-"posted": "2026-10-08",
-"terms": [
-"Summer 2027"
-],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/Summer2027-Internships"
-],
-"reqs": null,
-"id": "2b97b8ca598c",
-"tags": [
-"Cloud & Infra"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "intern",
 "company": "Entrust",
 "title": "Firmware Engineer Co-op",
 "url": "https://go.vansh.nyc/FH",
@@ -6304,6 +6901,213 @@
 },
 {
 "section": "intern",
+"company": "Tevora",
+"title": "Cybersecurity Intern, Enterprise Risk Management",
+"url": "https://go.vansh.nyc/V4",
+"locations": [
+"Irvine, CA",
+"Fairfax, VA"
+],
+"posted": "2026-10-06",
+"terms": [
+"Winter"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "07e540a5b1be",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Tevora",
+"title": "Cybersecurity Intern, Federal",
+"url": "https://go.vansh.nyc/V5",
+"locations": [
+"Fairfax, VA",
+"Irvine, CA"
+],
+"posted": "2026-10-06",
+"terms": [
+"Winter"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "e00cd28c5425",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Tevora",
+"title": "Cybersecurity Intern, Healthcare",
+"url": "https://go.vansh.nyc/V6",
+"locations": [
+"Irvine, CA",
+"Fairfax, VA"
+],
+"posted": "2026-10-06",
+"terms": [
+"Winter"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "79baca384e06",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Tevora",
+"title": "Cybersecurity Intern, ISO",
+"url": "https://go.vansh.nyc/V7",
+"locations": [
+"Irvine, CA",
+"Fairfax, VA"
+],
+"posted": "2026-10-06",
+"terms": [
+"Winter"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "db9236acc1db",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Tevora",
+"title": "Cybersecurity Intern, Payments",
+"url": "https://go.vansh.nyc/V8",
+"locations": [
+"Fairfax, VA",
+"Irvine, CA"
+],
+"posted": "2026-10-06",
+"terms": [
+"Winter"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "8245b409c3ec",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Tevora",
+"title": "Cybersecurity Intern, Solutions",
+"url": "https://go.vansh.nyc/V9",
+"locations": [
+"Irvine, CA",
+"Fairfax, VA"
+],
+"posted": "2026-10-06",
+"terms": [
+"Winter"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "f2edde900770",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Tevora",
+"title": "Cybersecurity Intern, Threat",
+"url": "https://go.vansh.nyc/Va",
+"locations": [
+"Irvine, CA",
+"Fairfax, VA"
+],
+"posted": "2026-10-06",
+"terms": [
+"Winter"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "47e9019fe77f",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Manitowoc",
+"title": "Cybersecurity Intern",
+"url": "https://go.vansh.nyc/Vt",
+"locations": [
+"Shady Grove, PA"
+],
+"posted": "2026-10-06",
+"terms": [
+"Summer"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "ec4863aa135a",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
 "company": "RTX",
 "title": "FPGA Engineer Intern",
 "url": "https://go.vansh.nyc/F5",
@@ -6471,31 +7275,6 @@
 ],
 "reqs": null,
 "id": "9f192894f939",
-"tags": [
-"Security"
-],
-"underclass": false,
-"first_seen": "2026-10-26",
-"stale": false
-},
-{
-"section": "intern",
-"company": "CACI",
-"title": "Cyber Analyst Intern",
-"url": "https://go.vansh.nyc/Hb",
-"locations": [
-"Ashburn, VA"
-],
-"posted": "2026-10-06",
-"terms": [
-"Summer"
-],
-"degrees": [],
-"sources": [
-"vanshb03/Summer2027-Internships"
-],
-"reqs": null,
-"id": "15f17b83ab83",
 "tags": [
 "Security"
 ],
@@ -6742,34 +7521,6 @@
 ],
 "reqs": null,
 "id": "14d96b70c156",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "intern",
-"company": "Moog",
-"title": "Electrical Engineer Intern",
-"url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Electrical-Engineering_R-26-19827",
-"locations": [
-"Torrance, CA"
-],
-"posted": "2026-10-06",
-"terms": [
-"Summer 2027"
-],
-"degrees": [
-"Bachelor's",
-"Master's"
-],
-"sources": [
-"SimplifyJobs/Summer2027-Internships"
-],
-"reqs": null,
-"id": "c3ff2187cdc9",
 "tags": [
 "Hardware"
 ],
@@ -7427,6 +8178,32 @@
 },
 {
 "section": "intern",
+"company": "Oceaneering",
+"title": "IT/OT Cybersecurity Intern",
+"url": "https://go.vansh.nyc/V3",
+"locations": [
+"Houston, TX"
+],
+"posted": "2026-10-01",
+"terms": [
+"Summer"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "7118e056af82",
+"tags": [
+"Security",
+"IT & Support"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
 "company": "CoStar Group",
 "title": "Technology Intern",
 "url": "https://go.vansh.nyc/E9",
@@ -7632,6 +8409,33 @@
 },
 {
 "section": "intern",
+"company": "Quantum Signal AI",
+"title": "Embedded and Real-Time Software Intern",
+"url": "https://quantumsignalai.applytojob.com/apply/23a7Z79zfn/Embedded-And-RealTime-Software-Intern",
+"locations": [
+"Saline, MI"
+],
+"posted": "2026-09-30",
+"terms": [
+"Summer 2027"
+],
+"degrees": [
+"Bachelor's"
+],
+"sources": [
+"SimplifyJobs/Summer2027-Internships"
+],
+"reqs": null,
+"id": "9cb1627acb93",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
 "company": "Marvell",
 "title": "Firmware Engineer Intern",
 "url": "https://go.vansh.nyc/E1",
@@ -7674,31 +8478,6 @@
 ],
 "reqs": null,
 "id": "c6b6f872db29",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-26",
-"stale": false
-},
-{
-"section": "intern",
-"company": "Quantum Signal AI",
-"title": "Embedded and Real-Time Software Intern",
-"url": "https://go.vansh.nyc/E6",
-"locations": [
-"Saline, MI"
-],
-"posted": "2026-09-30",
-"terms": [
-"Summer"
-],
-"degrees": [],
-"sources": [
-"vanshb03/Summer2027-Internships"
-],
-"reqs": null,
-"id": "295ea64bf608",
 "tags": [
 "Hardware"
 ],
@@ -7942,33 +8721,6 @@
 ],
 "reqs": null,
 "id": "e4e3d26bca9f",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "intern",
-"company": "RTX",
-"title": "Embedded Software Engineer Intern",
-"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Summer-2027-Embedded-Software-Engineering-Intern--Onsite-_01878014",
-"locations": [
-"East Hartford, CT"
-],
-"posted": "2026-09-30",
-"terms": [
-"Summer 2027"
-],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/Summer2027-Internships"
-],
-"reqs": null,
-"id": "42e8ba460ad1",
 "tags": [
 "Hardware"
 ],
@@ -8274,6 +9026,33 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Lawrence Livermore National Laboratory (LLNL)",
+"title": "Defense Science and Technology Intern",
+"url": "https://jobs.smartrecruiters.com/LLNL/3743990015740565",
+"locations": [
+"Livermore, CA"
+],
+"posted": "2026-09-28",
+"terms": [
+"Summer 2027"
+],
+"degrees": [
+"Bachelor's"
+],
+"sources": [
+"SimplifyJobs/Summer2027-Internships"
+],
+"reqs": null,
+"id": "23d8158d2642",
+"tags": [
+"IT & Support"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
 "stale": false
 },
 {
@@ -8697,6 +9476,36 @@
 },
 {
 "section": "intern",
+"company": "Aurora Innovation",
+"title": "Data & ML Platform Engineer Intern",
+"url": "https://jobs.ashbyhq.com/aurora-operations-inc/da4c8e2e-0571-4503-94d9-234da86f83b0/application?embed=true",
+"locations": [
+"SF",
+"Pittsburgh, PA",
+"Mountain View, CA"
+],
+"posted": "2026-09-24",
+"terms": [
+"Summer 2027"
+],
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"sources": [
+"SimplifyJobs/Summer2027-Internships"
+],
+"reqs": null,
+"id": "6dcb768f50ee",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
 "company": "Astranis",
 "title": "FPGA Intern",
 "url": "https://go.vansh.nyc/Jv",
@@ -8848,33 +9657,6 @@
 ],
 "reqs": null,
 "id": "8730fd466f54",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "intern",
-"company": "Astranis",
-"title": "Software Defined Radio Hardware Associate",
-"url": "https://job-boards.greenhouse.io/astranis/jobs/4715985006",
-"locations": [
-"SF"
-],
-"posted": "2026-09-24",
-"terms": [
-"N/A"
-],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/Summer2027-Internships"
-],
-"reqs": null,
-"id": "aa52fccfe491",
 "tags": [
 "Hardware"
 ],
@@ -10868,33 +11650,6 @@
 },
 {
 "section": "intern",
-"company": "The Toro Company",
-"title": "Embedded Software Engineer Intern",
-"url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17114",
-"locations": [
-"Bloomington, MN"
-],
-"posted": "2026-09-11",
-"terms": [
-"Summer 2027"
-],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/Summer2027-Internships"
-],
-"reqs": null,
-"id": "818ab6488b97",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "intern",
 "company": "Citizens Financial Group",
 "title": "Data Engineer Intern - Enterprise Technology & Security",
 "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285",
@@ -11409,6 +12164,31 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Pilot Company",
+"title": "Program Intern, Cloud Operations",
+"url": "https://go.vansh.nyc/V0",
+"locations": [
+"Knoxville, TN"
+],
+"posted": "2026-09-09",
+"terms": [
+"Summer"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "3a8f0caf2dba",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
 "stale": false
 },
 {
@@ -11958,33 +12738,6 @@
 ],
 "reqs": null,
 "id": "6963d7d7d411",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "intern",
-"company": "Dominion Energy",
-"title": "Electrical Engineer Intern - Operations Analytics",
-"url": "https://careers.dominionenergy.com/job/GLEN-ALLEN-Intern-ET-Operations-Analytics-VA-23060/1427633000?ats=successfactors",
-"locations": [
-"Glen Allen, VA"
-],
-"posted": "2026-09-08",
-"terms": [
-"Spring 2028"
-],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/Summer2027-Internships"
-],
-"reqs": null,
-"id": "e25f26e2ccc1",
 "tags": [
 "Hardware"
 ],
@@ -13771,33 +14524,6 @@
 "id": "64cb59f7d72c",
 "tags": [
 "Security"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "intern",
-"company": "Tesla",
-"title": "Product Support Engineer Intern - Service Engineering",
-"url": "https://www.tesla.com/careers/search/job/281607",
-"locations": [
-"Palo Alto, CA"
-],
-"posted": "2026-08-27",
-"terms": [
-"Spring 2027"
-],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/Summer2027-Internships"
-],
-"reqs": null,
-"id": "d2c11d1a8241",
-"tags": [
-"IT & Support"
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
@@ -15885,33 +16611,6 @@
 "id": "3dbc6a122cbd",
 "tags": [
 "IT & Support"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "intern",
-"company": "GE Appliances",
-"title": "Electrical Engineer Co-op",
-"url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Electrical-Engineering-Co-op-Spring-2027_REQ-24834",
-"locations": [
-"Louisville, KY"
-],
-"posted": "2026-06-27",
-"terms": [
-"Spring 2027"
-],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/Summer2027-Internships"
-],
-"reqs": null,
-"id": "a99290015167",
-"tags": [
-"Hardware"
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
