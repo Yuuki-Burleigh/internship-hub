@@ -1,49 +1,481 @@
 {
 "meta": {
-"generated_at": "2026-10-30T19:49:14+00:00",
+"generated_at": "2026-10-31T18:59:04+00:00",
 "sources": {
-"github:vanshb03/Summer2027-Internships": "ok: 1391 read, 1391 kept",
-"github:vanshb03/New-Grad-2027": "ok: 660 read, 660 kept",
+"github:vanshb03/New-Grad-2027": "ok: 665 read, 665 kept",
 "greenhouse:tanium": "ok: 64 read, 0 kept",
-"greenhouse:okta": "ok: 388 read, 0 kept",
-"greenhouse:figma": "ok: 140 read, 0 kept",
-"greenhouse:vercel": "ok: 91 read, 0 kept",
-"greenhouse:datadog": "ok: 398 read, 0 kept",
 "greenhouse:verkada": "ok: 335 read, 5 kept",
-"greenhouse:fastly": "ok: 52 read, 1 kept",
-"greenhouse:scaleai": "ok: 169 read, 0 kept",
-"greenhouse:sambanovasystems": "ok: 72 read, 1 kept",
-"greenhouse:samsara": "ok: 322 read, 0 kept",
-"greenhouse:gitlab": "ok: 236 read, 2 kept",
+"greenhouse:samsara": "ok: 324 read, 0 kept",
+"greenhouse:gitlab": "ok: 238 read, 2 kept",
+"github:vanshb03/Summer2027-Internships": "ok: 1394 read, 1394 kept",
 "greenhouse:coreweave": "ok: 308 read, 13 kept",
+"greenhouse:vercel": "ok: 91 read, 0 kept",
+"greenhouse:okta": "ok: 387 read, 0 kept",
+"greenhouse:sambanovasystems": "ok: 72 read, 1 kept",
+"greenhouse:fastly": "ok: 52 read, 1 kept",
+"greenhouse:datadog": "ok: 397 read, 0 kept",
+"greenhouse:figma": "ok: 140 read, 0 kept",
 "greenhouse:neuralink": "ok: 80 read, 7 kept",
-"greenhouse:tenstorrent": "ok: 124 read, 0 kept",
-"greenhouse:xai": "ok: 305 read, 1 kept",
-"ashby:replit": "ok: 34 read, 0 kept",
+"greenhouse:tenstorrent": "ok: 126 read, 0 kept",
+"greenhouse:scaleai": "ok: 170 read, 0 kept",
+"greenhouse:cloudflare": "ok: 464 read, 0 kept",
+"greenhouse:xai": "ok: 308 read, 1 kept",
 "ashby:lambda": "ok: 92 read, 0 kept",
-"github:SimplifyJobs/Summer2027-Internships": "ok: 2567 read, 2567 kept",
-"ashby:notion": "ok: 147 read, 0 kept",
-"greenhouse:cloudflare": "ok: 461 read, 0 kept",
-"github:SimplifyJobs/New-Grad-Positions": "ok: 2220 read, 2220 kept",
-"amazon:data center technician": "ok: 100 read, 5 kept",
-"amazon:network intern": "ok: 6 read, 1 kept",
-"lever:palantir": "ok: 299 read, 9 kept",
-"amazon:IT intern": "ok: 2 read, 0 kept",
+"ashby:replit": "ok: 34 read, 0 kept",
+"github:SimplifyJobs/New-Grad-Positions": "ok: 2234 read, 2234 kept",
+"ashby:notion": "ok: 148 read, 0 kept",
+"greenhouse:axon": "ok: 471 read, 0 kept",
+"ashby:crusoe": "ok: 340 read, 0 kept",
+"lever:palantir": "ok: 301 read, 9 kept",
+"github:SimplifyJobs/Summer2027-Internships": "ok: 2636 read, 2636 kept",
+"github:LuisaE/opportunities": "ok: 46 read, 46 kept",
 "amazon:help desk": "ok: 11 read, 0 kept",
 "amazon:security intern": "ok: 10 read, 1 kept",
-"github:LuisaE/opportunities": "ok: 46 read, 46 kept",
-"ashby:crusoe": "ok: 340 read, 0 kept",
+"amazon:network intern": "ok: 6 read, 1 kept",
+"amazon:IT intern": "ok: 2 read, 0 kept",
+"greenhouse:spacex": "ok: 2874 read, 12 kept",
+"ashby:openai": "ok: 812 read, 2 kept",
 "amazon:network technician": "ok: 100 read, 0 kept",
 "amazon:IT support": "ok: 100 read, 2 kept",
-"greenhouse:axon": "ok: 469 read, 0 kept",
-"ashby:openai": "ok: 817 read, 2 kept",
-"greenhouse:spacex": "ok: 2865 read, 13 kept"
+"amazon:data center technician": "ok: 100 read, 5 kept"
 },
 "carried_from_failed_sources": 0,
-"count": 503,
-"new_today": 24
+"count": 508,
+"new_today": 30
 },
 "listings": [
+{
+"section": "newgrad",
+"company": "NVIDIA",
+"title": "Software Engineer, Hardware Tools and Methodology (Master's)",
+"url": "https://go.vansh.nyc/11G",
+"locations": [
+"Santa Clara, CA"
+],
+"posted": "2026-10-31",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "e97dbe21d1cf",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-31",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "NVIDIA",
+"title": "Security Architect",
+"url": "https://go.vansh.nyc/11L",
+"locations": [
+"Santa Clara, CA"
+],
+"posted": "2026-10-31",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "12981b66374a",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-10-31",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Amazon",
+"title": "Hardware Development Engineer 1 - Drone Engineering",
+"url": "https://amazon.jobs/en/jobs/10593930/hardware-dev-engineer-i-prime-air-drone-engineering",
+"locations": [
+"Seattle, WA"
+],
+"posted": "2026-10-31",
+"terms": [],
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"sources": [
+"SimplifyJobs/New-Grad-Positions"
+],
+"reqs": null,
+"id": "8f1b39918b9a",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-31",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Kairos Power",
+"title": "Firmware Development Engineer",
+"url": "https://go.vansh.nyc/11d",
+"locations": [
+"Alameda, CA"
+],
+"posted": "2026-10-30",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "b7e709284891",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-31",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "NVIDIA",
+"title": "ASIC Floorplan Design Engineer (Master's)",
+"url": "https://go.vansh.nyc/11k",
+"locations": [
+"Santa Clara, CA"
+],
+"posted": "2026-10-30",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "56a8d8016cee",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-31",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "NVIDIA",
+"title": "New Grad 2027: ASIC Verification Engineer, Memory Management",
+"url": "https://go.vansh.nyc/11l",
+"locations": [
+"Durham, NC",
+"Madison, AL",
+"Hillsboro, OR"
+],
+"posted": "2026-10-30",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "0c93e569e1c0",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-31",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "NVIDIA",
+"title": "ASIC Design Engineer",
+"url": "https://go.vansh.nyc/11m",
+"locations": [
+"Santa Clara, CA"
+],
+"posted": "2026-10-30",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "096fc891da8f",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-31",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "NVIDIA",
+"title": "New Grad 2027: ASIC Design Engineer",
+"url": "https://go.vansh.nyc/11o",
+"locations": [
+"Santa Clara, CA"
+],
+"posted": "2026-10-30",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "f511c2f64f3f",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-31",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "NVIDIA",
+"title": "Applied Systems Engineering Rotation Engineer",
+"url": "https://go.vansh.nyc/11r",
+"locations": [
+"Santa Clara, CA"
+],
+"posted": "2026-10-30",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "2c068d7fc41b",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-10-31",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "NVIDIA",
+"title": "ASIC Physical Design and Timing Engineer (Master's)",
+"url": "https://go.vansh.nyc/11A",
+"locations": [
+"Santa Clara, CA"
+],
+"posted": "2026-10-30",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "2b9f28938cb7",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-31",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "NVIDIA",
+"title": "ASIC Design Verification Engineer (Master's)",
+"url": "https://go.vansh.nyc/11C",
+"locations": [
+"Austin, TX"
+],
+"posted": "2026-10-30",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "0359228c10ec",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-31",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Broadcom",
+"title": "New Grad: Physical Design Engineer, ASIC Products Division (APD) (Master's)",
+"url": "https://go.vansh.nyc/123",
+"locations": [
+"San Jose, CA"
+],
+"posted": "2026-10-30",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "cc3bfb2f238a",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-31",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Broadcom",
+"title": "Physical Design Engineer, ASIC Products Division (Master's)",
+"url": "https://go.vansh.nyc/124",
+"locations": [
+"San Jose, CA"
+],
+"posted": "2026-10-30",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "c550a6b0eb4f",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-31",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "RTX",
+"title": "CCA/PCB Product Development Engineer 1",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/CCA-PCB-Product-Development-Engineer-I--Onsite-_01886239",
+"locations": [
+"McKinney, TX"
+],
+"posted": "2026-10-30",
+"terms": [],
+"degrees": [
+"Bachelor's"
+],
+"sources": [
+"SimplifyJobs/New-Grad-Positions"
+],
+"reqs": null,
+"id": "dc1ed06716b7",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-31",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Rocket Lab Corporation",
+"title": "Business Systems Engineer 1",
+"url": "https://job-boards.greenhouse.io/rocketlab/jobs/8087292003",
+"locations": [
+"Long Beach, CA"
+],
+"posted": "2026-10-30",
+"terms": [],
+"degrees": [
+"Bachelor's"
+],
+"sources": [
+"SimplifyJobs/New-Grad-Positions"
+],
+"reqs": null,
+"id": "88f9ab558a08",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-10-31",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "TSC",
+"title": "Electrical/Computer Engineer 2",
+"url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Bloomington-IN/Electrical-Computer-Engineer-II_JR2902",
+"locations": [
+"Bloomington, IN"
+],
+"posted": "2026-10-30",
+"terms": [],
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"sources": [
+"SimplifyJobs/New-Grad-Positions"
+],
+"reqs": null,
+"id": "9fd4dadc0df5",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-31",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Broadcom",
+"title": "Physical Design Engineer New Grad - ASIC Products Division (APD)",
+"url": "https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-CA-San-Jose-Innovation-Drive/Physical-Design-Engineer_R027516",
+"locations": [
+"San Jose, CA"
+],
+"posted": "2026-10-30",
+"terms": [],
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"sources": [
+"SimplifyJobs/New-Grad-Positions"
+],
+"reqs": null,
+"id": "b62aff68fbca",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-31",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Broadcom",
+"title": "Physical Design Engineer - ASIC Products Division",
+"url": "https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-CA-San-Jose-Innovation-Drive/Physical-Design-Engineer_R027588",
+"locations": [
+"San Jose, CA"
+],
+"posted": "2026-10-30",
+"terms": [],
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"sources": [
+"SimplifyJobs/New-Grad-Positions"
+],
+"reqs": null,
+"id": "591acc8b71ce",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-31",
+"stale": false
+},
 {
 "section": "newgrad",
 "company": "Johns Hopkins APL",
@@ -144,6 +576,81 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-30",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "NVIDIA",
+"title": "ASIC Physical Design Engineer, Netlisting (Master's)",
+"url": "https://go.vansh.nyc/10i",
+"locations": [
+"Santa Clara, CA",
+"Austin, TX"
+],
+"posted": "2026-10-29",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "62eebfe5aada",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-31",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "RTX",
+"title": "Electrical Engineer 1",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Electrical-Engineer-I_01884551",
+"locations": [
+"Fort Wayne, IN"
+],
+"posted": "2026-10-29",
+"terms": [],
+"degrees": [
+"Bachelor's"
+],
+"sources": [
+"SimplifyJobs/New-Grad-Positions"
+],
+"reqs": null,
+"id": "4c63c3f2b677",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-31",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Noble Machines",
+"title": "Electrical Engineer \u2013 Early Career - Embedded Systems & Tools",
+"url": "https://job-boards.greenhouse.io/undercontrolroboticsinc/jobs/4473572009",
+"locations": [
+"Sunnyvale, CA"
+],
+"posted": "2026-10-29",
+"terms": [],
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"sources": [
+"SimplifyJobs/New-Grad-Positions"
+],
+"reqs": null,
+"id": "337fe26474aa",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-31",
 "stale": false
 },
 {
@@ -851,6 +1358,32 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-28",
+"stale": false
+},
+{
+"section": "qualify",
+"company": "SpaceX",
+"title": "Executive IT Support Specialist",
+"url": "https://boards.greenhouse.io/spacex/jobs/8908024002?gh_jid=8908024002",
+"locations": [
+"McGregor, TX"
+],
+"posted": "2026-10-26",
+"terms": [],
+"degrees": [],
+"sources": [
+"greenhouse:spacex"
+],
+"reqs": {
+"degree": "equivalent ok",
+"years": 1
+},
+"id": "fdbd45d12d26",
+"tags": [
+"IT & Support"
+],
+"underclass": false,
+"first_seen": "2026-10-31",
 "stale": false
 },
 {
@@ -1707,31 +2240,6 @@
 },
 {
 "section": "newgrad",
-"company": "Becton Dickinson",
-"title": "R&D Hardware Electrical Engineer 1",
-"url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/R-D-Hardware-Electrical-Engineer-I_R-557980-1",
-"locations": [
-"Sparks, MD"
-],
-"posted": "2026-10-22",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "8a8d3ee1f9c8",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
 "company": "RTX",
 "title": "Electrical Design Engineer 1",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-KY-LOUISVILLE-102--6201-Strawberry-Ln--STRAWBERRY/Electrical-Engineer-I--Onsite-_01884305",
@@ -1856,6 +2364,31 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Motorola Solutions",
+"title": "Embedded Software Engineer",
+"url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Embedded-Software-Engineer_R68965-1",
+"locations": [
+"Allen, TX"
+],
+"posted": "2026-10-21",
+"terms": [],
+"degrees": [
+"Bachelor's"
+],
+"sources": [
+"SimplifyJobs/New-Grad-Positions"
+],
+"reqs": null,
+"id": "e9344a8e4310",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-31",
 "stale": false
 },
 {
@@ -3038,6 +3571,52 @@
 {
 "section": "newgrad",
 "company": "Micron Technology",
+"title": "Computer Engineer, Central Engineering",
+"url": "https://go.vansh.nyc/De",
+"locations": [
+"Boise, ID"
+],
+"posted": "2026-10-15",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "478e21816d2f",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-31",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Micron Technology",
+"title": "Embedded Firmware Engineer",
+"url": "https://go.vansh.nyc/DE",
+"locations": [
+"Boise, ID"
+],
+"posted": "2026-10-15",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "70f5dc62d316",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-31",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Micron Technology",
 "title": "Computer Engineer New Grad - Central Engineering",
 "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Computer-Engineer--Central-Engineering_JR115116-1",
 "locations": [
@@ -3079,31 +3658,6 @@
 ],
 "reqs": null,
 "id": "c16d781e9e78",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "Texas Instruments",
-"title": "Validation Engineer",
-"url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018716",
-"locations": [
-"Dallas, TX"
-],
-"posted": "2026-10-15",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "c290237d6987",
 "tags": [
 "Hardware"
 ],
@@ -3334,52 +3888,6 @@
 },
 {
 "section": "newgrad",
-"company": "NVIDIA",
-"title": "New Grad 2027: ASIC Verification Engineer",
-"url": "https://go.vansh.nyc/Dq",
-"locations": [
-"Santa Clara, CA"
-],
-"posted": "2026-10-13",
-"terms": [],
-"degrees": [],
-"sources": [
-"vanshb03/New-Grad-2027"
-],
-"reqs": null,
-"id": "354c7a3751c1",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-26",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "NVIDIA",
-"title": "New Grad 2027: Low Power ASIC Engineer",
-"url": "https://go.vansh.nyc/Ds",
-"locations": [
-"Santa Clara, CA"
-],
-"posted": "2026-10-13",
-"terms": [],
-"degrees": [],
-"sources": [
-"vanshb03/New-Grad-2027"
-],
-"reqs": null,
-"id": "3b001dc2a344",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-26",
-"stale": false
-},
-{
-"section": "newgrad",
 "company": "Cricut",
 "title": "Senior Firmware Engineer",
 "url": "https://jobs.smartrecruiters.com/Cricut/744000155305159",
@@ -3484,33 +3992,6 @@
 },
 {
 "section": "newgrad",
-"company": "Boeing",
-"title": "ASIC/FPGA Verification Engineer \u2013 Or Lead - Associate - Experienced",
-"url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/ASIC-FPGA-Verification-Engineer----Associate--Experienced--or-Lead----SoCal_JR2025480380-1",
-"locations": [
-"Huntington Beach, CA",
-"El Segundo, CA"
-],
-"posted": "2026-10-13",
-"terms": [],
-"degrees": [
-"Bachelor's",
-"Master's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "94c924b3f13b",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
 "company": "Star Catcher",
 "title": "Electrical Engineer",
 "url": "https://job-boards.greenhouse.io/star-catcher/jobs/4448765009",
@@ -3583,6 +4064,29 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "NVIDIA",
+"title": "ASIC Clocks Verification Engineer (Master's)",
+"url": "https://go.vansh.nyc/I3",
+"locations": [
+"Santa Clara, CA"
+],
+"posted": "2026-10-09",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "91860572aaa2",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-10-31",
 "stale": false
 },
 {
@@ -4961,81 +5465,6 @@
 {
 "section": "newgrad",
 "company": "NVIDIA",
-"title": "New Grad 2027: ASIC Design Engineer",
-"url": "https://go.vansh.nyc/XR",
-"locations": [
-"Santa Clara, CA"
-],
-"posted": "2026-09-28",
-"terms": [],
-"degrees": [],
-"sources": [
-"vanshb03/New-Grad-2027"
-],
-"reqs": null,
-"id": "8006110db61f",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-28",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "NVIDIA",
-"title": "New Grad 2027: ASIC Verification Engineer, Memory Management",
-"url": "https://go.vansh.nyc/XS",
-"locations": [
-"Durham, NC",
-"Madison, AL",
-"Hillsboro, OR"
-],
-"posted": "2026-09-28",
-"terms": [],
-"degrees": [],
-"sources": [
-"vanshb03/New-Grad-2027"
-],
-"reqs": null,
-"id": "a66374ecee93",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-28",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "NVIDIA",
-"title": "ASIC Design Engineer",
-"url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2027_JR2026277",
-"locations": [
-"Santa Clara, CA",
-"United States"
-],
-"posted": "2026-09-28",
-"terms": [],
-"degrees": [
-"Bachelor's",
-"Master's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "7f1e9d5e6030",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-27",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "NVIDIA",
 "title": "ASIC Verification Engineer New Grad - Memory Management",
 "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Durham/ASIC-Verification-Engineer--Memory-Management---New-College-Grad-2027_JR2026341",
 "locations": [
@@ -5844,32 +6273,6 @@
 },
 {
 "section": "newgrad",
-"company": "AST SpaceMobile",
-"title": "Associate Electrical Test Engineer",
-"url": "https://ast-science.com/company/careers?gh_jid=4734515005",
-"locations": [
-"Midland, TX"
-],
-"posted": "2026-09-16",
-"terms": [],
-"degrees": [
-"Bachelor's",
-"Associate's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "9d18dc6ef2f8",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-29",
-"stale": false
-},
-{
-"section": "newgrad",
 "company": "RTX",
 "title": "Electrical Computer-Aided Design Engineer 1",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/ECAD-Engineer-I---Onsite_01834011",
@@ -5920,31 +6323,6 @@
 },
 {
 "section": "newgrad",
-"company": "RTX",
-"title": "Electrical Engineer 1",
-"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Electrical-Engineer-I--Onsite-_01867733",
-"locations": [
-"McKinney, TX"
-],
-"posted": "2026-09-15",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "6b73729f0e2f",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
 "company": "Apple",
 "title": "Hardware Systems Engineer - Board Design",
 "url": "https://jobs.apple.com/en-us/details/200683615",
@@ -5990,6 +6368,31 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "RTX",
+"title": "Systems Engineer 1",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/Systems-Engineer-I--Onsite_01874571",
+"locations": [
+"Tewksbury, MA"
+],
+"posted": "2026-09-14",
+"terms": [],
+"degrees": [
+"Bachelor's"
+],
+"sources": [
+"SimplifyJobs/New-Grad-Positions"
+],
+"reqs": null,
+"id": "4e298bbf4d56",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-10-31",
 "stale": false
 },
 {
@@ -6414,31 +6817,6 @@
 "stale": false
 },
 {
-"section": "newgrad",
-"company": "RTX",
-"title": "Digital Hardware Design Engineer",
-"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Digital-Hardware-Design-Engineer--2027-New-College-Graduate-_01873795",
-"locations": [
-"El Segundo, CA"
-],
-"posted": "2026-09-10",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "4a89cb5b61c5",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
 "section": "qualify",
 "company": "SpaceX",
 "title": "Video & Voice Systems Administrator",
@@ -6462,6 +6840,30 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Peraton",
+"title": "Software Engineer - Ignite Innovator Program",
+"url": "https://peraton.jibeapply.com/jobs/169664?icims=1",
+"locations": [
+"Blacksburg, VA",
+"Herndon, VA"
+],
+"posted": "2026-09-09",
+"terms": [],
+"degrees": [
+"Bachelor's"
+],
+"sources": [
+"SimplifyJobs/New-Grad-Positions"
+],
+"reqs": null,
+"id": "76df86131dc8",
+"tags": [],
+"underclass": true,
+"first_seen": "2026-10-31",
 "stale": false
 },
 {
@@ -6558,31 +6960,6 @@
 ],
 "reqs": null,
 "id": "6a9f4b7990e9",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "RTX",
-"title": "FPGA Electrical Design Engineer 1 - Effector Digital Products Department",
-"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/FPGA-Electrical-Design-Engineer-I--Onsite-_01872978",
-"locations": [
-"Tucson, AZ"
-],
-"posted": "2026-09-08",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "f32824e02af4",
 "tags": [
 "Hardware"
 ],
@@ -6836,57 +7213,6 @@
 "id": "28d7678611a1",
 "tags": [
 "IT & Support"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "RTX",
-"title": "Digital Hardware Design Electrical Engineer 1",
-"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WM--2501-W-University-Dr--WING-M-BLDG/Digital-Hardware-Design-Electrical-Engineer-I--Onsite-_01872576",
-"locations": [
-"McKinney, TX"
-],
-"posted": "2026-09-03",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "a8daa8157aa1",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "Micron Technology",
-"title": "Electrical Failure Analysis Engineer New Grad - Yield Enhancement",
-"url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/New-College-Grad---Yield-Enhancement-Electrical-Failure-Analysis-Engineer_JR109479",
-"locations": [
-"Boise, ID"
-],
-"posted": "2026-09-03",
-"terms": [],
-"degrees": [
-"Bachelor's",
-"Master's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "886eed951c23",
-"tags": [
-"Hardware"
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
@@ -7172,29 +7498,6 @@
 },
 {
 "section": "newgrad",
-"company": "NVIDIA",
-"title": "Applied Systems Engineering Rotation Engineer",
-"url": "https://go.vansh.nyc/NJ",
-"locations": [
-"Santa Clara, CA"
-],
-"posted": "2026-09-01",
-"terms": [],
-"degrees": [],
-"sources": [
-"vanshb03/New-Grad-2027"
-],
-"reqs": null,
-"id": "596bfee00312",
-"tags": [
-"Cloud & Infra"
-],
-"underclass": false,
-"first_seen": "2026-10-26",
-"stale": false
-},
-{
-"section": "newgrad",
 "company": "Blue Origin",
 "title": "New Grad 2027: Avionics / Embedded Software Engineer I",
 "url": "https://go.vansh.nyc/O9",
@@ -7291,82 +7594,6 @@
 "id": "7f69e33fc25d",
 "tags": [
 "Network"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "RTX",
-"title": "Digital ASIC/FPGA Design Engineer 1",
-"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Digital-ASIC-FPGA-Design-Engineer-I--Onsite-_01870687",
-"locations": [
-"McKinney, TX"
-],
-"posted": "2026-09-01",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "7a3001b0bd61",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "NVIDIA",
-"title": "Applied Systems Engineering Rotation Engineer New Grad",
-"url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Systems-Engineering-Rotation-Engineer---New-College-Graduate-2026_JR2024713",
-"locations": [
-"Santa Clara, CA"
-],
-"posted": "2026-09-01",
-"terms": [],
-"degrees": [
-"Bachelor's",
-"Master's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "a43c21cee837",
-"tags": [
-"Cloud & Infra"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "RTX",
-"title": "FPGA Electrical Engineer 1 - Multi-Product Power & Digital",
-"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Electrical-Engineer-I--Onsite-_01871238",
-"locations": [
-"McKinney, TX"
-],
-"posted": "2026-09-01",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "7748c3bce4b1",
-"tags": [
-"Hardware"
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
@@ -8364,32 +8591,6 @@
 },
 {
 "section": "newgrad",
-"company": "Crusoe",
-"title": "Software Engineer 1 - Network",
-"url": "https://jobs.ashbyhq.com/Crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed/application?embed=true",
-"locations": [
-"SF",
-"Sunnyvale, CA"
-],
-"posted": "2026-08-20",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "c06ba865473f",
-"tags": [
-"Network"
-],
-"underclass": false,
-"first_seen": "2026-10-29",
-"stale": false
-},
-{
-"section": "newgrad",
 "company": "SAIC",
 "title": "Software Systems Engineer (Master's)",
 "url": "https://go.vansh.nyc/PQ",
@@ -8902,31 +9103,6 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "RTX",
-"title": "Systems Engineer 1",
-"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Systems-Engineer-I_01866673",
-"locations": [
-"Marlborough, MA"
-],
-"posted": "2026-08-13",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "65a841ab0bd6",
-"tags": [
-"Cloud & Infra"
-],
-"underclass": false,
-"first_seen": "2026-10-30",
 "stale": false
 },
 {
@@ -10671,31 +10847,6 @@
 },
 {
 "section": "newgrad",
-"company": "Pyka",
-"title": "Associate Electrical Engineer",
-"url": "https://jobs.lever.co/pyka/91c448a1-158a-4cb3-a334-9aa42ddd7d42/apply",
-"locations": [
-"Alameda, CA"
-],
-"posted": "2026-07-18",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "b2b7f2e202be",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
 "company": "Chevron Corporation",
 "title": "Information Technology Engineer - Software Engineer",
 "url": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Full-Time_R000072400-1",
@@ -10751,29 +10902,28 @@
 "stale": false
 },
 {
-"section": "qualify",
-"company": "SpaceX",
-"title": "IT Support Technician",
-"url": "https://boards.greenhouse.io/spacex/jobs/8629135002?gh_jid=8629135002",
+"section": "newgrad",
+"company": "NVIDIA",
+"title": "ASIC Design Engineer New Grad",
+"url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2020309",
 "locations": [
-"Cape Canaveral, FL"
+"Santa Clara, CA"
 ],
-"posted": "2026-07-13",
+"posted": "2026-07-09",
 "terms": [],
-"degrees": [],
-"sources": [
-"greenhouse:spacex"
+"degrees": [
+"Bachelor's"
 ],
-"reqs": {
-"degree": "high school",
-"years": 1
-},
-"id": "d473f3d69da8",
+"sources": [
+"SimplifyJobs/New-Grad-Positions"
+],
+"reqs": null,
+"id": "8305848d3a75",
 "tags": [
-"IT & Support"
+"Hardware"
 ],
 "underclass": false,
-"first_seen": "2026-10-30",
+"first_seen": "2026-10-31",
 "stale": false
 },
 {
@@ -10852,32 +11002,6 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "qualify",
-"company": "SpaceX",
-"title": "Executive IT Support Specialist",
-"url": "https://boards.greenhouse.io/spacex/jobs/8617198002?gh_jid=8617198002",
-"locations": [
-"Palo Alto, CA"
-],
-"posted": "2026-07-06",
-"terms": [],
-"degrees": [],
-"sources": [
-"greenhouse:spacex"
-],
-"reqs": {
-"degree": "equivalent ok",
-"years": 1
-},
-"id": "2925e0b54d04",
-"tags": [
-"IT & Support"
-],
-"underclass": false,
-"first_seen": "2026-10-30",
 "stale": false
 },
 {
@@ -11125,31 +11249,6 @@
 "id": "0eda2bb8a9fd",
 "tags": [
 "Cloud & Infra"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "Schweitzer Engineering Laboratories",
-"title": "Associate Hardware Engineer",
-"url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Hardware-Engineer_2025-17988",
-"locations": [
-"Moscow, ID"
-],
-"posted": "2026-06-13",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "eae5947b09f2",
-"tags": [
-"Hardware"
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
@@ -11725,30 +11824,29 @@
 "stale": false
 },
 {
-"section": "newgrad",
-"company": "The Boeing Company",
-"title": "ASIC/FPGA Verification Engineer Lead - Associate",
-"url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/ASIC-FPGA-Verification-Engineer----Associate--Experienced--or-Lead----SoCal_JR2025480380",
+"section": "qualify",
+"company": "SpaceX",
+"title": "IT Support Technician",
+"url": "https://boards.greenhouse.io/spacex/jobs/8534863002?gh_jid=8534863002",
 "locations": [
-"Huntington Beach, CA",
-"El Segundo, CA"
+"Hawthorne, CA"
 ],
-"posted": "2026-04-27",
+"posted": "2026-05-04",
 "terms": [],
-"degrees": [
-"Bachelor's",
-"Master's"
-],
+"degrees": [],
 "sources": [
-"SimplifyJobs/New-Grad-Positions"
+"greenhouse:spacex"
 ],
-"reqs": null,
-"id": "d02e1389f838",
+"reqs": {
+"degree": "high school",
+"years": 1
+},
+"id": "ac34dde4f741",
 "tags": [
-"Hardware"
+"IT & Support"
 ],
 "underclass": false,
-"first_seen": "2026-10-23",
+"first_seen": "2026-10-31",
 "stale": false
 },
 {
