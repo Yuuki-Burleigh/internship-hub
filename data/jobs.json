@@ -1,49 +1,835 @@
 {
 "meta": {
-"generated_at": "2026-10-31T18:59:04+00:00",
+"generated_at": "2026-11-01T19:19:09+00:00",
 "sources": {
-"github:vanshb03/New-Grad-2027": "ok: 665 read, 665 kept",
 "greenhouse:tanium": "ok: 64 read, 0 kept",
-"greenhouse:verkada": "ok: 335 read, 5 kept",
-"greenhouse:samsara": "ok: 324 read, 0 kept",
+"github:vanshb03/New-Grad-2027": "ok: 797 read, 797 kept",
 "greenhouse:gitlab": "ok: 238 read, 2 kept",
-"github:vanshb03/Summer2027-Internships": "ok: 1394 read, 1394 kept",
-"greenhouse:coreweave": "ok: 308 read, 13 kept",
-"greenhouse:vercel": "ok: 91 read, 0 kept",
-"greenhouse:okta": "ok: 387 read, 0 kept",
-"greenhouse:sambanovasystems": "ok: 72 read, 1 kept",
+"greenhouse:samsara": "ok: 339 read, 0 kept",
 "greenhouse:fastly": "ok: 52 read, 1 kept",
+"greenhouse:vercel": "ok: 91 read, 0 kept",
 "greenhouse:datadog": "ok: 397 read, 0 kept",
+"greenhouse:verkada": "ok: 335 read, 5 kept",
+"greenhouse:coreweave": "ok: 308 read, 13 kept",
+"greenhouse:okta": "ok: 386 read, 0 kept",
 "greenhouse:figma": "ok: 140 read, 0 kept",
 "greenhouse:neuralink": "ok: 80 read, 7 kept",
-"greenhouse:tenstorrent": "ok: 126 read, 0 kept",
-"greenhouse:scaleai": "ok: 170 read, 0 kept",
-"greenhouse:cloudflare": "ok: 464 read, 0 kept",
 "greenhouse:xai": "ok: 308 read, 1 kept",
+"greenhouse:sambanovasystems": "ok: 72 read, 1 kept",
+"greenhouse:scaleai": "ok: 170 read, 0 kept",
+"github:vanshb03/Summer2027-Internships": "ok: 1606 read, 1606 kept",
+"greenhouse:tenstorrent": "ok: 126 read, 0 kept",
+"greenhouse:cloudflare": "ok: 463 read, 0 kept",
 "ashby:lambda": "ok: 92 read, 0 kept",
 "ashby:replit": "ok: 34 read, 0 kept",
-"github:SimplifyJobs/New-Grad-Positions": "ok: 2234 read, 2234 kept",
 "ashby:notion": "ok: 148 read, 0 kept",
+"ashby:crusoe": "ok: 341 read, 0 kept",
 "greenhouse:axon": "ok: 471 read, 0 kept",
-"ashby:crusoe": "ok: 340 read, 0 kept",
-"lever:palantir": "ok: 301 read, 9 kept",
-"github:SimplifyJobs/Summer2027-Internships": "ok: 2636 read, 2636 kept",
+"github:SimplifyJobs/Summer2027-Internships": "ok: 2620 read, 2620 kept",
 "github:LuisaE/opportunities": "ok: 46 read, 46 kept",
-"amazon:help desk": "ok: 11 read, 0 kept",
 "amazon:security intern": "ok: 10 read, 1 kept",
 "amazon:network intern": "ok: 6 read, 1 kept",
-"amazon:IT intern": "ok: 2 read, 0 kept",
-"greenhouse:spacex": "ok: 2874 read, 12 kept",
-"ashby:openai": "ok: 812 read, 2 kept",
 "amazon:network technician": "ok: 100 read, 0 kept",
 "amazon:IT support": "ok: 100 read, 2 kept",
-"amazon:data center technician": "ok: 100 read, 5 kept"
+"amazon:help desk": "ok: 11 read, 0 kept",
+"amazon:data center technician": "ok: 100 read, 5 kept",
+"amazon:IT intern": "ok: 2 read, 0 kept",
+"lever:palantir": "ok: 301 read, 9 kept",
+"github:SimplifyJobs/New-Grad-Positions": "ok: 2217 read, 2217 kept",
+"ashby:openai": "ok: 810 read, 2 kept",
+"greenhouse:spacex": "ok: 2874 read, 12 kept"
 },
 "carried_from_failed_sources": 0,
-"count": 508,
-"new_today": 30
+"count": 535,
+"new_today": 37
 },
 "listings": [
+{
+"section": "newgrad",
+"company": "ByteDance",
+"title": "New Grad 2027: Research Scientist, Seed Model - AI Foundation Model Infrastructure",
+"url": "https://go.vansh.nyc/14I",
+"locations": [
+"Seattle, WA"
+],
+"posted": "2026-11-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "1ed0d0536202",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "ByteDance",
+"title": "New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform (Master's)",
+"url": "https://go.vansh.nyc/14K",
+"locations": [
+"San Jose, CA"
+],
+"posted": "2026-11-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "d90b8d77f5de",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "ByteDance",
+"title": "New Grad 2027: Software Engineer (Data-Infrastructure-Network-Application Network-Global Traffic Architecture)",
+"url": "https://go.vansh.nyc/14O",
+"locations": [
+"San Jose, CA"
+],
+"posted": "2026-11-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "f74bfab62cc2",
+"tags": [
+"Network",
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "ByteDance",
+"title": "New Grad 2027: Multi-Cloud CDN Data Platform Engineer, CDN Platform",
+"url": "https://go.vansh.nyc/14P",
+"locations": [
+"Seattle, WA"
+],
+"posted": "2026-11-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "e79ed7f47e93",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "ByteDance",
+"title": "New Grad 2027: Multi-Cloud CDN Data Platform Engineer, CDN Platform (Master's)",
+"url": "https://go.vansh.nyc/150",
+"locations": [
+"San Jose, CA"
+],
+"posted": "2026-11-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "cf9f77c284c6",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "ByteDance",
+"title": "New Grad 2027: Software Engineer - AI Agent Infra (Security Engineering)",
+"url": "https://go.vansh.nyc/151",
+"locations": [
+"San Jose, CA"
+],
+"posted": "2026-11-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "440342d98c47",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "ByteDance",
+"title": "New Grad 2027: Data Lake Infrastructure & Data Analytics Research Engineer (AML-Ark-US)",
+"url": "https://go.vansh.nyc/154",
+"locations": [
+"Seattle, WA"
+],
+"posted": "2026-11-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "29415f8a4358",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "ByteDance",
+"title": "New Grad 2027: Infrastructure Delivery Engineer (Server Delivery)",
+"url": "https://go.vansh.nyc/155",
+"locations": [
+"San Jose, CA"
+],
+"posted": "2026-11-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "6f8d7d55803e",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "ByteDance",
+"title": "New Grad 2027: Production System Engineer (Server Management)",
+"url": "https://go.vansh.nyc/156",
+"locations": [
+"New York, NY"
+],
+"posted": "2026-11-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "765f45022a2a",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "ByteDance",
+"title": "New Grad 2027: Large Language Model Inference System Engineer (Applied Machine Learning)",
+"url": "https://go.vansh.nyc/15a",
+"locations": [
+"San Jose, CA"
+],
+"posted": "2026-11-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "fd0cdb3680ac",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "ByteDance",
+"title": "New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform",
+"url": "https://go.vansh.nyc/15d",
+"locations": [
+"San Jose, CA"
+],
+"posted": "2026-11-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "ed3553625714",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "ByteDance",
+"title": "New Grad 2027: Software Engineer (AI Infrastructure \u2014 Compute Efficiency & Scheduling)",
+"url": "https://go.vansh.nyc/15g",
+"locations": [
+"San Jose, CA"
+],
+"posted": "2026-11-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "ae5d0af0927f",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "ByteDance",
+"title": "New Grad 2027: AI Agent Security Software Engineer (Security Engineering)",
+"url": "https://go.vansh.nyc/15j",
+"locations": [
+"San Jose, CA"
+],
+"posted": "2026-11-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "a5b6999e1d52",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "ByteDance",
+"title": "New Grad 2027: Product Security Engineer (Security BP)",
+"url": "https://go.vansh.nyc/15n",
+"locations": [
+"San Jose, CA"
+],
+"posted": "2026-11-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "2648a6ea8f47",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "ByteDance",
+"title": "New Grad 2027: Large Language Model Training System Engineer (Applied Machine Learning)",
+"url": "https://go.vansh.nyc/15o",
+"locations": [
+"San Jose, CA"
+],
+"posted": "2026-11-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "cf95142b9239",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "ByteDance",
+"title": "New Grad 2027: ASIC Design Engineer (Video Silicon IP)",
+"url": "https://go.vansh.nyc/15t",
+"locations": [
+"San Jose, CA"
+],
+"posted": "2026-11-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "985f0cef0b23",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "ByteDance",
+"title": "New Grad 2027: LLM/AI Ops Development Engineer (Data Center Networking)",
+"url": "https://go.vansh.nyc/15v",
+"locations": [
+"San Jose, CA"
+],
+"posted": "2026-11-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "e4acf0f6efa0",
+"tags": [
+"Network",
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "ByteDance",
+"title": "New Grad 2027: ASIC Design Engineer (Video Silicon IP) (Master's)",
+"url": "https://go.vansh.nyc/15x",
+"locations": [
+"San Jose, CA"
+],
+"posted": "2026-11-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "1a0a9b2f6429",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "ByteDance",
+"title": "New Grad 2027: Site Reliability Graduate (Data Infrastructure)",
+"url": "https://go.vansh.nyc/15y",
+"locations": [
+"San Jose, CA"
+],
+"posted": "2026-11-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "f217c459f9eb",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "ByteDance",
+"title": "New Grad 2027: Backend Development Engineer (Infrastructure Platform Delivery)",
+"url": "https://go.vansh.nyc/15z",
+"locations": [
+"San Jose, CA"
+],
+"posted": "2026-11-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "241f180f7c69",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "ByteDance",
+"title": "New Grad 2027: Network Engineer, Physical Network Infra",
+"url": "https://go.vansh.nyc/15A",
+"locations": [
+"San Jose, CA"
+],
+"posted": "2026-11-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "1249b6d4bdc0",
+"tags": [
+"Network"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "ByteDance",
+"title": "New Grad 2027: Software Development Engineer (Intent-Based Networking)",
+"url": "https://go.vansh.nyc/15B",
+"locations": [
+"San Jose, CA"
+],
+"posted": "2026-11-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "cef4d7b2157a",
+"tags": [
+"Network"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "ByteDance",
+"title": "New Grad 2027: Software Engineer, Traffic Infrastructure",
+"url": "https://go.vansh.nyc/15D",
+"locations": [
+"San Jose, CA"
+],
+"posted": "2026-11-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "1e53a9caf321",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "TikTok",
+"title": "New Grad 2027: Software Engineer, Ads Infrastructure",
+"url": "https://go.vansh.nyc/15S",
+"locations": [
+"San Jose, CA"
+],
+"posted": "2026-11-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "0b10e1aabf11",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "TikTok",
+"title": "New Grad 2027: Site Reliability Engineer (Global SRE)",
+"url": "https://go.vansh.nyc/15T",
+"locations": [
+"San Jose, CA"
+],
+"posted": "2026-11-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "7b7fd04d086a",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "TikTok",
+"title": "New Grad 2027: AI Systems Engineer (AI Code Infrastructure-Agentic Ops US)",
+"url": "https://go.vansh.nyc/16t",
+"locations": [
+"San Jose, CA"
+],
+"posted": "2026-11-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "628bb61dbd8b",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "TikTok",
+"title": "New Grad 2027: Recommendation Architecture AI/ML Infrastructure Engineer, Data-Arch-TikTok Live",
+"url": "https://go.vansh.nyc/16x",
+"locations": [
+"San Jose, CA"
+],
+"posted": "2026-11-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "a5d2403265f0",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "TikTok",
+"title": "New Grad 2027: Machine Learning Engineer, Search-Basic Ranking",
+"url": "https://go.vansh.nyc/16I",
+"locations": [
+"San Jose, CA"
+],
+"posted": "2026-11-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "10cdef28cda2",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "TikTok",
+"title": "New Grad 2027: Software Engineer (Recommendation Architecture, Feeds Infrastructure)",
+"url": "https://go.vansh.nyc/170",
+"locations": [
+"Seattle, WA"
+],
+"posted": "2026-11-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "b3e8ce4f34f8",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "TikTok",
+"title": "New Grad 2027: Backend Software Engineer, Privacy and Security - Product",
+"url": "https://go.vansh.nyc/17a",
+"locations": [
+"San Jose, CA"
+],
+"posted": "2026-11-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "f845ac82d3e7",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "TikTok",
+"title": "New Grad 2027: Software Engineer, Recommendation Infrastructure",
+"url": "https://go.vansh.nyc/17l",
+"locations": [
+"San Jose, CA"
+],
+"posted": "2026-11-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "a8c1b4385ff2",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Amazon",
+"title": "New Grad 2027: ASIC Engineer I, Annapurna Labs",
+"url": "https://go.vansh.nyc/17n",
+"locations": [
+"Cupertino, CA"
+],
+"posted": "2026-11-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "6c6cf5f83f24",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Amazon",
+"title": "Software Development Engineer, Amazon Dedicated Cloud",
+"url": "https://go.vansh.nyc/17p",
+"locations": [
+"Seattle, WA"
+],
+"posted": "2026-11-01",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "604d03faba3c",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Open Vision Engineering",
+"title": "Firmware Engineer",
+"url": "https://jobs.ashbyhq.com/pocket/dcb3b89f-d6b9-4c2d-aa70-4b8d01bf0848/application?embed=true",
+"locations": [
+"SF"
+],
+"posted": "2026-10-31",
+"terms": [],
+"degrees": [
+"Bachelor's"
+],
+"sources": [
+"SimplifyJobs/New-Grad-Positions"
+],
+"reqs": null,
+"id": "3b4dda154c0a",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
 {
 "section": "newgrad",
 "company": "NVIDIA",
@@ -114,6 +900,29 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-31",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Rockwell Automation",
+"title": "New Grad 2027: EDGE, Information Technology Rotational Program",
+"url": "https://go.vansh.nyc/13X",
+"locations": [
+"Milwaukee, WI"
+],
+"posted": "2026-10-30",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "32017a6d4686",
+"tags": [
+"IT & Support"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
 "stale": false
 },
 {
@@ -1606,32 +2415,6 @@
 "stale": false
 },
 {
-"section": "qualify",
-"company": "CoreWeave",
-"title": "Data Center Technician - Douglasville, GA",
-"url": "https://coreweave.com/careers/job?board=coreweave&gh_jid=4724074006",
-"locations": [
-"Douglasville, GA"
-],
-"posted": "2026-10-23",
-"terms": [],
-"degrees": [],
-"sources": [
-"greenhouse:coreweave"
-],
-"reqs": {
-"degree": "equivalent ok",
-"years": null
-},
-"id": "5241fc6b0c8e",
-"tags": [
-"Cloud & Infra"
-],
-"underclass": false,
-"first_seen": "2026-10-28",
-"stale": false
-},
-{
 "section": "newgrad",
 "company": "NetApp",
 "title": "Software Engineer, Cloud Volumes (Master's)",
@@ -2084,6 +2867,32 @@
 "stale": false
 },
 {
+"section": "qualify",
+"company": "Amazon",
+"title": "Data Center Technician",
+"url": "https://www.amazon.jobs/en/jobs/10586891/data-center-technician",
+"locations": [
+"Wink, TX"
+],
+"posted": "2026-10-22",
+"terms": [],
+"degrees": [],
+"sources": [
+"amazon:data center technician"
+],
+"reqs": {
+"degree": "high school",
+"years": 1
+},
+"id": "b03523fef662",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-10-23",
+"stale": false
+},
+{
 "section": "newgrad",
 "company": "Amazon",
 "title": "Robotics Embedded Software Development Engineer",
@@ -2335,32 +3144,6 @@
 "id": "7a68c4c9485a",
 "tags": [
 "Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "qualify",
-"company": "Amazon",
-"title": "Data Center Technician",
-"url": "https://www.amazon.jobs/en/jobs/10586891/data-center-technician",
-"locations": [
-"Wink, TX"
-],
-"posted": "2026-10-22",
-"terms": [],
-"degrees": [],
-"sources": [
-"amazon:data center technician"
-],
-"reqs": {
-"degree": "high school",
-"years": 1
-},
-"id": "b03523fef662",
-"tags": [
-"Cloud & Infra"
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
@@ -2647,6 +3430,32 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
+"stale": false
+},
+{
+"section": "qualify",
+"company": "CoreWeave",
+"title": "Data Center Technician - Douglasville, GA",
+"url": "https://coreweave.com/careers/job?board=coreweave&gh_jid=4723562006",
+"locations": [
+"Douglasville, GA"
+],
+"posted": "2026-10-20",
+"terms": [],
+"degrees": [],
+"sources": [
+"greenhouse:coreweave"
+],
+"reqs": {
+"degree": "equivalent ok",
+"years": null
+},
+"id": "6734a118a116",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
 "stale": false
 },
 {
@@ -3035,29 +3844,6 @@
 },
 {
 "section": "newgrad",
-"company": "American Express",
-"title": "New Grad 2027: Cybersecurity Analyst, Enterprise Technology Services",
-"url": "https://go.vansh.nyc/TV",
-"locations": [
-"Atlanta, GA"
-],
-"posted": "2026-10-19",
-"terms": [],
-"degrees": [],
-"sources": [
-"vanshb03/New-Grad-2027"
-],
-"reqs": null,
-"id": "e9520f6027f9",
-"tags": [
-"Security"
-],
-"underclass": false,
-"first_seen": "2026-10-27",
-"stale": false
-},
-{
-"section": "newgrad",
 "company": "Honeywell",
 "title": "New Grad 2027: Future IT Leaders (U.S. Person)",
 "url": "https://go.vansh.nyc/TZ",
@@ -3318,6 +4104,32 @@
 "stale": false
 },
 {
+"section": "qualify",
+"company": "Amazon",
+"title": "Data Center Technician, ADC InfraOps DCO",
+"url": "https://www.amazon.jobs/en/jobs/10583227/data-center-technician-adc-infraops-dco",
+"locations": [
+"Culpeper, VA"
+],
+"posted": "2026-10-19",
+"terms": [],
+"degrees": [],
+"sources": [
+"amazon:data center technician"
+],
+"reqs": {
+"degree": "high school",
+"years": null
+},
+"id": "b04cd1c189a7",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-10-23",
+"stale": false
+},
+{
 "section": "newgrad",
 "company": "GlobalFoundries",
 "title": "AI/ML Systems Engineer New Grad",
@@ -3385,32 +4197,6 @@
 ],
 "reqs": null,
 "id": "a43ab7be372e",
-"tags": [
-"Cloud & Infra"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "qualify",
-"company": "Amazon",
-"title": "Data Center Technician, ADC InfraOps DCO",
-"url": "https://www.amazon.jobs/en/jobs/10583227/data-center-technician-adc-infraops-dco",
-"locations": [
-"Culpeper, VA"
-],
-"posted": "2026-10-19",
-"terms": [],
-"degrees": [],
-"sources": [
-"amazon:data center technician"
-],
-"reqs": {
-"degree": "high school",
-"years": null
-},
-"id": "b04cd1c189a7",
 "tags": [
 "Cloud & Infra"
 ],
@@ -8591,29 +9377,6 @@
 },
 {
 "section": "newgrad",
-"company": "SAIC",
-"title": "Software Systems Engineer (Master's)",
-"url": "https://go.vansh.nyc/PQ",
-"locations": [
-"Chantilly, VA"
-],
-"posted": "2026-08-20",
-"terms": [],
-"degrees": [],
-"sources": [
-"vanshb03/New-Grad-2027"
-],
-"reqs": null,
-"id": "df247ee8ac1d",
-"tags": [
-"Cloud & Infra"
-],
-"underclass": false,
-"first_seen": "2026-10-26",
-"stale": false
-},
-{
-"section": "newgrad",
 "company": "Stanley Black & Decker",
 "title": "Leadership Program Engineering - Embedded Software",
 "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Stanley-Leadership-Program-Engineering--Embedded-Software_REQ-1000050879",
@@ -11467,6 +12230,32 @@
 "stale": false
 },
 {
+"section": "qualify",
+"company": "SpaceX",
+"title": "IT Support Technician",
+"url": "https://boards.greenhouse.io/spacex/jobs/8577847002?gh_jid=8577847002",
+"locations": [
+"Washington, DC"
+],
+"posted": "2026-06-03",
+"terms": [],
+"degrees": [],
+"sources": [
+"greenhouse:spacex"
+],
+"reqs": {
+"degree": "high school",
+"years": 1
+},
+"id": "bc475a3bd758",
+"tags": [
+"IT & Support"
+],
+"underclass": false,
+"first_seen": "2026-11-01",
+"stale": false
+},
+{
 "section": "newgrad",
 "company": "Relay",
 "title": "Software Engineer Associate - Embedded Development",
@@ -11821,32 +12610,6 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "qualify",
-"company": "SpaceX",
-"title": "IT Support Technician",
-"url": "https://boards.greenhouse.io/spacex/jobs/8534863002?gh_jid=8534863002",
-"locations": [
-"Hawthorne, CA"
-],
-"posted": "2026-05-04",
-"terms": [],
-"degrees": [],
-"sources": [
-"greenhouse:spacex"
-],
-"reqs": {
-"degree": "high school",
-"years": 1
-},
-"id": "ac34dde4f741",
-"tags": [
-"IT & Support"
-],
-"underclass": false,
-"first_seen": "2026-10-31",
 "stale": false
 },
 {
@@ -12270,29 +13033,6 @@
 },
 {
 "section": "newgrad",
-"company": "ByteDance",
-"title": "New Grad 2026: Site Reliability Engineer (Edge Services)",
-"url": "https://go.vansh.nyc/uZ",
-"locations": [
-"San Jose, CA"
-],
-"posted": "2025-10-10",
-"terms": [],
-"degrees": [],
-"sources": [
-"vanshb03/New-Grad-2027"
-],
-"reqs": null,
-"id": "1db2f1aa77d0",
-"tags": [
-"Cloud & Infra"
-],
-"underclass": false,
-"first_seen": "2026-10-25",
-"stale": false
-},
-{
-"section": "newgrad",
 "company": "Tesla",
 "title": "Machine Learning Infrastructure Simulation Engineer, Optimus",
 "url": "https://go.vansh.nyc/uL",
@@ -12378,76 +13118,6 @@
 "id": "e345c0affec4",
 "tags": [
 "Cloud & Infra"
-],
-"underclass": false,
-"first_seen": "2026-10-25",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "ByteDance",
-"title": "Site Reliability Engineer (Data Infrastructure)",
-"url": "https://go.vansh.nyc/pE",
-"locations": [
-"Seattle, WA"
-],
-"posted": "2025-08-16",
-"terms": [],
-"degrees": [],
-"sources": [
-"vanshb03/New-Grad-2027"
-],
-"reqs": null,
-"id": "8b54b8e9d926",
-"tags": [
-"Cloud & Infra"
-],
-"underclass": false,
-"first_seen": "2026-10-28",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "ByteDance",
-"title": "New Grad 2026: Cloud Network Engineer (Physical Network Infra)",
-"url": "https://go.vansh.nyc/pF",
-"locations": [
-"San Jose, CA"
-],
-"posted": "2025-08-16",
-"terms": [],
-"degrees": [],
-"sources": [
-"vanshb03/New-Grad-2027"
-],
-"reqs": null,
-"id": "3bcc6ca6c68c",
-"tags": [
-"Network",
-"Cloud & Infra"
-],
-"underclass": false,
-"first_seen": "2026-10-25",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "ByteDance",
-"title": "New Grad 2026: Network Engineer (Physical Network Infra)",
-"url": "https://go.vansh.nyc/pG",
-"locations": [
-"Seattle, WA"
-],
-"posted": "2025-08-16",
-"terms": [],
-"degrees": [],
-"sources": [
-"vanshb03/New-Grad-2027"
-],
-"reqs": null,
-"id": "babb42b0ec7b",
-"tags": [
-"Network"
 ],
 "underclass": false,
 "first_seen": "2026-10-25",
@@ -12541,53 +13211,6 @@
 "tags": [
 "Security",
 "IT & Support"
-],
-"underclass": false,
-"first_seen": "2026-10-25",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "ByteDance",
-"title": "New Grad 2026: Network Engineer (Edge Network)",
-"url": "https://go.vansh.nyc/pn",
-"locations": [
-"San Jose, CA"
-],
-"posted": "2025-08-13",
-"terms": [],
-"degrees": [],
-"sources": [
-"vanshb03/New-Grad-2027"
-],
-"reqs": null,
-"id": "6fe3dd9d5559",
-"tags": [
-"Network"
-],
-"underclass": false,
-"first_seen": "2026-10-25",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "ByteDance",
-"title": "Site Reliability Engineer Graduate [Security Engineering-US]",
-"url": "https://go.vansh.nyc/o7",
-"locations": [
-"San Jose, CA"
-],
-"posted": "2025-08-07",
-"terms": [],
-"degrees": [],
-"sources": [
-"vanshb03/New-Grad-2027"
-],
-"reqs": null,
-"id": "958299f39258",
-"tags": [
-"Security",
-"Cloud & Infra"
 ],
 "underclass": false,
 "first_seen": "2026-10-25",
