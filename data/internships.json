@@ -1,47 +1,47 @@
 {
 "meta": {
-"generated_at": "2026-11-07T05:51:37+00:00",
+"generated_at": "2026-11-07T19:13:47+00:00",
 "sources": {
-"github:vanshb03/New-Grad-2027": "ok: 784 read, 784 kept",
-"github:vanshb03/Summer2027-Internships": "ok: 1953 read, 1953 kept",
 "greenhouse:tanium": "ok: 64 read, 0 kept",
-"greenhouse:gitlab": "ok: 248 read, 2 kept",
 "greenhouse:verkada": "ok: 343 read, 4 kept",
 "greenhouse:okta": "ok: 375 read, 0 kept",
 "greenhouse:vercel": "ok: 87 read, 0 kept",
-"greenhouse:figma": "ok: 144 read, 0 kept",
+"greenhouse:figma": "ok: 145 read, 0 kept",
+"github:vanshb03/New-Grad-2027": "ok: 786 read, 786 kept",
+"github:vanshb03/Summer2027-Internships": "ok: 1962 read, 1962 kept",
 "greenhouse:fastly": "ok: 57 read, 1 kept",
-"greenhouse:samsara": "ok: 315 read, 0 kept",
-"greenhouse:datadog": "ok: 400 read, 0 kept",
+"greenhouse:samsara": "ok: 316 read, 0 kept",
+"greenhouse:gitlab": "ok: 248 read, 2 kept",
 "greenhouse:sambanovasystems": "ok: 73 read, 1 kept",
-"greenhouse:neuralink": "ok: 80 read, 7 kept",
 "greenhouse:coreweave": "ok: 293 read, 11 kept",
-"greenhouse:tenstorrent": "ok: 126 read, 0 kept",
 "greenhouse:xai": "ok: 303 read, 1 kept",
+"greenhouse:datadog": "ok: 400 read, 0 kept",
 "greenhouse:scaleai": "ok: 168 read, 0 kept",
-"github:SimplifyJobs/Summer2027-Internships": "ok: 2798 read, 2798 kept",
-"ashby:replit": "ok: 28 read, 2 kept",
-"greenhouse:axon": "ok: 487 read, 0 kept",
-"ashby:notion": "ok: 154 read, 0 kept",
-"ashby:lambda": "ok: 97 read, 0 kept",
+"greenhouse:neuralink": "ok: 80 read, 7 kept",
+"greenhouse:tenstorrent": "ok: 126 read, 0 kept",
 "greenhouse:cloudflare": "ok: 464 read, 0 kept",
-"github:SimplifyJobs/New-Grad-Positions": "ok: 2334 read, 2334 kept",
-"ashby:crusoe": "ok: 323 read, 0 kept",
+"ashby:replit": "ok: 28 read, 2 kept",
+"ashby:lambda": "ok: 97 read, 0 kept",
 "amazon:help desk": "ok: 11 read, 0 kept",
+"github:SimplifyJobs/New-Grad-Positions": "ok: 2316 read, 2316 kept",
+"ashby:notion": "ok: 154 read, 0 kept",
 "amazon:network intern": "ok: 5 read, 1 kept",
+"greenhouse:axon": "ok: 487 read, 0 kept",
 "amazon:data center technician": "ok: 100 read, 10 kept",
-"amazon:IT support": "ok: 100 read, 5 kept",
+"amazon:IT support": "ok: 100 read, 3 kept",
+"amazon:security intern": "ok: 11 read, 2 kept",
+"ashby:crusoe": "ok: 323 read, 0 kept",
 "github:LuisaE/opportunities": "ok: 46 read, 46 kept",
 "amazon:network technician": "ok: 100 read, 0 kept",
-"amazon:security intern": "ok: 11 read, 2 kept",
-"lever:palantir": "ok: 305 read, 9 kept",
 "amazon:IT intern": "ok: 2 read, 0 kept",
-"ashby:openai": "ok: 820 read, 2 kept",
-"greenhouse:spacex": "ok: 2898 read, 14 kept"
+"github:SimplifyJobs/Summer2027-Internships": "ok: 2782 read, 2782 kept",
+"ashby:openai": "ok: 819 read, 2 kept",
+"greenhouse:spacex": "ok: 2897 read, 14 kept",
+"lever:palantir": "ok: 305 read, 9 kept"
 },
 "carried_from_failed_sources": 0,
-"count": 889,
-"new_today": 19
+"count": 888,
+"new_today": 21
 },
 "listings": [
 {
@@ -64,6 +64,81 @@
 "id": "df74e2988ef8",
 "tags": [
 "Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-11-07",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Barrios",
+"title": "Data and Computer Eng/Sci Intern",
+"url": "https://go.vansh.nyc/1lZ",
+"locations": [
+"Houston, TX"
+],
+"posted": "2026-11-07",
+"terms": [
+"Summer"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "9e5d3742cd38",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-11-07",
+"stale": false
+},
+{
+"section": "intern",
+"company": "IDEMIA",
+"title": "Service Platform Engineering Intern",
+"url": "https://go.vansh.nyc/1m1",
+"locations": [
+"Brentwood, TN"
+],
+"posted": "2026-11-07",
+"terms": [
+"Summer"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "93bed19795cd",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-11-07",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Blackhawk Network",
+"title": "Technology Intern",
+"url": "https://go.vansh.nyc/1m7",
+"locations": [
+"Coppell, TX"
+],
+"posted": "2026-11-07",
+"terms": [
+"Summer"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "bb2f6721d5d0",
+"tags": [
+"IT & Support"
 ],
 "underclass": false,
 "first_seen": "2026-11-07",
@@ -1493,33 +1568,6 @@
 },
 {
 "section": "intern",
-"company": "Zebra Technologies",
-"title": "Systems Engineer Intern",
-"url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Germantown-Maryland/XMLNAME-2027-Summer-Internship--US----Systems-Engineer_JR103659",
-"locations": [
-"Germantown, MD"
-],
-"posted": "2026-11-04",
-"terms": [
-"Summer 2027"
-],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/Summer2027-Internships"
-],
-"reqs": null,
-"id": "4b5f0f4d59a2",
-"tags": [
-"Cloud & Infra"
-],
-"underclass": false,
-"first_seen": "2026-11-07",
-"stale": false
-},
-{
-"section": "intern",
 "company": "Howmet Aerospace",
 "title": "Cybersecurity Intern",
 "url": "https://go.vansh.nyc/1h7",
@@ -1671,56 +1719,6 @@
 },
 {
 "section": "intern",
-"company": "Northrop Grumman",
-"title": "DevOps Software Engineering Intern",
-"url": "https://go.vansh.nyc/1gk",
-"locations": [
-"Roy, UT"
-],
-"posted": "2026-11-04",
-"terms": [
-"Summer"
-],
-"degrees": [],
-"sources": [
-"vanshb03/Summer2027-Internships"
-],
-"reqs": null,
-"id": "3f7cf69bb391",
-"tags": [
-"Cloud & Infra"
-],
-"underclass": false,
-"first_seen": "2026-11-04",
-"stale": false
-},
-{
-"section": "intern",
-"company": "Northrop Grumman",
-"title": "Cybersecurity Software Engineering Intern",
-"url": "https://go.vansh.nyc/1gl",
-"locations": [
-"Clearfield, UT"
-],
-"posted": "2026-11-04",
-"terms": [
-"Summer"
-],
-"degrees": [],
-"sources": [
-"vanshb03/Summer2027-Internships"
-],
-"reqs": null,
-"id": "179faf20d747",
-"tags": [
-"Security"
-],
-"underclass": false,
-"first_seen": "2026-11-04",
-"stale": false
-},
-{
-"section": "intern",
 "company": "Prologis",
 "title": "AI and Automation Intern, IT",
 "url": "https://go.vansh.nyc/1gr",
@@ -1789,34 +1787,6 @@
 "id": "66f70f7fc450",
 "tags": [
 "Security"
-],
-"underclass": false,
-"first_seen": "2026-11-04",
-"stale": false
-},
-{
-"section": "intern",
-"company": "Northrop Grumman",
-"title": "Software Embedded Engineering Intern",
-"url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Sykesville-MD_R10258553",
-"locations": [
-"Sykesville, MD"
-],
-"posted": "2026-11-04",
-"terms": [
-"Summer 2027"
-],
-"degrees": [
-"Bachelor's",
-"Master's"
-],
-"sources": [
-"SimplifyJobs/Summer2027-Internships"
-],
-"reqs": null,
-"id": "796dfcacbe5c",
-"tags": [
-"Hardware"
 ],
 "underclass": false,
 "first_seen": "2026-11-04",
@@ -4118,31 +4088,6 @@
 },
 {
 "section": "intern",
-"company": "Microsoft",
-"title": "Explore Program Engineering Intern",
-"url": "https://apply.careers.microsoft.com/careers/job/1970393556925823",
-"locations": [
-"Redmond, WA"
-],
-"posted": "2026-11-02",
-"terms": [
-"N/A"
-],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/Summer2027-Internships"
-],
-"reqs": null,
-"id": "afbeb6b877a4",
-"tags": [],
-"underclass": true,
-"first_seen": "2026-11-02",
-"stale": false
-},
-{
-"section": "intern",
 "company": "Amazon",
 "title": "Associate Engagement Manager Intern- National Security, AWS Professional Services",
 "url": "https://www.amazon.jobs/en/jobs/10594714/associate-engagement-manager-intern-national-security-aws-professional-services",
@@ -4164,6 +4109,31 @@
 "Security"
 ],
 "underclass": false,
+"first_seen": "2026-11-02",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Microsoft",
+"title": "Explore Program Engineering Intern",
+"url": "https://apply.careers.microsoft.com/careers/job/1970393556925823",
+"locations": [
+"Redmond, WA"
+],
+"posted": "2026-11-02",
+"terms": [
+"N/A"
+],
+"degrees": [
+"Bachelor's"
+],
+"sources": [
+"SimplifyJobs/Summer2027-Internships"
+],
+"reqs": null,
+"id": "afbeb6b877a4",
+"tags": [],
+"underclass": true,
 "first_seen": "2026-11-02",
 "stale": false
 },
@@ -7081,6 +7051,32 @@
 },
 {
 "section": "intern",
+"company": "Amazon",
+"title": "Network Development Engineer Intern, 2027 Summer",
+"url": "https://www.amazon.jobs/en/jobs/10590368/network-development-engineer-intern-2027-summer",
+"locations": [
+"Seattle, WA"
+],
+"posted": "2026-10-27",
+"terms": [],
+"degrees": [],
+"sources": [
+"amazon:network intern"
+],
+"reqs": {
+"degree": "required",
+"years": null
+},
+"id": "6d6a5eea408a",
+"tags": [
+"Network"
+],
+"underclass": false,
+"first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
 "company": "HP IQ",
 "title": "Electrical Engineer Intern - Hardware",
 "url": "https://job-boards.greenhouse.io/hpiq/jobs/6116396004",
@@ -7103,32 +7099,6 @@
 "id": "06edc38734d0",
 "tags": [
 "Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-27",
-"stale": false
-},
-{
-"section": "intern",
-"company": "Amazon",
-"title": "Network Development Engineer Intern, 2027 Summer",
-"url": "https://www.amazon.jobs/en/jobs/10590368/network-development-engineer-intern-2027-summer",
-"locations": [
-"Seattle, WA"
-],
-"posted": "2026-10-27",
-"terms": [],
-"degrees": [],
-"sources": [
-"amazon:network intern"
-],
-"reqs": {
-"degree": "required",
-"years": null
-},
-"id": "6d6a5eea408a",
-"tags": [
-"Network"
 ],
 "underclass": false,
 "first_seen": "2026-10-27",
@@ -8718,31 +8688,6 @@
 },
 {
 "section": "intern",
-"company": "Meta",
-"title": "Research Intern - Audio Hardware",
-"url": "https://www.metacareers.com/jobs/1445807477756644",
-"locations": [
-"Redmond, WA"
-],
-"posted": "2026-10-21",
-"terms": [
-"N/A"
-],
-"degrees": [],
-"sources": [
-"SimplifyJobs/Summer2027-Internships"
-],
-"reqs": null,
-"id": "130ee0af52df",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "intern",
 "company": "Amazon",
 "title": "Associate Delivery Consultant Intern, National Security, AWS Professional Services",
 "url": "https://www.amazon.jobs/en/jobs/10585775/associate-delivery-consultant-intern-national-security-aws-professional-services",
@@ -8762,6 +8707,31 @@
 "id": "1fe3d693b03b",
 "tags": [
 "Security"
+],
+"underclass": false,
+"first_seen": "2026-10-23",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Meta",
+"title": "Research Intern - Audio Hardware",
+"url": "https://www.metacareers.com/jobs/1445807477756644",
+"locations": [
+"Redmond, WA"
+],
+"posted": "2026-10-21",
+"terms": [
+"N/A"
+],
+"degrees": [],
+"sources": [
+"SimplifyJobs/Summer2027-Internships"
+],
+"reqs": null,
+"id": "130ee0af52df",
+"tags": [
+"Hardware"
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
