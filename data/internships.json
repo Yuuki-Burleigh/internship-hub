@@ -1,49 +1,125 @@
 {
 "meta": {
-"generated_at": "2026-11-07T19:13:47+00:00",
+"generated_at": "2026-11-08T19:16:56+00:00",
 "sources": {
 "greenhouse:tanium": "ok: 64 read, 0 kept",
-"greenhouse:verkada": "ok: 343 read, 4 kept",
-"greenhouse:okta": "ok: 375 read, 0 kept",
-"greenhouse:vercel": "ok: 87 read, 0 kept",
+"github:vanshb03/Summer2027-Internships": "ok: 1993 read, 1993 kept",
+"github:vanshb03/New-Grad-2027": "ok: 791 read, 791 kept",
 "greenhouse:figma": "ok: 145 read, 0 kept",
-"github:vanshb03/New-Grad-2027": "ok: 786 read, 786 kept",
-"github:vanshb03/Summer2027-Internships": "ok: 1962 read, 1962 kept",
-"greenhouse:fastly": "ok: 57 read, 1 kept",
-"greenhouse:samsara": "ok: 316 read, 0 kept",
+"greenhouse:verkada": "ok: 343 read, 4 kept",
 "greenhouse:gitlab": "ok: 248 read, 2 kept",
+"greenhouse:vercel": "ok: 87 read, 0 kept",
+"greenhouse:okta": "ok: 375 read, 0 kept",
+"greenhouse:datadog": "ok: 401 read, 0 kept",
 "greenhouse:sambanovasystems": "ok: 73 read, 1 kept",
+"greenhouse:fastly": "ok: 58 read, 1 kept",
 "greenhouse:coreweave": "ok: 293 read, 11 kept",
-"greenhouse:xai": "ok: 303 read, 1 kept",
-"greenhouse:datadog": "ok: 400 read, 0 kept",
-"greenhouse:scaleai": "ok: 168 read, 0 kept",
 "greenhouse:neuralink": "ok: 80 read, 7 kept",
-"greenhouse:tenstorrent": "ok: 126 read, 0 kept",
+"greenhouse:scaleai": "ok: 168 read, 0 kept",
+"greenhouse:samsara": "ok: 314 read, 0 kept",
+"greenhouse:tenstorrent": "ok: 127 read, 0 kept",
 "greenhouse:cloudflare": "ok: 464 read, 0 kept",
+"github:SimplifyJobs/New-Grad-Positions": "ok: 2310 read, 2310 kept",
+"greenhouse:xai": "ok: 304 read, 1 kept",
 "ashby:replit": "ok: 28 read, 2 kept",
 "ashby:lambda": "ok: 97 read, 0 kept",
-"amazon:help desk": "ok: 11 read, 0 kept",
-"github:SimplifyJobs/New-Grad-Positions": "ok: 2316 read, 2316 kept",
 "ashby:notion": "ok: 154 read, 0 kept",
+"amazon:help desk": "ok: 11 read, 0 kept",
 "amazon:network intern": "ok: 5 read, 1 kept",
-"greenhouse:axon": "ok: 487 read, 0 kept",
-"amazon:data center technician": "ok: 100 read, 10 kept",
-"amazon:IT support": "ok: 100 read, 3 kept",
-"amazon:security intern": "ok: 11 read, 2 kept",
 "ashby:crusoe": "ok: 323 read, 0 kept",
-"github:LuisaE/opportunities": "ok: 46 read, 46 kept",
+"amazon:data center technician": "ok: 100 read, 12 kept",
+"lever:palantir": "ok: 305 read, 9 kept",
+"greenhouse:axon": "ok: 487 read, 0 kept",
+"amazon:security intern": "ok: 11 read, 2 kept",
 "amazon:network technician": "ok: 100 read, 0 kept",
 "amazon:IT intern": "ok: 2 read, 0 kept",
-"github:SimplifyJobs/Summer2027-Internships": "ok: 2782 read, 2782 kept",
-"ashby:openai": "ok: 819 read, 2 kept",
-"greenhouse:spacex": "ok: 2897 read, 14 kept",
-"lever:palantir": "ok: 305 read, 9 kept"
+"github:LuisaE/opportunities": "ok: 46 read, 46 kept",
+"amazon:IT support": "ok: 100 read, 3 kept",
+"ashby:openai": "ok: 816 read, 2 kept",
+"github:SimplifyJobs/Summer2027-Internships": "ok: 2774 read, 2774 kept",
+"greenhouse:spacex": "ok: 2901 read, 14 kept"
 },
 "carried_from_failed_sources": 0,
-"count": 888,
-"new_today": 21
+"count": 890,
+"new_today": 5
 },
 "listings": [
+{
+"section": "intern",
+"company": "Group 1 Automotive",
+"title": "IT Intern",
+"url": "https://go.vansh.nyc/1ms",
+"locations": [
+"Houston, TX"
+],
+"posted": "2026-11-07",
+"terms": [
+"Summer"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "d1165a61d9a1",
+"tags": [
+"IT & Support"
+],
+"underclass": false,
+"first_seen": "2026-11-08",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Rockefeller Capital Management",
+"title": "Analyst Intern, Information Security",
+"url": "https://go.vansh.nyc/1mv",
+"locations": [
+"New York, NY"
+],
+"posted": "2026-11-07",
+"terms": [
+"Summer"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "c3e5ec4b83e3",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-11-08",
+"stale": false
+},
+{
+"section": "intern",
+"company": "United Wholesale Mortgage",
+"title": "Technology Intern Program",
+"url": "https://go.vansh.nyc/1mx",
+"locations": [
+"Remote",
+"United States"
+],
+"posted": "2026-11-07",
+"terms": [
+"Summer"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "13ef2b742140",
+"tags": [
+"IT & Support"
+],
+"underclass": false,
+"first_seen": "2026-11-08",
+"stale": false
+},
 {
 "section": "intern",
 "company": "Corning",
@@ -4114,31 +4190,6 @@
 },
 {
 "section": "intern",
-"company": "Microsoft",
-"title": "Explore Program Engineering Intern",
-"url": "https://apply.careers.microsoft.com/careers/job/1970393556925823",
-"locations": [
-"Redmond, WA"
-],
-"posted": "2026-11-02",
-"terms": [
-"N/A"
-],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/Summer2027-Internships"
-],
-"reqs": null,
-"id": "afbeb6b877a4",
-"tags": [],
-"underclass": true,
-"first_seen": "2026-11-02",
-"stale": false
-},
-{
-"section": "intern",
 "company": "TikTok",
 "title": "Software Engineer Project Intern, Model Infrastructure",
 "url": "https://go.vansh.nyc/18Z",
@@ -7102,6 +7153,57 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-27",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Booz Allen Hamilton",
+"title": "Systems Engineer Intern",
+"url": "https://go.vansh.nyc/1mV",
+"locations": [
+"Dayton, OH"
+],
+"posted": "2026-10-26",
+"terms": [
+"Summer"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "3b7ad135e761",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-11-08",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Qube Research and Technologies",
+"title": "Technology Intern",
+"url": "https://go.vansh.nyc/1mW",
+"locations": [
+"Chicago, IL",
+"New York, NY"
+],
+"posted": "2026-10-26",
+"terms": [
+"Summer"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "3e26d861a95e",
+"tags": [
+"IT & Support"
+],
+"underclass": false,
+"first_seen": "2026-11-08",
 "stale": false
 },
 {
@@ -10846,31 +10948,6 @@
 ],
 "reqs": null,
 "id": "2ddd37361721",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "intern",
-"company": "Meta",
-"title": "ASIC Engineer Intern - Design Verification - Silicon Engineering",
-"url": "https://www.metacareers.com/jobs/1079763448023260",
-"locations": [
-"Sunnyvale, CA"
-],
-"posted": "2026-10-14",
-"terms": [
-"N/A"
-],
-"degrees": [],
-"sources": [
-"SimplifyJobs/Summer2027-Internships"
-],
-"reqs": null,
-"id": "f43056b37e11",
 "tags": [
 "Hardware"
 ],
@@ -17954,34 +18031,6 @@
 },
 {
 "section": "intern",
-"company": "Applied Materials",
-"title": "Electrical Engineer Co-op",
-"url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Electrical-Engineer-Co-op-BS-or-MS--Gloucester--MA-_R2628288-1",
-"locations": [
-"Gloucester, MA"
-],
-"posted": "2026-09-09",
-"terms": [
-"Spring 2027"
-],
-"degrees": [
-"Bachelor's",
-"Master's"
-],
-"sources": [
-"SimplifyJobs/Summer2027-Internships"
-],
-"reqs": null,
-"id": "089cc873d91c",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "intern",
 "company": "Auto-Owners Insurance",
 "title": "IT Document Automation Developer Intern",
 "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/IT-Document-Automation-Developer-Internship---Summer-2027_R_14471",
@@ -21606,31 +21655,6 @@
 },
 {
 "section": "intern",
-"company": "Jane Street",
-"title": "Hardware Engineer - FPGA/Asic",
-"url": "https://job-boards.greenhouse.io/janestreet/jobs/8624440002",
-"locations": [
-"NYC"
-],
-"posted": "2026-07-10",
-"terms": [
-"N/A"
-],
-"degrees": [],
-"sources": [
-"SimplifyJobs/Summer2027-Internships"
-],
-"reqs": null,
-"id": "5caca0d5e558",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "intern",
 "company": "Palantir",
 "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
 "url": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9",
@@ -21650,6 +21674,31 @@
 "id": "0759bd04cda0",
 "tags": [
 "Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-10-23",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Jane Street",
+"title": "Hardware Engineer - FPGA/Asic",
+"url": "https://job-boards.greenhouse.io/janestreet/jobs/8624440002",
+"locations": [
+"NYC"
+],
+"posted": "2026-07-10",
+"terms": [
+"N/A"
+],
+"degrees": [],
+"sources": [
+"SimplifyJobs/Summer2027-Internships"
+],
+"reqs": null,
+"id": "5caca0d5e558",
+"tags": [
+"Hardware"
 ],
 "underclass": false,
 "first_seen": "2026-10-23",

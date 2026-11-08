@@ -1,49 +1,75 @@
 {
 "meta": {
-"generated_at": "2026-11-07T19:13:47+00:00",
+"generated_at": "2026-11-08T19:16:56+00:00",
 "sources": {
 "greenhouse:tanium": "ok: 64 read, 0 kept",
-"greenhouse:verkada": "ok: 343 read, 4 kept",
-"greenhouse:okta": "ok: 375 read, 0 kept",
-"greenhouse:vercel": "ok: 87 read, 0 kept",
+"github:vanshb03/Summer2027-Internships": "ok: 1993 read, 1993 kept",
+"github:vanshb03/New-Grad-2027": "ok: 791 read, 791 kept",
 "greenhouse:figma": "ok: 145 read, 0 kept",
-"github:vanshb03/New-Grad-2027": "ok: 786 read, 786 kept",
-"github:vanshb03/Summer2027-Internships": "ok: 1962 read, 1962 kept",
-"greenhouse:fastly": "ok: 57 read, 1 kept",
-"greenhouse:samsara": "ok: 316 read, 0 kept",
+"greenhouse:verkada": "ok: 343 read, 4 kept",
 "greenhouse:gitlab": "ok: 248 read, 2 kept",
+"greenhouse:vercel": "ok: 87 read, 0 kept",
+"greenhouse:okta": "ok: 375 read, 0 kept",
+"greenhouse:datadog": "ok: 401 read, 0 kept",
 "greenhouse:sambanovasystems": "ok: 73 read, 1 kept",
+"greenhouse:fastly": "ok: 58 read, 1 kept",
 "greenhouse:coreweave": "ok: 293 read, 11 kept",
-"greenhouse:xai": "ok: 303 read, 1 kept",
-"greenhouse:datadog": "ok: 400 read, 0 kept",
-"greenhouse:scaleai": "ok: 168 read, 0 kept",
 "greenhouse:neuralink": "ok: 80 read, 7 kept",
-"greenhouse:tenstorrent": "ok: 126 read, 0 kept",
+"greenhouse:scaleai": "ok: 168 read, 0 kept",
+"greenhouse:samsara": "ok: 314 read, 0 kept",
+"greenhouse:tenstorrent": "ok: 127 read, 0 kept",
 "greenhouse:cloudflare": "ok: 464 read, 0 kept",
+"github:SimplifyJobs/New-Grad-Positions": "ok: 2310 read, 2310 kept",
+"greenhouse:xai": "ok: 304 read, 1 kept",
 "ashby:replit": "ok: 28 read, 2 kept",
 "ashby:lambda": "ok: 97 read, 0 kept",
-"amazon:help desk": "ok: 11 read, 0 kept",
-"github:SimplifyJobs/New-Grad-Positions": "ok: 2316 read, 2316 kept",
 "ashby:notion": "ok: 154 read, 0 kept",
+"amazon:help desk": "ok: 11 read, 0 kept",
 "amazon:network intern": "ok: 5 read, 1 kept",
-"greenhouse:axon": "ok: 487 read, 0 kept",
-"amazon:data center technician": "ok: 100 read, 10 kept",
-"amazon:IT support": "ok: 100 read, 3 kept",
-"amazon:security intern": "ok: 11 read, 2 kept",
 "ashby:crusoe": "ok: 323 read, 0 kept",
-"github:LuisaE/opportunities": "ok: 46 read, 46 kept",
+"amazon:data center technician": "ok: 100 read, 12 kept",
+"lever:palantir": "ok: 305 read, 9 kept",
+"greenhouse:axon": "ok: 487 read, 0 kept",
+"amazon:security intern": "ok: 11 read, 2 kept",
 "amazon:network technician": "ok: 100 read, 0 kept",
 "amazon:IT intern": "ok: 2 read, 0 kept",
-"github:SimplifyJobs/Summer2027-Internships": "ok: 2782 read, 2782 kept",
-"ashby:openai": "ok: 819 read, 2 kept",
-"greenhouse:spacex": "ok: 2897 read, 14 kept",
-"lever:palantir": "ok: 305 read, 9 kept"
+"github:LuisaE/opportunities": "ok: 46 read, 46 kept",
+"amazon:IT support": "ok: 100 read, 3 kept",
+"ashby:openai": "ok: 816 read, 2 kept",
+"github:SimplifyJobs/Summer2027-Internships": "ok: 2774 read, 2774 kept",
+"greenhouse:spacex": "ok: 2901 read, 14 kept"
 },
 "carried_from_failed_sources": 0,
 "count": 569,
-"new_today": 16
+"new_today": 3
 },
 "listings": [
+{
+"section": "qualify",
+"company": "Amazon",
+"title": "Work Based Learning Program Data Center Operations Technician",
+"url": "https://www.amazon.jobs/en/jobs/10599428/work-based-learning-program-data-center-operations-technician",
+"locations": [
+"Fairless Hills, PA"
+],
+"posted": "2026-11-08",
+"terms": [],
+"degrees": [],
+"sources": [
+"amazon:data center technician"
+],
+"reqs": {
+"degree": "high school",
+"years": null
+},
+"id": "eec98454fcef",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-11-08",
+"stale": false
+},
 {
 "section": "newgrad",
 "company": "Subsense",
@@ -1236,31 +1262,6 @@
 ],
 "reqs": null,
 "id": "eea261dade30",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-11-05",
-"stale": false
-},
-{
-"section": "newgrad",
-"company": "Northrop Grumman",
-"title": "Associate Embedded Software Engineer",
-"url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Converting-Associate-Embedded-Software-Engineer---Roy-UT_R10259300",
-"locations": [
-"Roy, UT"
-],
-"posted": "2026-11-04",
-"terms": [],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/New-Grad-Positions"
-],
-"reqs": null,
-"id": "4580b3a542c2",
 "tags": [
 "Hardware"
 ],
@@ -3633,6 +3634,32 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-28",
+"stale": false
+},
+{
+"section": "qualify",
+"company": "SpaceX",
+"title": "Data Center Technician",
+"url": "https://boards.greenhouse.io/spacex/jobs/8919885002?gh_jid=8919885002",
+"locations": [
+"Bastrop, TX"
+],
+"posted": "2026-10-27",
+"terms": [],
+"degrees": [],
+"sources": [
+"greenhouse:spacex"
+],
+"reqs": {
+"degree": "high school",
+"years": null
+},
+"id": "6a7ae693b674",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-11-08",
 "stale": false
 },
 {
@@ -6985,32 +7012,6 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "qualify",
-"company": "SpaceX",
-"title": "Data Center Technician",
-"url": "https://boards.greenhouse.io/spacex/jobs/8861870002?gh_jid=8861870002",
-"locations": [
-"Starbase, TX"
-],
-"posted": "2026-10-02",
-"terms": [],
-"degrees": [],
-"sources": [
-"greenhouse:spacex"
-],
-"reqs": {
-"degree": "high school",
-"years": null
-},
-"id": "4e8149b5fe7a",
-"tags": [
-"Cloud & Infra"
-],
-"underclass": false,
-"first_seen": "2026-11-07",
 "stale": false
 },
 {
@@ -12436,6 +12437,32 @@
 "stale": false
 },
 {
+"section": "qualify",
+"company": "SpaceX",
+"title": "IT Support Technician",
+"url": "https://boards.greenhouse.io/spacex/jobs/8650222002?gh_jid=8650222002",
+"locations": [
+"Canandaigua, NY"
+],
+"posted": "2026-07-29",
+"terms": [],
+"degrees": [],
+"sources": [
+"greenhouse:spacex"
+],
+"reqs": {
+"degree": "high school",
+"years": 1
+},
+"id": "80b4e69b4508",
+"tags": [
+"IT & Support"
+],
+"underclass": false,
+"first_seen": "2026-11-08",
+"stale": false
+},
+{
 "section": "newgrad",
 "company": "Xscape Photonics",
 "title": "System Validation Engineer - Photonics",
@@ -13415,32 +13442,6 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "qualify",
-"company": "SpaceX",
-"title": "IT Support Technician",
-"url": "https://boards.greenhouse.io/spacex/jobs/8577847002?gh_jid=8577847002",
-"locations": [
-"Washington, DC"
-],
-"posted": "2026-06-03",
-"terms": [],
-"degrees": [],
-"sources": [
-"greenhouse:spacex"
-],
-"reqs": {
-"degree": "high school",
-"years": 1
-},
-"id": "bc475a3bd758",
-"tags": [
-"IT & Support"
-],
-"underclass": false,
-"first_seen": "2026-11-07",
 "stale": false
 },
 {
