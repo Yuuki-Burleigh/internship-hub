@@ -1,49 +1,101 @@
 {
 "meta": {
-"generated_at": "2026-11-14T19:38:46+00:00",
+"generated_at": "2026-11-15T20:04:36+00:00",
 "sources": {
-"greenhouse:tanium": "ok: 67 read, 0 kept",
-"greenhouse:datadog": "ok: 384 read, 0 kept",
-"greenhouse:coreweave": "ok: 307 read, 10 kept",
-"greenhouse:samsara": "ok: 317 read, 0 kept",
-"github:vanshb03/New-Grad-2027": "ok: 814 read, 814 kept",
-"greenhouse:gitlab": "ok: 251 read, 1 kept",
 "github:vanshb03/Summer2027-Internships": "ok: 2201 read, 2201 kept",
-"greenhouse:okta": "ok: 362 read, 0 kept",
-"greenhouse:vercel": "ok: 86 read, 0 kept",
-"greenhouse:sambanovasystems": "ok: 75 read, 1 kept",
-"greenhouse:figma": "ok: 139 read, 0 kept",
-"greenhouse:fastly": "ok: 54 read, 2 kept",
+"greenhouse:tanium": "ok: 67 read, 0 kept",
 "greenhouse:verkada": "ok: 346 read, 4 kept",
-"greenhouse:scaleai": "ok: 170 read, 0 kept",
+"github:vanshb03/New-Grad-2027": "ok: 813 read, 813 kept",
+"greenhouse:vercel": "ok: 86 read, 0 kept",
+"greenhouse:gitlab": "ok: 254 read, 1 kept",
+"greenhouse:fastly": "ok: 54 read, 2 kept",
+"greenhouse:sambanovasystems": "ok: 75 read, 1 kept",
+"greenhouse:coreweave": "ok: 306 read, 10 kept",
+"greenhouse:figma": "ok: 139 read, 0 kept",
+"greenhouse:okta": "ok: 361 read, 0 kept",
+"greenhouse:samsara": "ok: 318 read, 0 kept",
 "greenhouse:neuralink": "ok: 76 read, 6 kept",
+"greenhouse:datadog": "ok: 384 read, 0 kept",
+"greenhouse:cloudflare": "ok: 479 read, 0 kept",
 "greenhouse:tenstorrent": "ok: 133 read, 0 kept",
+"greenhouse:scaleai": "ok: 170 read, 0 kept",
 "greenhouse:xai": "ok: 296 read, 1 kept",
 "ashby:replit": "ok: 30 read, 2 kept",
-"greenhouse:cloudflare": "ok: 479 read, 0 kept",
-"ashby:lambda": "ok: 95 read, 0 kept",
 "greenhouse:axon": "ok: 502 read, 0 kept",
-"ashby:notion": "ok: 166 read, 0 kept",
+"ashby:lambda": "ok: 95 read, 0 kept",
+"amazon:network intern": "ok: 5 read, 1 kept",
+"amazon:IT support": "ok: 100 read, 19 kept",
+"amazon:help desk": "ok: 11 read, 0 kept",
+"ashby:notion": "ok: 165 read, 0 kept",
 "lever:palantir": "ok: 302 read, 9 kept",
+"amazon:data center technician": "ok: 100 read, 27 kept",
+"amazon:security intern": "ok: 12 read, 3 kept",
 "ashby:crusoe": "ok: 318 read, 0 kept",
 "github:LuisaE/opportunities": "ok: 46 read, 46 kept",
-"github:SimplifyJobs/New-Grad-Positions": "ok: 2335 read, 2335 kept",
 "amazon:IT intern": "ok: 1 read, 0 kept",
-"amazon:network intern": "ok: 5 read, 1 kept",
-"amazon:security intern": "ok: 12 read, 3 kept",
-"amazon:help desk": "ok: 11 read, 0 kept",
-"amazon:IT support": "ok: 100 read, 20 kept",
 "amazon:network technician": "ok: 100 read, 5 kept",
-"github:SimplifyJobs/Summer2027-Internships": "ok: 2800 read, 2800 kept",
-"ashby:openai": "ok: 839 read, 2 kept",
-"amazon:data center technician": "ok: 100 read, 27 kept",
-"greenhouse:spacex": "ok: 2758 read, 14 kept"
+"github:SimplifyJobs/Summer2027-Internships": "ok: 2784 read, 2784 kept",
+"greenhouse:spacex": "ok: 2757 read, 14 kept",
+"github:SimplifyJobs/New-Grad-Positions": "ok: 2323 read, 2323 kept",
+"ashby:openai": "ok: 837 read, 2 kept"
 },
 "carried_from_failed_sources": 0,
-"count": 943,
-"new_today": 17
+"count": 942,
+"new_today": 3
 },
 "listings": [
+{
+"section": "intern",
+"company": "Optimum (Altice USA)",
+"title": "Cybersecurity Operations Intern",
+"url": "https://go.vansh.nyc/1zM",
+"locations": [
+"Bethpage, NY"
+],
+"posted": "2026-11-15",
+"terms": [
+"Winter"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "acd1c7b29671",
+"tags": [
+"Security"
+],
+"underclass": false,
+"first_seen": "2026-11-15",
+"stale": false
+},
+{
+"section": "intern",
+"company": "USAA",
+"title": "Technology Intern",
+"url": "https://go.vansh.nyc/1zL",
+"locations": [
+"San Antonio, TX",
+"Plano, TX",
+"Phoenix, AZ"
+],
+"posted": "2026-11-14",
+"terms": [
+"Summer"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "7274c1192c00",
+"tags": [
+"IT & Support"
+],
+"underclass": false,
+"first_seen": "2026-11-15",
+"stale": false
+},
 {
 "section": "intern",
 "company": "NetApp",
@@ -119,6 +171,31 @@
 ],
 "underclass": false,
 "first_seen": "2026-11-14",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Cintas",
+"title": "OT Software Engineer Intern, IT",
+"url": "https://go.vansh.nyc/1zH",
+"locations": [
+"United States"
+],
+"posted": "2026-11-13",
+"terms": [
+"Summer"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "a6f58a49f1f7",
+"tags": [
+"IT & Support"
+],
+"underclass": false,
+"first_seen": "2026-11-15",
 "stale": false
 },
 {
@@ -4190,32 +4267,6 @@
 "reqs": null,
 "id": "466e31a8a45e",
 "tags": [
-"IT & Support"
-],
-"underclass": false,
-"first_seen": "2026-11-06",
-"stale": false
-},
-{
-"section": "intern",
-"company": "Valley Children's Specialty Medical Group",
-"title": "IT Security Intern",
-"url": "https://go.vansh.nyc/1kN",
-"locations": [
-"Madera, CA"
-],
-"posted": "2026-11-05",
-"terms": [
-"Spring"
-],
-"degrees": [],
-"sources": [
-"vanshb03/Summer2027-Internships"
-],
-"reqs": null,
-"id": "5cccffeda821",
-"tags": [
-"Security",
 "IT & Support"
 ],
 "underclass": false,
@@ -9740,35 +9791,6 @@
 },
 {
 "section": "intern",
-"company": "Qube Research & Technologies",
-"title": "Technology Intern",
-"url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8870423002",
-"locations": [
-"Chicago, IL",
-"NYC"
-],
-"posted": "2026-10-26",
-"terms": [
-"Summer 2027"
-],
-"degrees": [
-"Bachelor's",
-"Master's"
-],
-"sources": [
-"SimplifyJobs/Summer2027-Internships"
-],
-"reqs": null,
-"id": "f11d495e64c9",
-"tags": [
-"IT & Support"
-],
-"underclass": false,
-"first_seen": "2026-10-29",
-"stale": false
-},
-{
-"section": "intern",
 "company": "ADT",
 "title": "Cybersecurity & Risk Intern",
 "url": "https://go.vansh.nyc/UH",
@@ -10466,31 +10488,6 @@
 ],
 "underclass": false,
 "first_seen": "2026-11-05",
-"stale": false
-},
-{
-"section": "intern",
-"company": "Ixian Robotics",
-"title": "Hardware Intern",
-"url": "https://jobs.ashbyhq.com/ixianrobotics/f974d07a-0186-4cc9-8c63-ef962dd06f0b/application?embed=true",
-"locations": [
-"SF"
-],
-"posted": "2026-10-22",
-"terms": [
-"N/A"
-],
-"degrees": [],
-"sources": [
-"SimplifyJobs/Summer2027-Internships"
-],
-"reqs": null,
-"id": "b763c878fbad",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-28",
 "stale": false
 },
 {
@@ -19949,35 +19946,6 @@
 "id": "6175c0705548",
 "tags": [
 "Cloud & Infra"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "intern",
-"company": "Blue Origin",
-"title": "Electrical Systems Engineer Co-op - Fixed Term",
-"url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Los-Angeles-CA/Electronics-Electrical-Systems-Engineer-Co-Op_R71548",
-"locations": [
-"LA"
-],
-"posted": "2026-09-08",
-"terms": [
-"Winter 2027",
-"Spring 2027"
-],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/Summer2027-Internships"
-],
-"reqs": null,
-"id": "9d9317c401b0",
-"tags": [
-"Cloud & Infra",
-"Hardware"
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
