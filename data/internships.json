@@ -1,49 +1,154 @@
 {
 "meta": {
-"generated_at": "2026-11-21T20:43:31+00:00",
+"generated_at": "2026-11-22T20:54:10+00:00",
 "sources": {
-"github:vanshb03/New-Grad-2027": "ok: 823 read, 823 kept",
 "greenhouse:tanium": "ok: 65 read, 0 kept",
+"github:vanshb03/Summer2027-Internships": "ok: 2237 read, 2237 kept",
+"github:vanshb03/New-Grad-2027": "ok: 821 read, 821 kept",
+"greenhouse:okta": "ok: 373 read, 0 kept",
 "greenhouse:gitlab": "ok: 246 read, 1 kept",
+"greenhouse:figma": "ok: 147 read, 0 kept",
+"greenhouse:datadog": "ok: 382 read, 0 kept",
 "greenhouse:vercel": "ok: 86 read, 0 kept",
 "greenhouse:verkada": "ok: 352 read, 4 kept",
-"greenhouse:coreweave": "ok: 316 read, 9 kept",
-"github:vanshb03/Summer2027-Internships": "ok: 2238 read, 2238 kept",
-"greenhouse:cloudflare": "ok: 504 read, 0 kept",
-"greenhouse:okta": "ok: 372 read, 0 kept",
-"github:SimplifyJobs/Summer2027-Internships": "ok: 2707 read, 2707 kept",
+"greenhouse:samsara": "ok: 300 read, 0 kept",
+"greenhouse:coreweave": "ok: 321 read, 9 kept",
 "greenhouse:fastly": "ok: 48 read, 0 kept",
-"greenhouse:figma": "ok: 147 read, 0 kept",
+"greenhouse:cloudflare": "ok: 504 read, 0 kept",
+"github:SimplifyJobs/Summer2027-Internships": "ok: 2715 read, 2715 kept",
 "greenhouse:sambanovasystems": "ok: 74 read, 1 kept",
-"greenhouse:samsara": "ok: 298 read, 0 kept",
-"greenhouse:tenstorrent": "ok: 145 read, 0 kept",
-"greenhouse:datadog": "ok: 382 read, 0 kept",
 "greenhouse:neuralink": "ok: 77 read, 6 kept",
+"github:SimplifyJobs/New-Grad-Positions": "ok: 2229 read, 2229 kept",
+"greenhouse:tenstorrent": "ok: 145 read, 0 kept",
 "greenhouse:xai": "ok: 299 read, 0 kept",
-"greenhouse:scaleai": "ok: 169 read, 0 kept",
+"greenhouse:scaleai": "ok: 166 read, 0 kept",
 "ashby:replit": "ok: 38 read, 2 kept",
 "ashby:lambda": "ok: 96 read, 0 kept",
 "ashby:notion": "ok: 170 read, 0 kept",
-"ashby:crusoe": "ok: 316 read, 0 kept",
-"greenhouse:axon": "ok: 472 read, 0 kept",
-"github:SimplifyJobs/New-Grad-Positions": "ok: 2224 read, 2224 kept",
 "amazon:help desk": "ok: 9 read, 0 kept",
 "amazon:network intern": "ok: 4 read, 1 kept",
-"github:LuisaE/opportunities": "ok: 46 read, 46 kept",
-"amazon:security intern": "ok: 12 read, 3 kept",
-"amazon:data center technician": "ok: 100 read, 29 kept",
-"amazon:network technician": "ok: 100 read, 5 kept",
-"amazon:IT support": "ok: 100 read, 3 kept",
 "lever:palantir": "ok: 308 read, 9 kept",
-"ashby:openai": "ok: 852 read, 2 kept",
+"ashby:crusoe": "ok: 316 read, 0 kept",
+"github:LuisaE/opportunities": "ok: 46 read, 46 kept",
+"amazon:data center technician": "ok: 100 read, 19 kept",
+"greenhouse:axon": "ok: 472 read, 0 kept",
+"amazon:security intern": "ok: 12 read, 3 kept",
+"amazon:network technician": "ok: 100 read, 5 kept",
+"amazon:IT support": "ok: 100 read, 13 kept",
 "amazon:IT intern": "ok: 100 read, 10 kept",
-"greenhouse:spacex": "ok: 2841 read, 12 kept"
+"ashby:openai": "ok: 852 read, 2 kept",
+"greenhouse:spacex": "ok: 2845 read, 12 kept"
 },
 "carried_from_failed_sources": 0,
-"count": 967,
-"new_today": 28
+"count": 972,
+"new_today": 6
 },
 "listings": [
+{
+"section": "intern",
+"company": "Neros Technologies",
+"title": "Firmware/Embedded Software Engineer Intern",
+"url": "https://go.vansh.nyc/1Go",
+"locations": [
+"Torrance, CA"
+],
+"posted": "2026-11-22",
+"terms": [
+"Summer"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "3e881ce3deb3",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-11-22",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Neogen",
+"title": "Embedded Systems Engineer Intern",
+"url": "https://go.vansh.nyc/1Gp",
+"locations": [
+"Oakdale, MN"
+],
+"posted": "2026-11-22",
+"terms": [
+"Summer"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "3ae64f71f48a",
+"tags": [
+"Cloud & Infra",
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-11-22",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Fabri",
+"title": "DevOps, IT & Cybersecurity Intern",
+"url": "https://go.vansh.nyc/1Gk",
+"locations": [
+"Billerica, MA"
+],
+"posted": "2026-11-21",
+"terms": [
+"Summer"
+],
+"degrees": [],
+"sources": [
+"vanshb03/Summer2027-Internships"
+],
+"reqs": null,
+"id": "6c05c55c35ec",
+"tags": [
+"Security",
+"Cloud & Infra",
+"IT & Support"
+],
+"underclass": false,
+"first_seen": "2026-11-22",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Neros Technologies",
+"title": "Electrical Engineer Intern",
+"url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5273149007",
+"locations": [
+"Torrance, CA"
+],
+"posted": "2026-11-21",
+"terms": [
+"Summer 2027"
+],
+"degrees": [
+"Bachelor's"
+],
+"sources": [
+"SimplifyJobs/Summer2027-Internships"
+],
+"reqs": null,
+"id": "89f4d743863d",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-11-22",
+"stale": false
+},
 {
 "section": "intern",
 "company": "Southwest Power Pool",
@@ -1950,6 +2055,34 @@
 ],
 "underclass": false,
 "first_seen": "2026-11-17",
+"stale": false
+},
+{
+"section": "intern",
+"company": "RTX",
+"title": "Advanced Effector Guidance Systems Electrical Engineer Intern",
+"url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Advanced-Effector-Guidance-Systems-Electrical-Engineer-Intern--Summer-2027-_01870393-1",
+"locations": [
+"Tucson, AZ"
+],
+"posted": "2026-11-16",
+"terms": [
+"Summer 2027"
+],
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"sources": [
+"SimplifyJobs/Summer2027-Internships"
+],
+"reqs": null,
+"id": "8da4939dd861",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-11-22",
 "stale": false
 },
 {
@@ -18572,33 +18705,6 @@
 {
 "section": "intern",
 "company": "Tesla",
-"title": "Firmware Integration Engineer Intern - Factory Firmware",
-"url": "https://www.tesla.com/careers/search/job/284156",
-"locations": [
-"Austin, TX"
-],
-"posted": "2026-09-22",
-"terms": [
-"Spring 2027"
-],
-"degrees": [
-"Bachelor's"
-],
-"sources": [
-"SimplifyJobs/Summer2027-Internships"
-],
-"reqs": null,
-"id": "3496358dd5e4",
-"tags": [
-"Hardware"
-],
-"underclass": false,
-"first_seen": "2026-10-23",
-"stale": false
-},
-{
-"section": "intern",
-"company": "Tesla",
 "title": "Reliability Test Engineer Intern - Energy Engineering",
 "url": "https://www.tesla.com/careers/search/job/284278",
 "locations": [
@@ -19886,6 +19992,34 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-26",
+"stale": false
+},
+{
+"section": "intern",
+"company": "Allegion",
+"title": "Hardware Engineering Intern - Product Lifecycle Engineering",
+"url": "https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineering---Indianapolis--Indiana_JR37467",
+"locations": [
+"Indianapolis, IN"
+],
+"posted": "2026-09-11",
+"terms": [
+"N/A"
+],
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"sources": [
+"SimplifyJobs/Summer2027-Internships"
+],
+"reqs": null,
+"id": "748f3b739736",
+"tags": [
+"Hardware"
+],
+"underclass": false,
+"first_seen": "2026-11-22",
 "stale": false
 },
 {
