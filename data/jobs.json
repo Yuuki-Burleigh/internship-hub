@@ -1,49 +1,75 @@
 {
 "meta": {
-"generated_at": "2026-11-26T23:26:00+00:00",
+"generated_at": "2026-11-27T23:08:03+00:00",
 "sources": {
-"greenhouse:tanium": "ok: 68 read, 0 kept",
-"github:vanshb03/Summer2027-Internships": "ok: 2270 read, 2270 kept",
-"greenhouse:datadog": "ok: 392 read, 0 kept",
-"greenhouse:samsara": "ok: 298 read, 0 kept",
+"github:vanshb03/Summer2027-Internships": "ok: 2240 read, 2240 kept",
+"greenhouse:verkada": "ok: 349 read, 4 kept",
+"greenhouse:tanium": "ok: 67 read, 0 kept",
+"greenhouse:gitlab": "ok: 244 read, 1 kept",
+"greenhouse:samsara": "ok: 292 read, 0 kept",
+"greenhouse:datadog": "ok: 390 read, 0 kept",
 "greenhouse:okta": "ok: 360 read, 0 kept",
-"github:vanshb03/New-Grad-2027": "ok: 827 read, 827 kept",
-"greenhouse:vercel": "ok: 86 read, 0 kept",
-"greenhouse:gitlab": "ok: 242 read, 1 kept",
-"greenhouse:fastly": "ok: 51 read, 0 kept",
-"greenhouse:figma": "ok: 141 read, 1 kept",
 "greenhouse:coreweave": "ok: 317 read, 10 kept",
-"greenhouse:xai": "ok: 300 read, 0 kept",
+"greenhouse:figma": "ok: 140 read, 1 kept",
+"greenhouse:vercel": "ok: 85 read, 0 kept",
 "greenhouse:sambanovasystems": "ok: 90 read, 4 kept",
+"greenhouse:fastly": "ok: 51 read, 0 kept",
+"github:vanshb03/New-Grad-2027": "ok: 822 read, 822 kept",
 "greenhouse:neuralink": "ok: 75 read, 7 kept",
-"greenhouse:verkada": "ok: 350 read, 4 kept",
-"greenhouse:tenstorrent": "ok: 154 read, 0 kept",
+"greenhouse:xai": "ok: 300 read, 0 kept",
 "greenhouse:scaleai": "ok: 158 read, 0 kept",
+"greenhouse:tenstorrent": "ok: 153 read, 0 kept",
 "ashby:replit": "ok: 38 read, 2 kept",
-"greenhouse:cloudflare": "ok: 528 read, 0 kept",
 "ashby:lambda": "ok: 101 read, 0 kept",
-"ashby:crusoe": "ok: 302 read, 0 kept",
+"greenhouse:cloudflare": "ok: 533 read, 0 kept",
+"github:SimplifyJobs/New-Grad-Positions": "ok: 2169 read, 2169 kept",
+"github:SimplifyJobs/Summer2027-Internships": "ok: 2702 read, 2702 kept",
 "ashby:notion": "ok: 174 read, 0 kept",
-"greenhouse:axon": "ok: 458 read, 0 kept",
-"github:SimplifyJobs/New-Grad-Positions": "ok: 2180 read, 2180 kept",
-"github:SimplifyJobs/Summer2027-Internships": "ok: 2708 read, 2708 kept",
-"amazon:help desk": "ok: 9 read, 0 kept",
+"ashby:crusoe": "ok: 301 read, 0 kept",
+"lever:palantir": "ok: 305 read, 9 kept",
+"github:LuisaE/opportunities": "ok: 46 read, 46 kept",
+"amazon:data center technician": "ok: 100 read, 20 kept",
+"amazon:IT support": "ok: 100 read, 4 kept",
 "amazon:network intern": "ok: 4 read, 1 kept",
 "amazon:security intern": "ok: 12 read, 3 kept",
-"amazon:data center technician": "ok: 100 read, 20 kept",
-"github:LuisaE/opportunities": "ok: 46 read, 46 kept",
-"amazon:IT support": "ok: 100 read, 5 kept",
+"greenhouse:axon": "ok: 458 read, 0 kept",
+"amazon:help desk": "ok: 9 read, 0 kept",
+"amazon:network technician": "ok: 100 read, 5 kept",
 "amazon:IT intern": "ok: 100 read, 8 kept",
 "ashby:openai": "ok: 876 read, 1 kept",
-"amazon:network technician": "ok: 100 read, 5 kept",
-"greenhouse:spacex": "ok: 2889 read, 10 kept",
-"lever:palantir": "ok: 305 read, 9 kept"
+"greenhouse:spacex": "ok: 2890 read, 10 kept"
 },
 "carried_from_failed_sources": 0,
-"count": 550,
-"new_today": 9
+"count": 551,
+"new_today": 2
 },
 "listings": [
+{
+"section": "qualify",
+"company": "Amazon",
+"title": "IT Support Engineer I, OpsTech Solutions (OTS)",
+"url": "https://www.amazon.jobs/en/jobs/10615902/it-support-engineer-i-opstech-solutions-ots",
+"locations": [
+"Castleton, NY"
+],
+"posted": "2026-11-27",
+"terms": [],
+"degrees": [],
+"sources": [
+"amazon:IT support"
+],
+"reqs": {
+"degree": "high school",
+"years": 1
+},
+"id": "01f8d9fa46ea",
+"tags": [
+"IT & Support"
+],
+"underclass": false,
+"first_seen": "2026-11-27",
+"stale": false
+},
 {
 "section": "qualify",
 "company": "Amazon",
@@ -244,27 +270,6 @@
 "stale": false
 },
 {
-"section": "newgrad",
-"company": "Peraton",
-"title": "New Grad 2027: Software Engineering, Ignite Innovator Pgm",
-"url": "https://go.vansh.nyc/1I8",
-"locations": [
-"Blacksburg, VA"
-],
-"posted": "2026-11-24",
-"terms": [],
-"degrees": [],
-"sources": [
-"vanshb03/New-Grad-2027"
-],
-"reqs": null,
-"id": "ed26007e5217",
-"tags": [],
-"underclass": true,
-"first_seen": "2026-11-24",
-"stale": false
-},
-{
 "section": "qualify",
 "company": "CoreWeave",
 "title": "Data Center Technician - Kenilworth, NJ",
@@ -287,6 +292,27 @@
 "Cloud & Infra"
 ],
 "underclass": false,
+"first_seen": "2026-11-24",
+"stale": false
+},
+{
+"section": "newgrad",
+"company": "Peraton",
+"title": "New Grad 2027: Software Engineering, Ignite Innovator Pgm",
+"url": "https://go.vansh.nyc/1I8",
+"locations": [
+"Blacksburg, VA"
+],
+"posted": "2026-11-24",
+"terms": [],
+"degrees": [],
+"sources": [
+"vanshb03/New-Grad-2027"
+],
+"reqs": null,
+"id": "ed26007e5217",
+"tags": [],
+"underclass": true,
 "first_seen": "2026-11-24",
 "stale": false
 },
@@ -5185,32 +5211,6 @@
 "stale": false
 },
 {
-"section": "qualify",
-"company": "SpaceX",
-"title": "Data Center Technician",
-"url": "https://boards.greenhouse.io/spacex/jobs/8919885002?gh_jid=8919885002",
-"locations": [
-"Bastrop, TX"
-],
-"posted": "2026-10-27",
-"terms": [],
-"degrees": [],
-"sources": [
-"greenhouse:spacex"
-],
-"reqs": {
-"degree": "high school",
-"years": null
-},
-"id": "6a7ae693b674",
-"tags": [
-"Cloud & Infra"
-],
-"underclass": false,
-"first_seen": "2026-11-24",
-"stale": false
-},
-{
 "section": "newgrad",
 "company": "SambaNova Systems",
 "title": "Post-Silicon Validation Engineer New Grad",
@@ -7770,6 +7770,32 @@
 ],
 "underclass": false,
 "first_seen": "2026-10-23",
+"stale": false
+},
+{
+"section": "qualify",
+"company": "SpaceX",
+"title": "Data Center Technician",
+"url": "https://boards.greenhouse.io/spacex/jobs/8861870002?gh_jid=8861870002",
+"locations": [
+"Starbase, TX"
+],
+"posted": "2026-10-02",
+"terms": [],
+"degrees": [],
+"sources": [
+"greenhouse:spacex"
+],
+"reqs": {
+"degree": "high school",
+"years": null
+},
+"id": "4e8149b5fe7a",
+"tags": [
+"Cloud & Infra"
+],
+"underclass": false,
+"first_seen": "2026-11-27",
 "stale": false
 },
 {
